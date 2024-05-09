@@ -1,0 +1,11 @@
+# Mac OS system files
+*.DS_Store
+
+# Sublime files
+*.sublime-*
+
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
