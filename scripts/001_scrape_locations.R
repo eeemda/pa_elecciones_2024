@@ -31,7 +31,7 @@ candidatos_df <- candidatos_df %>%
     select(-partidos)
 
 # Get names and ids of all subnational units ####################################
-# Provincias, distritos, corregimientos, centros, y mesas
+# Provincias, distritos, corregimientos, y centros
 
 provincias_json <- fromJSON("https://data-resultados.te.gob.pa/presentacion/eventos/100/circunscripciones/index.json?sv=2023-01-03&ss=btqf&srt=sco&st=2024-03-23T14%3A48%3A10Z&se=2024-12-31T05%3A00%3A00Z&sp=rl&sig=qcdoSERIfwIvRYX3M0HyeZyOvbNjA4MMWVRI8MCsfOA%3D")
 
