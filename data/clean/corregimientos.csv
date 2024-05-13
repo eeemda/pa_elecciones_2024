@@ -1,0 +1,704 @@
+key,provinciaId,distritoId,corregimientoId,codigo,nombre_corregimiento,cabecera
+953343,1,0,1,1,Bocas Del T. ,1
+953467,1,0,5,5,Punta Laurel,0
+953591,1,0,9,9,Tierra Oscura,0
+953622,1,0,10,10,Boca De Drago,0
+953653,1,0,11,11,San Cristobal,0
+953684,1,0,12,12,Isla Bastimento,0
+954304,1,1,1,1,Changuinola ,1
+954366,1,1,3,3,Guabito,0
+954459,1,1,6,6,El Empalme,0
+954490,1,1,7,7,Las Tablas,0
+954583,1,1,10,10,Las Delicias,0
+954614,1,1,11,11,Cochigró,0
+954645,1,1,12,12,La Gloria,0
+954676,1,1,13,13,Finca 60,0
+954707,1,1,14,14,Finca 6,0
+954738,1,1,15,15,Barriada 4 De Abril,0
+954769,1,1,16,16,Finca 30,0
+954800,1,1,17,17,El Silencio,0
+954831,1,1,18,18,Finca 66,0
+954862,1,1,19,23,Finca 12,0
+954893,1,1,20,19,Finca 51,0
+954924,1,1,21,20,Finca 4,0
+954955,1,1,22,21,Barranco Adentro,0
+954986,1,1,23,22,La Mesa,0
+955265,1,2,1,1,Chiriquí G. ,1
+955420,1,2,6,6,Punta Robalo,0
+955482,1,2,8,8,Miramar,0
+955513,1,2,9,9,Punta Peña,0
+955544,1,2,10,10,Rambala,0
+955575,1,2,11,11,Bajo Cedro,0
+956226,1,3,1,1,Almirante,0
+956257,1,3,2,2,Valle De Aguas Arriba,0
+956288,1,3,3,3,Valle De Risco,0
+956319,1,3,4,4,Nance De Risco,0
+956350,1,3,5,5,Barrio Francés,0
+956381,1,3,6,6,Barriada Guaymí,0
+956412,1,3,7,7,Cauchero,0
+956443,1,3,8,8,Miraflores,0
+956474,1,3,9,9,Bajo Culubre,0
+956505,1,3,10,10,Ceiba,0
+983134,2,0,1,1,Aguadulce ,1
+983165,2,0,2,2,El Cristo,0
+983196,2,0,3,3,El Roble,0
+983227,2,0,4,4,Pocrí,0
+983258,2,0,5,5,Barrios Unidos,0
+983289,2,0,6,6,Pueblos Unidos,0
+983320,2,0,7,7,Virgen Del Carmen,0
+983351,2,0,8,8,Hato De San Juan De Dios,0
+984095,2,1,1,1,Antón ,1
+984126,2,1,2,2,Cabuya,0
+984157,2,1,3,3,El Chirú,0
+984188,2,1,4,4,El Retiro,0
+984219,2,1,5,5,El Valle,0
+984250,2,1,6,6,Juan Díaz,0
+984281,2,1,7,7,Río Hato,0
+984312,2,1,8,8,San Juan De Dios,0
+984343,2,1,9,9,Santa Rita,0
+984374,2,1,10,10,Caballero,0
+985056,2,2,1,1,La Pintada ,1
+985087,2,2,2,2,El Harino,0
+985118,2,2,3,3,El Potrero,0
+985149,2,2,4,4,Llano Grande,0
+985180,2,2,5,5,Piedras Gordas,0
+985211,2,2,6,6,Las Lomas,0
+985242,2,2,7,7,Llano Norte,0
+986017,2,3,1,1,Natá ,1
+986048,2,3,2,2,Capellanía,0
+986079,2,3,3,3,El Caño,0
+986110,2,3,4,4,Guzmán,0
+986141,2,3,5,5,Las Huacas,0
+986172,2,3,6,6,Toza,0
+986203,2,3,7,9,Villarreal,0
+986978,2,4,1,1,Olá ,1
+987009,2,4,2,2,El Copé,0
+987040,2,4,3,3,El Palmar,0
+987071,2,4,4,4,El Picacho,0
+987102,2,4,5,5,La Pava,0
+987939,2,5,1,1,Penonomé ,1
+987970,2,5,2,2,Cañaveral,0
+988001,2,5,3,3,Coclé,0
+988032,2,5,4,4,Chiguirí Arriba,0
+988063,2,5,5,5,El Coco,0
+988094,2,5,6,6,Pajonal,0
+988125,2,5,7,7,Río Grande,0
+988156,2,5,8,8,Río Indio,0
+988187,2,5,9,9,Toabré,0
+988218,2,5,10,10,Tulú,0
+988249,2,5,11,11,Boca De Tucué,0
+988280,2,5,12,12,San Miguel,0
+988311,2,5,13,13,Candelario Ovalle,0
+988342,2,5,14,14,General Victoriano Lorenzo,0
+988373,2,5,15,15,Riecito,0
+988404,2,5,16,16,Las Minas,0
+1012925,3,0,1,1,Barrio Norte,0
+1012956,3,0,2,2,Barrio Sur,0
+1012987,3,0,3,3,Buena Vista,0
+1013018,3,0,4,4,Cativá,0
+1013049,3,0,5,5,Ciricito,0
+1013080,3,0,6,6,Cristobal,0
+1013111,3,0,7,7,Escobal,0
+1013142,3,0,8,8,Limón,0
+1013173,3,0,9,9,Nueva Providencia,0
+1013204,3,0,10,10,Puerto Pilón,0
+1013235,3,0,11,11,Sabanitas,0
+1013266,3,0,12,12,Salamanca,0
+1013297,3,0,13,13,San Juan,0
+1013328,3,0,14,14,Santa Rosa,0
+1013359,3,0,15,15,Cristobal Este,0
+1013886,3,1,1,1,Nvo. Chagres ,1
+1013917,3,1,2,2,Achiote,0
+1013948,3,1,3,3,El Guabo,0
+1013979,3,1,4,4,La Encantada,0
+1014010,3,1,5,5,Palmas Bellas,0
+1014041,3,1,6,6,Piña,0
+1014072,3,1,7,7,Salud,0
+1014847,3,2,1,1,M. De La Borda ,1
+1014878,3,2,2,2,Coclé Del Norte,0
+1014909,3,2,3,3,El Guásimo,0
+1014940,3,2,4,4,Gobea,0
+1014971,3,2,5,5,Río Indio,0
+1015808,3,3,1,1,Portobelo ,1
+1015839,3,3,2,2,Cacique,0
+1015870,3,3,3,3,Garrote,0
+1015901,3,3,4,4,Isla Grande,0
+1015932,3,3,5,5,María Chiquita,0
+1016769,3,4,1,1,Palenque ,1
+1016800,3,4,2,2,Cuango,0
+1016831,3,4,3,3,Miramar,0
+1016862,3,4,4,4,Nombre De Dios,0
+1016893,3,4,5,5,Palmira,0
+1016924,3,4,6,6,Playa Chiquita,0
+1016955,3,4,7,7,Santa Isabel,0
+1016986,3,4,8,8,Viento Frío,0
+1017730,3,5,1,1,San José Del General,0
+1017761,3,5,2,2,San Juan De Turbe,0
+1017792,3,5,3,3,Nueva Esperanza,0
+1042716,4,0,1,1,Alanje ,1
+1042747,4,0,2,2,Divalá,0
+1042778,4,0,3,3,El Tejar,0
+1042809,4,0,4,4,Guarumal,0
+1042840,4,0,5,5,Palo Grande,0
+1042871,4,0,6,6,Querévalo,0
+1042902,4,0,7,7,Santo Tomás,0
+1042933,4,0,8,8,Canta Gallo,0
+1042964,4,0,9,9,Nuevo México,0
+1043677,4,1,1,1,Pto. Armuelles ,1
+1043708,4,1,2,2,Limones,0
+1043739,4,1,3,3,Progreso,0
+1043770,4,1,4,4,Baco,0
+1043801,4,1,5,5,Rodolfo Aguilar Delgado,0
+1043832,4,1,6,6,El Palmar,0
+1043863,4,1,7,7,Manaca,0
+1044638,4,2,1,1,Boquerón ,1
+1044669,4,2,2,2,Bágala,0
+1044700,4,2,3,3,Cordillera,0
+1044731,4,2,4,4,Guabal,0
+1044762,4,2,5,5,Guayabal,0
+1044793,4,2,6,6,Paraíso,0
+1044824,4,2,7,7,Pedregal,0
+1044855,4,2,8,8,Tijeras,0
+1045599,4,3,1,1,Bajo Boquete ,1
+1045630,4,3,2,2,Caldera,0
+1045661,4,3,3,3,Palmira,0
+1045692,4,3,4,4,Alto Boquete,0
+1045723,4,3,5,5,Jaramillo,0
+1045754,4,3,6,6,Los Naranjos,0
+1046560,4,4,1,1,La Concepción ,1
+1046591,4,4,2,2,Aserrío De Gariché,0
+1046622,4,4,3,3,Bugaba,0
+1046684,4,4,5,5,Gómez,0
+1046715,4,4,6,6,La Estrella,0
+1046746,4,4,7,7,San Andrés,0
+1046777,4,4,8,8,Santa Marta,0
+1046808,4,4,9,9,Santa Rosa,0
+1046839,4,4,10,10,Santo Domingo,0
+1046870,4,4,11,11,Sortová,0
+1046932,4,4,13,13,El Bongo,0
+1046963,4,4,14,14,Solano,0
+1046994,4,4,15,15,San Isidro,0
+1047521,4,5,1,1,David ,1
+1047552,4,5,2,2,Bijagual,0
+1047583,4,5,3,3,Cochea,0
+1047614,4,5,4,4,Chiriquí,0
+1047645,4,5,5,5,Guacá,0
+1047676,4,5,6,6,Las Lomas,0
+1047707,4,5,7,7,Pedregal,0
+1047738,4,5,8,8,San Carlos,0
+1047769,4,5,9,9,San Pablo Nuevo,0
+1047800,4,5,10,10,San Pablo Viejo,0
+1047831,4,5,11,11,David Este,0
+1047862,4,5,12,12,David Sur,0
+1048482,4,6,1,1,Dolega ,1
+1048513,4,6,2,2,Dos Ríos,0
+1048544,4,6,3,3,Los Anastacios,0
+1048575,4,6,4,4,Potrerillos,0
+1048606,4,6,5,5,Potrerillos Abajo,0
+1048637,4,6,6,6,Rovira,0
+1048668,4,6,7,7,Tinajas,0
+1048699,4,6,8,8,Los Algarrobos,0
+1049443,4,7,1,1,Gualaca ,1
+1049474,4,7,2,2,Hornito,0
+1049505,4,7,3,3,Los Ángeles,0
+1049536,4,7,4,4,Paja De Sombrero,0
+1049567,4,7,5,5,Rincón,0
+1050404,4,8,1,1,Remedios ,1
+1050466,4,8,3,3,El Nancito,0
+1050559,4,8,6,6,El Porvenir,0
+1050590,4,8,7,7,El Puerto,0
+1050621,4,8,8,8,Santa Lucía,0
+1051365,4,9,1,1,Río Sereno ,1
+1051396,4,9,2,2,Breñón,0
+1051427,4,9,3,3,Cañas Gordas,0
+1051458,4,9,4,4,Monte Lirio,0
+1051489,4,9,5,5,Plaza De Caisán,0
+1051520,4,9,6,6,Santa Cruz,0
+1051551,4,9,7,7,Santa Clara,0
+1051582,4,9,8,8,Dominical,0
+1052326,4,10,1,1,Horconcitos ,1
+1052357,4,10,2,2,Boca Chica,0
+1052419,4,10,4,4,Boca Del Monte,0
+1052574,4,10,9,9,San Juan,0
+1052605,4,10,10,10,San Lorenzo,0
+1053287,4,11,1,1,Tolé ,1
+1053442,4,11,6,6,Cerro Viejo,0
+1053504,4,11,8,8,Lajas De Tolé,0
+1053597,4,11,11,11,Potrero De Caña,0
+1053628,4,11,12,12,Qda. De Piedra,0
+1053690,4,11,14,14,Bella Vista,0
+1053721,4,11,15,15,El Cristo,0
+1053752,4,11,16,16,Justo Fidel Palacios,0
+1053783,4,11,17,17,Veladero,0
+1054248,4,12,1,1,Las Lajas ,1
+1054465,4,12,8,8,Juay,0
+1054558,4,12,11,11,San Félix,0
+1054589,4,12,12,12,Lajas Adentro,0
+1054620,4,12,13,13,Santa Cruz,0
+1055209,4,13,1,1,Cuesta De Piedra,0
+1055240,4,13,2,2,Volcán,0
+1055271,4,13,3,3,Paso Ancho,0
+1055302,4,13,4,4,Cerro Punta,0
+1055333,4,13,5,5,Nueva California,0
+1072507,5,0,1,1,La Palma ,1
+1072538,5,0,2,2,Camogantí,0
+1072569,5,0,3,3,Chepigana,0
+1072600,5,0,4,4,Garachiné,0
+1072631,5,0,5,5,Jaqué,0
+1072662,5,0,6,6,Puerto Piña,0
+1072755,5,0,9,9,Sambú,0
+1072786,5,0,10,10,Setegantí,0
+1072817,5,0,11,11,Taimatí,0
+1072848,5,0,12,12,Tucutí,0
+1073468,5,1,1,1,El Real S.m. ,1
+1073499,5,1,2,2,Boca De Cupe,0
+1073530,5,1,3,3,Paya,0
+1073561,5,1,4,4,Pinogana,0
+1073592,5,1,5,5,Púcuro,0
+1073623,5,1,6,6,Yape,0
+1073654,5,1,7,7,Yaviza,0
+1073685,5,1,8,8,Metetí,0
+1076351,5,4,1,1,Agua Fria,0
+1076382,5,4,2,2,Cucunatí,0
+1076413,5,4,3,3,Río Congo,0
+1076444,5,4,4,4,Río Congo Arriba,0
+1076475,5,4,5,5,Río Iglesias,0
+1076506,5,4,6,6,Santa Fe,0
+1076537,5,4,7,7,Zapallal,0
+1102298,6,0,1,1,Chitré ,1
+1102329,6,0,2,2,La Arena,0
+1102360,6,0,3,3,Monagrillo,0
+1102391,6,0,4,4,San Juan Bautista,0
+1102422,6,0,5,5,Llano Bonito,0
+1103259,6,1,1,1,Las Minas ,1
+1103290,6,1,2,2,Chepo,0
+1103321,6,1,3,3,Chumical,0
+1103352,6,1,4,4,El Toro,0
+1103383,6,1,5,5,Leones,0
+1103414,6,1,6,6,Qda. Del Rosario,0
+1103445,6,1,7,7,Quebrada El Ciprián,0
+1104220,6,2,1,1,Los Pozos ,1
+1104251,6,2,2,2,Capurí,0
+1104282,6,2,3,3,El Calabacito,0
+1104313,6,2,4,4,El Cedro,0
+1104344,6,2,5,5,La Arena,0
+1104375,6,2,6,6,La Pitaloza,0
+1104406,6,2,7,7,Los Cerritos,0
+1104437,6,2,8,8,Los Cerros De Paja,0
+1104468,6,2,9,9,Las Llanas,0
+1105181,6,3,1,1,Ocú ,1
+1105212,6,3,2,2,Cerro Largo,0
+1105243,6,3,3,3,Los Llanos,0
+1105274,6,3,4,4,Llano Grande,0
+1105305,6,3,5,5,Peñas Chatas,0
+1105336,6,3,6,6,El Tijera,0
+1105367,6,3,7,7,Menchaca,0
+1105398,6,3,8,8,Entradero Del Castillo,0
+1106142,6,4,1,1,Parita ,1
+1106173,6,4,2,2,Cabuya,0
+1106204,6,4,3,3,Los Castillos,0
+1106235,6,4,4,4,Llano De La Cruz,0
+1106266,6,4,5,5,París,0
+1106297,6,4,6,6,Portobelillo,0
+1106328,6,4,7,7,Potuga,0
+1107103,6,5,1,1,Pesé ,1
+1107134,6,5,2,2,Las Cabras,0
+1107165,6,5,3,3,El Pájaro,0
+1107196,6,5,4,4,El Barrero,0
+1107227,6,5,5,5,El Pedregoso,0
+1107258,6,5,6,6,El Ciruelo,0
+1107289,6,5,7,7,Sabana Grande,0
+1107320,6,5,8,8,Rincón Hondo,0
+1108064,6,6,1,1,Santa María ,1
+1108095,6,6,2,2,Chupampa,0
+1108126,6,6,3,3,El Rincón,0
+1108157,6,6,4,4,El Limón,0
+1108188,6,6,5,5,Los Canelos,0
+1132089,7,0,1,1,Guararé ,1
+1132120,7,0,2,2,El Espinal,0
+1132151,7,0,3,3,El Macano,0
+1132182,7,0,4,4,Guararé Arriba,0
+1132213,7,0,5,5,La Enea,0
+1132244,7,0,6,6,La Pasera,0
+1132275,7,0,7,7,Las Trancas,0
+1132306,7,0,8,8,Llano Abajo,0
+1132337,7,0,9,9,El Hato,0
+1132368,7,0,10,10,Perales,0
+1133050,7,1,1,1,Las Tablas ,1
+1133081,7,1,2,2,Bajo Corral,0
+1133112,7,1,3,3,Bayano,0
+1133143,7,1,4,4,Carate,0
+1133174,7,1,5,5,El Cocal,0
+1133205,7,1,6,6,El Manantial,0
+1133236,7,1,7,7,El Muñoz,0
+1133267,7,1,8,8,El Pedregoso,0
+1133298,7,1,9,9,La Laja,0
+1133329,7,1,10,10,La Miel,0
+1133360,7,1,11,11,La Palma,0
+1133391,7,1,12,12,La Tiza,0
+1133422,7,1,13,13,Las Palmitas,0
+1133453,7,1,14,14,Las Tablas Abajo,0
+1133484,7,1,15,15,Nuario,0
+1133515,7,1,16,16,Palmira,0
+1133546,7,1,17,17,Peña Blanca,0
+1133577,7,1,18,18,Río Hondo,0
+1133608,7,1,19,19,San José,0
+1133639,7,1,20,20,San Miguel,0
+1133670,7,1,21,21,Santo Domingo,0
+1133701,7,1,22,22,El Sesteadero,0
+1133732,7,1,23,23,Valle Rico,0
+1133763,7,1,24,24,Vallerriquito,0
+1134011,7,2,1,1,La Villa De Los Santos,0
+1134042,7,2,2,2,El Guásimo,0
+1134073,7,2,3,3,La Colorada,0
+1134104,7,2,4,4,La Espigadilla,0
+1134135,7,2,5,5,Las Cruces,0
+1134166,7,2,6,6,Las Guabas,0
+1134197,7,2,7,7,Los Ángeles,0
+1134228,7,2,8,8,Los Olivos,0
+1134259,7,2,9,9,Llano Largo,0
+1134290,7,2,10,10,Sabanagrande,0
+1134321,7,2,11,11,Santa Ana,0
+1134352,7,2,12,12,Tres Quebradas,0
+1134383,7,2,13,13,Villa Lourdes,0
+1134414,7,2,14,14,Agua Buena,0
+1134445,7,2,15,15,El Ejido,0
+1134972,7,3,1,1,Macaracas ,1
+1135003,7,3,2,2,Bahía Honda,0
+1135034,7,3,3,3,Bajos De Güera,0
+1135065,7,3,4,4,Corozal,0
+1135096,7,3,5,5,Chupá,0
+1135127,7,3,6,6,El Cedro,0
+1135158,7,3,7,7,Espino Amarillo,0
+1135189,7,3,8,8,La Mesa,0
+1135220,7,3,9,9,Las Palmas,0
+1135251,7,3,10,10,Llano De Piedra,0
+1135282,7,3,11,11,Mogollón,0
+1135933,7,4,1,1,Pedasí ,1
+1135964,7,4,2,2,Los Asientos,0
+1135995,7,4,3,3,Mariabé,0
+1136026,7,4,4,4,Púrio,0
+1136057,7,4,5,5,Oria Arriba,0
+1136894,7,5,1,1,Pocrí ,1
+1136925,7,5,2,2,El Cañafístulo,0
+1136956,7,5,3,3,Lajaminas,0
+1136987,7,5,4,4,Paraíso,0
+1137018,7,5,5,5,Paritilla,0
+1137855,7,6,1,1,Tonosí ,1
+1137886,7,6,2,2,Altos De Güera,0
+1137917,7,6,3,3,Cañas,0
+1137948,7,6,4,4,El Bebedero,0
+1137979,7,6,5,5,El Cacao,0
+1138010,7,6,6,6,El Cortezo,0
+1138041,7,6,7,7,Flores,0
+1138072,7,6,8,8,Guánico,0
+1138103,7,6,9,9,La Tronosa,0
+1138134,7,6,10,10,Cambutal,0
+1138165,7,6,11,11,Isla De Cañas,0
+1162841,8,1,1,1,San Miguel ,1
+1162872,8,1,2,2,La Ensenada,0
+1162903,8,1,3,3,La Esmeralda,0
+1162934,8,1,4,4,La Guinea,0
+1162965,8,1,5,5,Pedro González,0
+1162996,8,1,6,6,Saboga,0
+1165724,8,4,1,1,Chepo ,1
+1165755,8,4,2,2,Cañita,0
+1165786,8,4,3,3,Chepillo,0
+1165817,8,4,4,4,El Llano,0
+1165848,8,4,5,5,Las Margaritas,0
+1165879,8,4,6,6,Sta. Cruz De Chinina,0
+1165910,8,4,7,7,Tortí,0
+1166685,8,5,1,1,Chimán ,1
+1166716,8,5,2,2,Brujas,0
+1166747,8,5,3,3,Gonzalo Vásquez,0
+1166778,8,5,4,4,Unión Santeña,0
+1166809,8,5,5,5,Pásiga,0
+1168607,8,7,1,1,San Felipe,0
+1168638,8,7,2,2,El Chorrillo,0
+1168669,8,7,3,3,Santa Ana,0
+1168700,8,7,4,4,Calidonia,0
+1168731,8,7,5,5,Curundú,0
+1168762,8,7,6,6,Betania,0
+1168793,8,7,7,7,Bella Vista,0
+1168824,8,7,8,8,Pueblo Nuevo,0
+1168855,8,7,9,9,San Francisco,0
+1168886,8,7,10,10,Parque Lefevre,0
+1168917,8,7,11,11,Río Abajo,0
+1168948,8,7,12,12,Juan Díaz,0
+1168979,8,7,13,13,Pedregal,0
+1169010,8,7,14,14,Ancón,0
+1169041,8,7,15,15,Chilibre,0
+1169072,8,7,16,16,Las Cumbres,0
+1169103,8,7,17,17,Pacora,0
+1169134,8,7,18,18,San Martín,0
+1169165,8,7,19,19,Tocumen,0
+1169196,8,7,20,20,Las Mañanitas,0
+1169227,8,7,21,21,24 De Diciembre,0
+1169258,8,7,22,22,Alcalde Díaz,0
+1169289,8,7,23,23,Ernesto Córdoba Campos,0
+1171676,8,7,100,25,Don Bosco,0
+1171707,8,7,101,26,Las Garzas,0
+1171738,8,7,102,27,Caimitillo,0
+1170529,8,9,1,1,Amelia D. De Icaza,0
+1170560,8,9,2,2,Belisario Porras,0
+1170591,8,9,3,3,José D. Espinar,0
+1170622,8,9,4,4,Mateo Iturralde,0
+1170653,8,9,5,5,Victoriano Lorenzo,0
+1170684,8,9,6,6,Arnulfo Arias,0
+1170715,8,9,7,7,Belisario Frías,0
+1170746,8,9,8,8,Omar Torrijos,0
+1170777,8,9,9,9,Rufina Alfaro,0
+1172451,8,11,1,1,Taboga ,1
+1172482,8,11,2,2,Otoque Occidente,0
+1172513,8,11,3,3,Otoque Oriente,0
+1311796,13,1,1,1,Arraiján ,1
+1311827,13,1,2,2,Juan D. Arosemena,0
+1311858,13,1,3,3,Nuevo Emperador,0
+1311889,13,1,4,4,Santa Clara,0
+1311920,13,1,5,5,Veracruz,0
+1311951,13,1,6,6,Vista Alegre,0
+1311982,13,1,7,7,Burunga,0
+1312013,13,1,8,8,Cerro Silvestre,0
+1312044,13,1,9,9,Vacamonte,0
+1312757,13,2,1,1,Capira ,1
+1312788,13,2,2,2,Caimito,0
+1312819,13,2,3,3,Campana,0
+1312850,13,2,4,4,Cermeño,0
+1312881,13,2,5,5,Cirí De Los Sotos,0
+1312912,13,2,6,6,Cirí Grande,0
+1312943,13,2,7,7,El Cacao,0
+1312974,13,2,8,8,La Trinidad,0
+1313005,13,2,9,9,Las Ollas Arriba,0
+1313036,13,2,10,10,Lídice,0
+1313067,13,2,11,11,Villa Carmen,0
+1313098,13,2,12,12,Villa Rosario,0
+1313129,13,2,13,13,Santa Rosa,0
+1313718,13,3,1,1,Chame ,1
+1313749,13,3,2,2,Bejuco,0
+1313780,13,3,3,3,Buenos Aires,0
+1313811,13,3,4,4,Cabuya,0
+1313842,13,3,5,5,Chicá,0
+1313873,13,3,6,6,El Líbano,0
+1313904,13,3,7,7,Las Lajas,0
+1313935,13,3,8,8,Nueva Gorgona,0
+1313966,13,3,9,9,Punta Chame,0
+1313997,13,3,10,10,Sajalices,0
+1314028,13,3,11,11,Sorá,0
+1314679,13,4,1,1,Barrio Balboa,0
+1314710,13,4,2,2,Barrio Colón,0
+1314741,13,4,3,3,Amador,0
+1314772,13,4,4,4,Arosemena,0
+1314803,13,4,5,5,El Arado,0
+1314834,13,4,6,6,El Coco,0
+1314865,13,4,7,7,Feuillet,0
+1314896,13,4,8,8,Guadalupe,0
+1314927,13,4,9,9,Herrera,0
+1314958,13,4,10,10,Hurtado,0
+1314989,13,4,11,11,Iturralde,0
+1315020,13,4,12,12,La Represa,0
+1315051,13,4,13,13,Los Díaz,0
+1315082,13,4,14,14,Mendoza,0
+1315113,13,4,15,15,Obaldía,0
+1315144,13,4,16,16,Playa Leona,0
+1315175,13,4,17,17,Puerto Caimito,0
+1315206,13,4,18,18,Santa Rita,0
+1315640,13,5,1,1,San Carlos ,1
+1315671,13,5,2,2,El Espino,0
+1315702,13,5,3,3,El Higo,0
+1315733,13,5,4,4,Guayabito,0
+1315764,13,5,5,5,La Ermita,0
+1315795,13,5,6,6,La Laguna,0
+1315826,13,5,7,7,Las Uvas,0
+1315857,13,5,8,8,Los Llanitos,0
+1315888,13,5,9,9,San José,0
+1191671,9,0,1,1,Atalaya ,1
+1191702,9,0,2,2,El Barrito,0
+1191733,9,0,3,3,La Montañuela,0
+1191764,9,0,4,4,San Antonio,0
+1191795,9,0,5,5,La Carrillo,0
+1192632,9,1,1,1,Calobre ,1
+1192663,9,1,2,2,Barnizal,0
+1192694,9,1,3,3,Chitra,0
+1192725,9,1,4,4,El Cocla,0
+1192756,9,1,5,5,El Potrero,0
+1192787,9,1,6,6,La Laguna,0
+1192818,9,1,7,7,La Raya De Calobre,0
+1192849,9,1,8,8,La Tetilla,0
+1192880,9,1,9,9,La Yeguada,0
+1192911,9,1,10,10,Las Guías,0
+1192942,9,1,11,11,Monjarás,0
+1192973,9,1,12,12,San José,0
+1193593,9,2,1,1,Cañazas ,1
+1193655,9,2,3,3,Cerro De Plata,0
+1193686,9,2,4,4,Los Valles,0
+1193717,9,2,5,5,San Marcelo,0
+1193748,9,2,6,6,El Picador,0
+1193779,9,2,7,7,San José,0
+1193810,9,2,8,8,El Aromillo,0
+1193872,9,2,10,10,Las Cruces,0
+1194554,9,3,1,1,La Mesa ,1
+1194585,9,3,2,2,Bisvalles,0
+1194616,9,3,3,3,Boró,0
+1194647,9,3,4,4,Llano Grande,0
+1194678,9,3,5,5,San Bartolo,0
+1194709,9,3,6,6,Los Milagros,0
+1194740,9,3,7,7,El Higo,0
+1195515,9,4,1,1,Las Palmas ,1
+1195546,9,4,2,2,Cerro De Casa,0
+1195577,9,4,3,3,Corozal,0
+1195608,9,4,4,4,El María,0
+1195670,9,4,6,6,El Prado,0
+1195701,9,4,7,7,El Rincón,0
+1195732,9,4,8,8,Lolá,0
+1195763,9,4,9,9,Pixvae,0
+1195794,9,4,10,10,Puerto Vidal,0
+1195825,9,4,11,11,Zapotillo,0
+1195856,9,4,12,12,San Martín De Porres,0
+1195887,9,4,13,13,Viguí,0
+1195918,9,4,14,14,Manuel E. Amador Terrero,0
+1196476,9,5,1,1,Montijo ,1
+1196538,9,5,3,3,Gobernadora,0
+1196569,9,5,4,4,La Garceana,0
+1196600,9,5,5,5,Leones,0
+1196662,9,5,7,7,Pilón,0
+1196755,9,5,10,10,Unión Del Norte,0
+1196786,9,5,11,11,Costa Hermosa,0
+1196817,9,5,12,12,Cébaco,0
+1197437,9,6,1,1,Río De Jesús ,1
+1197468,9,6,2,2,Las Huacas,0
+1197499,9,6,3,3,Los Castillos,0
+1197530,9,6,4,4,Utira,0
+1197561,9,6,5,5,Catorce De Noviembre,0
+1198398,9,7,1,1,San Fco. ,1
+1198429,9,7,2,2,Corral Falso,0
+1198460,9,7,3,3,Los Hatillos,0
+1198491,9,7,4,4,Remance,0
+1198522,9,7,5,5,San Juan,0
+1198553,9,7,6,6,San José,0
+1199359,9,8,1,1,Santa Fe ,1
+1199390,9,8,2,2,Calovébora,0
+1199421,9,8,3,3,El Alto,0
+1199452,9,8,4,4,El Cuay,0
+1199483,9,8,5,5,El Pantano,0
+1199514,9,8,6,6,Gatuncito,0
+1199545,9,8,7,7,Río Luis,0
+1199576,9,8,8,8,Rubén Cantú,0
+1200320,9,9,1,1,Santiago ,1
+1200351,9,9,2,2,La Colorada,0
+1200382,9,9,3,3,La Peña,0
+1200413,9,9,4,4,La Raya De Sta. María,0
+1200444,9,9,5,5,Ponuga,0
+1200475,9,9,6,6,San Pedro Del Espino,0
+1200506,9,9,7,7,Canto Del Llano,0
+1200537,9,9,8,8,Los Algarrobos,0
+1200568,9,9,9,9,Carlos Santana,0
+1200599,9,9,10,10,Edwin Fábrega,0
+1200630,9,9,11,11,San Martín De Porres,0
+1200661,9,9,12,12,Urracá,0
+1200692,9,9,13,13,Rodrigo Luque,0
+1200723,9,9,14,14,Santiago Este,0
+1200754,9,9,15,15,Nuevo Santiago,0
+1200785,9,9,16,16,Santiago Sur,0
+1202242,9,11,1,1,Soná ,1
+1202273,9,11,2,2,Bahía Honda,0
+1202304,9,11,3,3,Calidonia,0
+1202335,9,11,4,4,Cativé,0
+1202366,9,11,5,5,El Marañón,0
+1202397,9,11,6,6,Guarumal,0
+1202428,9,11,7,7,La Soledad,0
+1202459,9,11,8,8,Qda. De Oro,0
+1202490,9,11,9,9,Río Grande,0
+1202521,9,11,10,10,Rodeo Viejo,0
+1202552,9,11,11,11,Hicaco,0
+1202583,9,11,12,12,La Trinchera,0
+1203203,9,12,1,1,Llano De Catival,0
+1203234,9,12,2,2,Arena,0
+1203265,9,12,3,3,Quebro,0
+1203296,9,12,4,4,Tebario,0
+1203327,9,12,5,5,El Cacao,0
+1221462,10,0,1,1,Ailigandí,0
+1221493,10,0,2,2,Narganá,0
+1221524,10,0,3,3,Puerto Obaldía,0
+1221555,10,0,4,4,Tubualá,0
+1251253,11,0,1,1,Cirilo Guaynora,0
+1251284,11,0,2,2,Lajas Blancas,0
+1251315,11,0,3,3,Manuel Ortega,0
+1252214,11,1,1,1,Jingurudó,0
+1252245,11,1,2,2,Río Sábalo,0
+1281044,12,0,1,1,Bisira,0
+1281106,12,0,3,3,Kankintú,0
+1281168,12,0,5,5,Guoroni,0
+1281199,12,0,6,6,Mununi,0
+1281230,12,0,7,7,Piedra Roja,0
+1281323,12,0,10,10,Tolote,0
+1281354,12,0,11,11,Calante,0
+1282005,12,1,1,1,Kusapín,0
+1282067,12,1,3,3,Bahía Azul,0
+1282098,12,1,4,4,Río Chiriquí,0
+1282160,12,1,6,6,Tobobe,0
+1282222,12,1,8,8,Cañaveral,0
+1282966,12,2,1,1,Soloy,0
+1282997,12,2,2,2,Boca De Balsa,0
+1283028,12,2,3,3,Cerro Banco,0
+1283059,12,2,4,4,Cerro De Patena,0
+1283090,12,2,5,5,Camarón Arriba,0
+1283121,12,2,6,6,Emplanada De Chorcha,0
+1283152,12,2,7,7,Namnoni,0
+1283183,12,2,8,8,Niba,0
+1283927,12,3,1,1,Hato Pilón,0
+1283958,12,3,2,2,Cascabel,0
+1283989,12,3,3,3,Hato Corotú,0
+1284020,12,3,4,4,Hato Culantro,0
+1284051,12,3,5,5,Hato Jobo,0
+1284082,12,3,6,6,Hato Julí,0
+1284113,12,3,7,7,Quebrada De Loro,0
+1284144,12,3,8,8,Salto Dupi,0
+1284888,12,4,1,1,Chichica,0
+1284919,12,4,2,2,Alto Caballero,0
+1284950,12,4,3,3,Bagama,0
+1284981,12,4,4,4,Cerro Caña,0
+1285012,12,4,5,5,Cerro Puerco,0
+1285043,12,4,6,6,Krúa,0
+1285074,12,4,7,7,Maraca,0
+1285105,12,4,8,8,Nibra,0
+1285136,12,4,9,9,Peña Blanca,0
+1285167,12,4,10,10,Rokari,0
+1285198,12,4,11,11,Sitio Prado,0
+1285229,12,4,12,12,Umani,0
+1285260,12,4,13,13,Diko,0
+1285291,12,4,14,14,Kikari,0
+1285322,12,4,15,15,Mreeni,0
+1285353,12,4,16,16,Dikeri,0
+1285849,12,5,1,1,Cerro Iglesias,0
+1285880,12,5,2,2,Lajero,0
+1285911,12,5,3,3,Hato Chamí,0
+1285942,12,5,4,4,Susamá,0
+1285973,12,5,5,5,Jadeberi,0
+1286810,12,6,1,1,Buenos Aires,0
+1286841,12,6,2,2,Agua De Salud,0
+1286872,12,6,3,3,Alto De Jesús,0
+1286903,12,6,4,4,Cerro Pelado,0
+1286934,12,6,5,5,El Bale,0
+1286965,12,6,6,6,El Paredón,0
+1286996,12,6,7,7,El Piro,0
+1287027,12,6,8,8,Guayabito,0
+1287058,12,6,9,9,Guibale,0
+1287089,12,6,10,10,El Piro N° 2,0
+1287120,12,6,11,11,El Peñon,0
+1287771,12,7,1,1,Buri,0
+1287802,12,7,2,2,Gwaribiara,0
+1287833,12,7,3,3,Tu Gwai,0
+1287864,12,7,4,4,Mancreek,0
+1287895,12,7,5,5,Samboa,0
+1288732,12,8,1,1,Santa Catalina O Calovébora,0
+1288763,12,8,2,2,Valle Bonito (Dogata),0
+1288794,12,8,3,3,Loma Yuca,0
+1288825,12,8,4,4,San Pedrito (Jikui),0
+1288856,12,8,5,5,Alto Bilingue (Gdogueshia),0
+1340626,14,0,1,1,Kuna De Madungandi,0
+1370417,15,0,1,1,Kuna De Wargandi,0
+1401169,16,1,1,1,San San Drui,0
+1401200,16,1,2,2,Bonyik,0
+1401231,16,1,3,3,Teribe,0
+1818243,30,1,1,30,Voto Adelantado En El Extranjero,0
+1848034,31,1,1,31,Voto Adelantado En El País,0

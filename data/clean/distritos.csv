@@ -1,0 +1,88 @@
+key,provinciaId,distritoId,codigo,nombre_provincia
+953312,1,0,0,Bocas Del Toro
+954273,1,1,1,Changuinola
+955234,1,2,2,Chiriquí Grande
+956195,1,3,3,Almirante
+983103,2,0,0,Aguadulce
+984064,2,1,1,Antón
+985025,2,2,2,La Pintada
+985986,2,3,3,Natá
+986947,2,4,4,Olá
+987908,2,5,5,Penonomé
+1012894,3,0,0,Colón
+1013855,3,1,1,Chagres
+1014816,3,2,2,Donoso
+1015777,3,3,3,Portobelo
+1016738,3,4,4,Santa Isabel
+1017699,3,5,5,Omar Torrijos Herrera
+1042685,4,0,0,Alanje
+1043646,4,1,1,Barú
+1044607,4,2,2,Boquerón
+1045568,4,3,3,Boquete
+1046529,4,4,4,Bugaba
+1047490,4,5,5,David
+1048451,4,6,6,Dolega
+1049412,4,7,7,Gualaca
+1050373,4,8,8,Remedios
+1051334,4,9,9,Renacimiento
+1052295,4,10,10,San Lorenzo
+1053256,4,11,11,Tolé
+1054217,4,12,12,San Félix
+1055178,4,13,13,Tierras Altas
+1072476,5,0,0,Chepigana
+1073437,5,1,1,Pinogana
+1076320,5,4,4,Santa Fe
+1102267,6,0,0,Chitré
+1103228,6,1,1,Las Minas
+1104189,6,2,2,Los Pozos
+1105150,6,3,3,Ocú
+1106111,6,4,4,Parita
+1107072,6,5,5,Pesé
+1108033,6,6,6,Santa María
+1132058,7,0,0,Guararé
+1133019,7,1,1,Las Tablas
+1133980,7,2,2,Los Santos
+1134941,7,3,3,Macaracas
+1135902,7,4,4,Pedasí
+1136863,7,5,5,Pocrí
+1137824,7,6,6,Tonosí
+1162810,8,1,1,Balboa
+1165693,8,4,4,Chepo
+1166654,8,5,5,Chimán
+1168576,8,7,7,Panamá
+1170498,8,9,9,San Miguelito
+1172420,8,11,11,Taboga
+1311765,13,1,1,Arraiján
+1312726,13,2,2,Capira
+1313687,13,3,3,Chame
+1314648,13,4,4,La Chorrera
+1315609,13,5,5,San Carlos
+1191640,9,0,0,Atalaya
+1192601,9,1,1,Calobre
+1193562,9,2,2,Cañazas
+1194523,9,3,3,La Mesa
+1195484,9,4,4,Las Palmas
+1196445,9,5,5,Montijo
+1197406,9,6,6,Río De Jesús
+1198367,9,7,7,San Francisco
+1199328,9,8,8,Santa Fe
+1200289,9,9,9,Santiago
+1202211,9,11,11,Soná
+1203172,9,12,12,Mariato
+1221431,10,0,0, 
+1251222,11,0,0,Cémaco
+1252183,11,1,1,Sambú
+1281013,12,0,0,Kankintú
+1281974,12,1,1,Kusapín
+1282935,12,2,2,Besiko
+1283896,12,3,3,Mironó
+1284857,12,4,4,Müna
+1285818,12,5,5,Nole Düima
+1286779,12,6,6,Ñürun
+1287740,12,7,7,Jirondai
+1288701,12,8,8,Santa Catalina O Calovébora (Bledeshia)
+1340595,14,0,0, 
+1370386,15,0,0, 
+1401138,16,1,1, 
+1818212,30,1,30,Voto Adelantado En El Extranjero
+1848003,31,1,31,Voto Adelantado En El País

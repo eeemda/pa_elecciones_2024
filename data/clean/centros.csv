@@ -1,0 +1,3036 @@
+key,circuitoId,provinciaId,distritoId,corregimientoId,centroVotacionId,codigo,nombre_centro
+953346,1,1,0,1,3,1,Col. Rogelio J. Ibarra
+954463,1,1,0,1,1120,2,Esc. Colonia Santeña
+955188,1,1,0,1,1845,3,Esc. Carenero
+5958785,1,1,0,1,5005442,11,Esc. Bilingüe Rep. De Nicaragua
+953799,1,1,0,5,332,1,Ce. Cayo De Agua
+954873,1,1,0,5,1406,2,C.e.b.g.  Isla Popa N°1
+955550,1,1,0,5,2083,3,Ce.  Isla Tigre
+955214,1,1,0,9,1623,2,Esc. Buena Esperanza
+955848,1,1,0,9,2257,3,Esc. Tierra Oscura
+956602,1,1,0,9,3011,5,Ce. Secretario
+956836,1,1,0,9,3245,6,Esc. Loma Partida
+5958640,1,1,0,10,5005018,1,Esc. Boca De Drago
+5959077,1,1,0,10,5005455,2,Caseta Saigón
+5958672,1,1,0,11,5005019,1,Ce. San Cristobal
+5958673,1,1,0,11,5005020,2,Esc. Valle Escondido
+5958674,1,1,0,11,5005021,3,Esc. Bocatorito
+5958706,1,1,0,12,5005022,1,Esc. Bastimentos
+5958707,1,1,0,12,5005023,2,Ce. Salcreeck
+5958708,1,1,0,12,5005024,3,Esc. Solarte
+5958709,1,1,0,12,5005025,4,Esc. Bahía Honda
+955439,1,1,1,1,1135,2,Esc. Bilingüe  Changuinola
+5959213,1,1,1,1,5004909,51,Hospital Raúl Dávila Mena
+5959558,1,1,1,1,5005254,37,Col. Bilingüe Suiche 4
+954549,1,1,1,3,183,1,C.e.b.g. Bilingüe  Guabito
+955277,1,1,1,3,911,12,Esc. Bilingüe  Finca 41
+955368,1,1,1,3,1002,14,Esc. San San Medio (Rómulo)
+5959310,1,1,1,3,5004944,51,Cárcel Pública De Deborah
+5959624,1,1,1,3,5005258,17,Col. Secundario De Guabito
+954877,1,1,1,6,418,1,C.e.b.g. Bilingüe  El Empalme
+955430,1,1,1,6,971,13,Esc. Finca 15
+5959720,1,1,1,6,5005261,15,Centro Regional De Bocas Del Toro
+5959724,1,1,1,6,5005265,19,Universidad Finca 13
+956675,1,1,1,7,2185,3,C.e.b.g. Bilingüe Nievecita
+957457,1,1,1,7,2967,5,Esc. Dos Caños
+5959760,1,1,1,7,5005270,12,Col. Secundario De Nievecita
+955205,1,1,1,10,622,1,Esc. Boca Yorkin Anexa
+956236,1,1,1,10,1653,2,Esc. El Guabo
+956863,1,1,1,10,2280,3,Esc. Agua De Salud
+957291,1,1,1,10,2708,4,Esc. Alto De Yorkin
+957604,1,1,1,10,3021,5,Esc. Dos Caños Anexa
+957837,1,1,1,10,3254,6,Esc. Las Palmitas
+955267,1,1,1,11,653,1,Esc.  Guabo
+956295,1,1,1,11,1681,2,Esc. Sursuba
+956916,1,1,1,11,2302,3,Esc. Bajo La Esperanza
+957338,1,1,1,11,2724,4,Esc. Cochigro
+955324,1,1,1,12,679,1,Esc. Milla 10
+956347,1,1,1,12,1702,2,Esc. Junquito
+956960,1,1,1,12,2315,3,Esc. La Gloria
+957382,1,1,1,12,2737,4,C.e.b.g. Milla 71/2
+957680,1,1,1,12,3035,5,Esc. Loma Muleto
+957911,1,1,1,12,3266,6,Esc. Loma Bonita
+958086,1,1,1,12,3441,7,Esc. Milla 5
+958339,1,1,1,12,3694,9,Esc. San Juan
+959253,1,1,1,13,4577,1,Cebg Bilingüe Finca 62
+959254,1,1,1,13,4578,2,Esc. Finca 67
+959255,1,1,1,13,4579,3,Esc. Finca 64
+959287,1,1,1,14,4580,1,Esc. Finca 44
+959289,1,1,1,14,4582,3,Esc. Finca 43
+959290,1,1,1,14,4583,4,Ipt De Bocas Del Toro
+5959981,1,1,1,14,5005274,7,Esc. Finca 41
+959322,1,1,1,15,4584,1,Esc. San San Medio Anexa
+959385,1,1,1,15,4647,2,Esc.bilingüe 4 De Abril
+5959748,1,1,1,15,5005010,3,Esc. Finca 11
+959354,1,1,1,16,4585,1,Esc. Bilingüe Finca 32
+959355,1,1,1,16,4586,2,Esc. Bilingüe Teobroma
+5960044,1,1,1,16,5005275,3,Esc. Anexa Finca 32
+959387,1,1,1,17,4587,1,C.e. Charagre
+959388,1,1,1,17,4588,2,Ipta El Silencio
+5959816,1,1,1,18,5004985,1,Esc. Bilingüe Finca 66
+5959817,1,1,1,18,5004986,2,Coif Froebelin
+5960313,1,1,1,19,5005451,3,Ce Changuinola American Academy
+5959881,1,1,1,20,5004988,1,Esc. Finca 54
+5959882,1,1,1,20,5004989,2,Esc. Puente Blanco
+5959883,1,1,1,20,5004990,3,Esc. Déborah
+5959884,1,1,1,20,5004991,4,Esc. Finca California
+5959916,1,1,1,21,5004992,1,Esc. Finca 03
+5959917,1,1,1,21,5004993,2,Esc. Finca 2
+5959918,1,1,1,21,5004994,3,C.e.b.g. Bilingüe De Finca 4
+5959953,1,1,1,22,5004998,1,C.e. Barranco Medio
+5959954,1,1,1,22,5004999,2,Esc. Bilingüe Barranco Adentro
+5959981,1,1,1,23,5004995,1,C.e.b.g. Bilingüe Mariano Thomas
+5959982,1,1,1,23,5004996,2,Esc. Bisira N° 3
+5959983,1,1,1,23,5004997,3,Esc. Qda. Canela
+955295,1,1,2,1,30,1,C.e.b.g. Bilingüe Dionicia Ayarza
+955848,1,1,2,6,428,1,Esc. Pta. Robalo
+958025,1,1,2,6,2605,4,Esc. Palma Real
+5960699,1,1,2,6,5005279,9,Esc. Valle Seco
+956025,1,1,2,8,543,1,Esc. Miramar
+957070,1,1,2,8,1588,2,Ce Los Chiricanos
+5960927,1,1,2,8,5005445,5,Esc. Alto La Gloria
+956104,1,1,2,9,591,1,C.e.b.g.  Punta Peña
+960203,1,1,2,9,4690,2,Ce. Bilingüe  Cañazas
+5960794,1,1,2,9,5005281,3,Ipt De Chiriquí Grande
+956170,1,1,2,10,626,1,Ce. Rambala
+960235,1,1,2,10,4691,3,Esc. Chiriquicito N°1
+5960990,1,1,2,10,5005446,4,Esc. Nueva Estrella
+956231,1,1,2,11,656,1,Esc. Escobal
+957258,1,1,2,11,1683,2,C.e.b.g. Bajo El Cedro
+957878,1,1,2,11,2303,3,Ce. Bilingüe  Río Auyama
+958300,1,1,2,11,2725,4,Esc. Quebrada Garza
+960774,1,1,3,1,4548,1,Esc. Bilingüe Berta López
+960912,1,1,3,1,4686,2,Col. Sec. Almirante
+960806,1,1,3,2,4549,1,Ce Río Oeste Arriba
+960807,1,1,3,2,4550,2,Cebg. Valle De Agua Arriba
+960808,1,1,3,2,4551,3,Cebg Quebrada Pastor
+960809,1,1,3,2,4552,4,Ce. Quebrada Pitti
+960810,1,1,3,2,4553,5,Ce. Renacimiento
+960811,1,1,3,2,4554,6,Rancho Comunal Loma Valiente
+960844,1,1,3,3,4556,2,Esc.  Punta Peña Del Risco
+960845,1,1,3,3,4557,3,Cebg Valle De Riscó
+960846,1,1,3,3,4558,4,Esc. Oriente De Riscó
+960847,1,1,3,3,4559,5,Esc. Soledad De Riscó
+960848,1,1,3,3,4560,6,Esc. Quebrada Pluma
+960849,1,1,3,3,4561,7,Esc. Alto Romero
+960851,1,1,3,3,4563,9,Esc. Quebrada Pita
+960883,1,1,3,4,4564,1,Esc. Charco La Pava
+960884,1,1,3,4,4565,2,C.e.b.g. Nance De Riscó
+960888,1,1,3,4,4569,6,Esc. Changuinola Arriba
+961004,1,1,3,4,4685,7,Esc. Valle Rey
+961108,1,1,3,4,4789,8,Esc. Bajo Gavilán
+960920,1,1,3,5,4570,1,Esc. De Almirante
+960956,1,1,3,6,4575,5,Ce. Nuevo Paraiso
+960957,1,1,3,6,4576,6,Esc. Barriada Guaymí
+961064,1,1,3,6,4683,7,Esc. Milla 3
+961065,1,1,3,6,4684,8,Esc. Adventista Bilingüe De Almirante
+5961412,1,1,3,7,5005000,1,Esc. Arcelio Fitzgerald
+5961413,1,1,3,7,5005001,10,Esc. Cerro Palma
+5961414,1,1,3,7,5005002,2,Esc. Qda. Pueblo
+5961415,1,1,3,7,5005003,3,Esc. Qda. Plátano
+5961416,1,1,3,7,5005004,4,Esc. Los Higuerones
+5961417,1,1,3,7,5005005,5,Cebg. Loma Azul
+5961418,1,1,3,7,5005006,6,Esc. Siloe
+5961419,1,1,3,7,5005007,7,Esc. Qda. Huaca
+5961420,1,1,3,7,5005008,8,Cebg. Loma Estrella
+5961421,1,1,3,7,5005009,9,Cebg. Quebrada Pinzón
+5961454,1,1,3,8,5005011,1,Esc. Tibite
+5961455,1,1,3,8,5005012,2,Esc. Ojo De Agua
+5961456,1,1,3,8,5005013,3,Esc. Quebrada Banano
+5961457,1,1,3,8,5005014,4,Nueva Esc. Activa Bella Vista
+5961890,1,1,3,8,5005447,5,Esc.miraflores
+5961491,1,1,3,9,5005017,1,Esc. Bajo Culubre
+5961520,1,1,3,10,5005015,1,Esc. Guayacán
+5961521,1,1,3,10,5005016,2,Esc. Ceiba
+5961531,1,1,3,10,5005026,3,Esc. Valle Libre
+983138,5,2,0,1,4,1,Esc. Alejandro Tapia E.
+984980,5,2,0,1,1846,3,Col. Rodolfo Chiari
+985519,5,2,0,1,2385,4,Esc. Ana Polo T.
+985913,5,2,0,1,2779,5,I.p.t.i.a. (Aguadulce)
+5988044,5,2,0,1,5004910,50,Hospital Rafael Estévez
+5988079,5,2,0,1,5004945,51,Cárcel Pública De Aguadulce
+983254,5,2,0,2,89,1,C.e.b.g.  Pedro Guevara
+984363,5,2,0,2,1198,2,Cebg Daniel Quiroz Pereira
+986484,5,2,0,2,3319,7,C.e.b.g.  El Naranjal
+986647,5,2,0,2,3482,8,Esc. El Higo De Juan Bran
+983368,5,2,0,3,172,1,Esc. Bilingüe El Roble
+984466,5,2,0,3,1270,2,C.e.b.g. Francisca C. De Sierra
+987981,5,2,0,3,4785,8,Caseta De Membrillal
+983480,5,2,0,4,253,1,Esc. Juan D. Arosemena
+986114,5,2,0,4,2887,5,Esc. San Martín De Porres
+5988398,5,2,0,4,5005171,6,Ce. Pocrí
+983591,5,2,0,5,333,1,Esc. Bilingüe Abelardo Herrera
+984665,5,2,0,5,1407,2,C.e.b.g. El Salado
+5988427,5,2,0,5,5005169,3,Cubiculo Cancha Del Coco
+5988428,5,2,0,5,5005170,4,Cubiculo Cancha Abelardo Herrera
+987888,5,2,0,6,4599,1,Esc. Salitrosa
+987889,5,2,0,6,4600,2,Cebg Jaguito
+987890,5,2,0,6,4601,3,Cebg El Barrero
+987891,5,2,0,6,4602,4,Cebg Eric Del Valle
+987892,5,2,0,6,4603,5,Cebg Rogelio Robles
+987924,5,2,0,7,4604,1,Esc. Bilingüe El Perú
+987925,5,2,0,7,4605,2,Esc. Paula F. De Jimémez
+987926,5,2,0,7,4606,3,Esc. Cerro Morado
+987958,5,2,0,8,4607,1,Cebg. El Hato Rincones
+987959,5,2,0,8,4608,2,Cebg. El Pinzón
+987960,5,2,0,8,4609,3,C.e.b.g. Loma De Los González
+987961,5,2,0,8,4610,4,Esc. Los Volcanes
+984114,3,2,1,1,19,1,Esc. Bilingüe Rep. Dominicana
+985231,3,2,1,1,1136,2,Col. Salomón Ponce A.
+985955,3,2,1,1,1860,3,Esc. Manuel Patiño
+986492,3,2,1,1,2397,4,C.e.b.g. La Hincada
+986884,3,2,1,1,2789,5,Esc. Guabas Arriba
+987165,3,2,1,1,3070,6,Esc. Bijagual
+988810,3,2,1,1,4715,7,Cefacei Calle Larga
+984227,3,2,1,2,101,1,Esc. Cabuya
+985335,3,2,1,2,1209,2,Esc. Loma Larga
+986050,3,2,1,2,1924,3,Esc. Mata Palo
+986578,3,2,1,2,2452,4,C.e.b.g. El Macano
+986957,3,2,1,2,2831,5,Cebg Cabuya Arriba
+984341,3,2,1,3,184,1,Esc. El Chirú
+985438,3,2,1,3,1281,2,C.e.b.g. Pueblo Nuevo
+986142,3,2,1,3,1985,3,C.e.b.g.  José Marciano Moreno
+986652,3,2,1,3,2495,4,Esc. Bona A. De Aguilar
+984452,3,2,1,4,264,1,C.e.b.g. El Retiro
+985535,3,2,1,4,1347,2,Esc. Llano Grande
+986226,3,2,1,4,2038,3,Esc. El Marañón
+984562,3,2,1,5,343,1,Esc. Bilingüe La Compañía
+985635,3,2,1,5,1416,2,Esc.- Bilingüe El Valle
+986309,3,2,1,5,2090,3,C.e.b.g.  Alto De La Mesa
+986782,3,2,1,5,2563,4,Ipt El Valle
+984669,3,2,1,6,419,1,Esc. Juan Díaz
+986391,3,2,1,6,2141,3,Esc. Jaguito
+986851,3,2,1,6,2601,4,Caseta El Jobo
+984761,3,2,1,7,480,1,Esc. Bilingüe Angelina  De Tirones
+985085,3,2,1,7,804,10,Esc. Santa Clara
+985816,3,2,1,7,1535,2,C.e.b.g. Los Pollos
+986467,3,2,1,7,2186,3,C.e.b.g. Farallón
+987249,3,2,1,7,2968,5,C.e.b.g. Las Matas
+987490,3,2,1,7,3209,6,C.e.b.g. Las Guías Oriente
+987685,3,2,1,7,3404,7,C.e.b.g. El Platanal
+987832,3,2,1,7,3551,8,C.e.b.g. Elizabeth Flores De Herrera
+987951,3,2,1,7,3670,9,C.e.b.g Las Guías Occidente
+989063,3,2,1,7,4782,11,I.p.t. Río Hato
+984849,3,2,1,8,537,1,Esc. El Entradero
+985895,3,2,1,8,1583,2,Esc. Salomón Ponce A.
+986979,3,2,1,8,2667,4,Esc. Alto De La Estancia
+987875,3,2,1,8,3563,8,C.e.b.g. Chumical
+984931,3,2,1,9,588,1,Esc. Santa Rita
+985972,3,2,1,9,1629,2,C.e.b.g. Santa Rita
+986604,3,2,1,9,2261,3,Caipi  Pasitos A Saber
+984997,3,2,1,10,623,1,C.e.b.g. La Coca
+986028,3,2,1,10,1654,2,C.e.b.g. Los Cerritos
+986655,3,2,1,10,2281,3,Esc. Caballero
+987083,3,2,1,10,2709,4,C.e.b.g. Tranquilla
+987396,3,2,1,10,3022,5,Cebg Tebujo
+985087,4,2,2,1,31,1,Cebg. Bilingüe José Nadal Silva
+986202,4,2,2,1,1146,2,C.e.b.g.  Farallón
+986925,4,2,2,1,1869,3,Esc. Los Reyes
+987851,4,2,2,1,2795,5,C.e.b.g. Las Boquillas
+988131,4,2,2,1,3075,6,C.e.b.g.  El Picacho
+988354,4,2,2,1,3298,7,C.e.b.g. Potrerillos
+988522,4,2,2,1,3466,8,Ce Membrillar
+989837,4,2,2,1,4781,9,I.p.t. La Pintada
+989920,4,2,2,1,4864,10,Caseta Toro Bravo
+985200,4,2,2,2,113,1,Ipt.  El Copé
+985859,4,2,2,2,772,10,C.e.b.g. Juan J.quirós
+985935,4,2,2,2,848,11,Esc. Villalobos
+985994,4,2,2,2,907,12,Esc. Boca De Los Ríos
+986043,4,2,2,2,956,13,Esc. La Rica
+986086,4,2,2,2,999,14,Esc. Palmarazo
+986143,4,2,2,2,1056,16,Esc. De Los Molejones
+988415,4,2,2,2,3328,7,Esc. San Juan
+988577,4,2,2,2,3490,8,C.e.b.g. Omar Torrijos Herrera
+988710,4,2,2,2,3623,9,Esc. Barrigón
+989866,4,2,2,2,4779,17,C.e.b.g. San Juan Centro
+985313,4,2,2,3,195,1,Cebg. El Potrero
+986406,4,2,2,3,1288,2,Esc. Bilingüe La Madera
+987110,4,2,2,3,1992,3,C.e.b.g. Las Tablas
+987618,4,2,2,3,2500,4,Esc. Potrellano
+987987,4,2,2,3,2869,5,Esc. Cerro Colorado
+989911,4,2,2,3,4793,6,Cebg. Toro Bravo
+985424,4,2,2,4,275,1,Cebg  Llano Grande
+986156,4,2,2,4,1007,14,C.e.b.g.  Rita Hernández Trujillo
+986228,4,2,2,4,1079,17,Cebg  La Honda
+986247,4,2,2,4,1098,18,Cebg El  Palmar Arriba
+986261,4,2,2,4,1112,19,C.e.b.g. San Juanito
+986504,4,2,2,4,1355,2,Cebg Telé Básica  La Venta
+987193,4,2,2,4,2044,3,Cebg Agua Fría
+988509,4,2,2,4,3360,7,Cebg El Palmar Abajo
+985534,4,2,2,5,354,1,C.e.b.g.  Ángel Guardia
+985971,4,2,2,5,791,10,Cebg. Sardinas
+986043,4,2,2,5,863,11,C.e.b.g. Jujucal
+986101,4,2,2,5,921,12,Cebg El Guabo
+986149,4,2,2,5,969,13,Esc. Corozal
+986604,4,2,2,5,1424,2,C.e.b.g. Telé Básica  El Calabazo N. 2
+987277,4,2,2,5,2097,3,Cebg  Cerro Corral
+987748,4,2,2,5,2568,4,Cebg  El Palomo
+988099,4,2,2,5,2919,5,C.e.b.g. El Jobo
+988350,4,2,2,5,3170,6,C.e.b.g.  Machuca
+988553,4,2,2,5,3373,7,C.e.b.g.  Bermejo
+988706,4,2,2,5,3526,8,Cebg  Las Delicias
+988832,4,2,2,5,3652,9,Esc. Las Lajas
+985640,4,2,2,6,429,1,Cebg. La Trinidad
+986699,4,2,2,6,1488,2,C.e.b.g.  Loma Bonita
+987358,4,2,2,6,2147,3,Esc. El Calabazo N°1
+987817,4,2,2,6,2606,4,Cebg. Ojo De Agua
+988152,4,2,2,6,2941,5,C.e.b.g. Bajo Grande
+988399,4,2,2,6,3188,6,Esc. La Mina #1
+985731,4,2,2,7,489,1,C.e.b.g. Cascajal
+986048,4,2,2,7,806,10,Cebg Pléyade
+986115,4,2,2,7,873,11,Cebg. Valle De Santa María
+986785,4,2,2,7,1543,2,Cebg  Cutevilla
+987435,4,2,2,7,2193,3,Cebg  Hacha
+987888,4,2,2,7,2646,4,Cebg Embarcadero De Cascajal
+988215,4,2,2,7,2973,5,Cebg Toabre Abajo
+988454,4,2,2,7,3212,6,C.e.b.g. Villa Del Carmen
+988650,4,2,2,7,3408,7,C.e.b.g. Molejon
+988797,4,2,2,7,3555,8,Cebg Cuteva
+988916,4,2,2,7,3674,9,Cebg  Alto Del Coquillo
+990022,4,2,2,7,4780,12,C.e.b.g. Canoa N°1
+990082,4,2,2,7,4840,13,C.e.b.g. Batatilla
+986057,4,2,3,1,40,1,Esc. Bilingüe España
+987893,4,2,3,1,1876,3,Col. Mariano Prado
+986170,4,2,3,2,122,1,Esc. Bilingüe Roberto Francisco  Chiari
+986283,4,2,3,3,204,1,Esc. Sebastián Sucre
+987374,4,2,3,3,1295,2,Esc. Santa Lucía
+988076,4,2,3,3,1997,3,Esc. Simeón Valderrama
+988583,4,2,3,3,2504,4,Esc. El Olivo
+988951,4,2,3,3,2872,5,Esc. La Salineta
+989214,4,2,3,3,3135,6,Esc. Virulí
+986394,4,2,3,4,284,1,Cebg Guzmán
+987472,4,2,3,4,1362,2,Esc. Otoal
+988159,4,2,3,4,2049,3,Esc. Piedras Blancas
+988648,4,2,3,4,2538,4,C.e.b.g.  Sapillo
+989008,4,2,3,4,2898,5,Esc. Caimitillo
+986504,4,2,3,5,363,1,C.e.b.g. Las Huacas
+987574,4,2,3,5,1433,2,Cebg La Yeguada
+988715,4,2,3,5,2574,4,Cebg El Quije
+986609,4,2,3,6,437,1,Esc. Toza
+987669,4,2,3,6,1497,2,Esc. Guayabital
+988326,4,2,3,6,2154,3,Esc. Bilingüe El Cortezo
+991013,4,2,3,6,4841,4,C.e.b.g. San Antonio
+990814,4,2,3,7,4611,1,Esc. Llano De Palma
+990815,4,2,3,7,4612,2,Esc. El Espave
+990816,4,2,3,7,4613,3,Cebg Ciénaga Larga
+990817,4,2,3,7,4614,4,Esc. Villareal
+987027,4,2,4,1,49,1,C.e. Justino Arrocha
+988139,4,2,4,1,1161,2,Cebg Burrica
+988861,4,2,4,1,1883,3,Esc. Básico General El Hato
+991817,4,2,4,1,4839,4,C.e.b.g. Los Cabritos
+987140,4,2,4,2,131,1,Cebg El Cristo
+988243,4,2,4,2,1234,2,C.e.b.g. Los Caracoles
+988953,4,2,4,2,1944,3,C.e.b.g. La Mesa
+989476,4,2,4,2,2467,4,Cebg  Luisa
+989852,4,2,4,2,2843,5,Ipt Omar Torrijos Herrera
+987253,4,2,4,3,213,1,Cebg José María  Cruz
+988344,4,2,4,3,1304,2,Cebg  La Mesa
+989044,4,2,4,3,2004,3,Cebg Los Machos
+989549,4,2,4,3,2509,4,Cebg  El Helechar
+989917,4,2,4,3,2877,5,Cebg Las Barretas
+990178,4,2,4,3,3138,6,Cebg  Zancona
+990389,4,2,4,3,3349,7,C.e.b.g. El Palmar
+990548,4,2,4,3,3508,8,Esc. El Pedregoso
+987364,4,2,4,4,293,1,Esc. Barranco Colorado Centro
+987474,4,2,4,5,372,1,Ce.  Feliciano Pinzón Cristóbal
+988541,4,2,4,5,1439,2,C.e.b.g. Ernesto Osorio Gómez
+989210,4,2,4,5,2108,3,C.e.b.g. Los Valles
+989681,4,2,4,5,2579,4,C.e.b.g.  Guiri
+987997,2,2,5,1,58,1,Esc. Bilingüe Federico Zúñiga
+989108,2,2,5,1,1169,2,Esc. Lelia De Lombardo
+989830,2,2,5,1,1891,3,Esc. Ana T. De Rodríguez
+990360,2,2,5,1,2421,4,Esc. Rubén Dario Carles
+990746,2,2,5,1,2807,5,Esc. Bilingüe Simeón Conte
+991026,2,2,5,1,3087,6,Esc. Clelia De Martínez
+991248,2,2,5,1,3309,7,Col. Ángel M. Herrera
+991414,2,2,5,1,3475,8,Esc. Sofía Q. De Tejeira
+991551,2,2,5,1,3612,9,I.p.t. Leonila P. De Grimaldo
+5992850,2,2,5,1,5004911,51,Hospital Aquilino Tejerira
+5992885,2,2,5,1,5004946,52,Cárcel Pública De Penonomé
+988110,2,2,5,2,140,1,Esc. Santos Jorge
+989212,2,2,5,2,1242,2,Esc. María T. De Herrera
+989922,2,2,5,2,1952,3,Esc. Juan B. Rosas
+990444,2,2,5,2,2474,4,C.e. Virgilia  G.. De Pombo
+990818,2,2,5,2,2848,5,Esc. Los Uveros
+991090,2,2,5,2,3120,6,Esc. Vista Hermosa
+991305,2,2,5,2,3335,7,Esc. Cermeño
+988222,2,2,5,3,221,1,Esc. Marcelino Quirós Y Q.
+989310,2,2,5,3,1309,2,Cebg. Porfirio Gómez
+990009,2,2,5,3,2008,3,C.e.b.g.  Las Guabas
+990512,2,2,5,3,2511,4,Esc. Victoriano Lorenzo
+990880,2,2,5,3,2879,5,Esc. Dr. Arnulfo Arias Madrid
+988334,2,2,5,4,302,1,Ce.  Pablo Alzamora
+988892,2,2,5,4,860,11,Esc. Pozo Azul
+988950,2,2,5,4,918,12,Cebg. Chiguirí Centro
+990576,2,2,5,4,2544,4,C.e.b.g.  Vaquilla
+990935,2,2,5,4,2903,5,Ce. San Miguel Arriba
+991190,2,2,5,4,3158,6,Cebg. Boca De Las Minas
+991550,2,2,5,4,3518,8,C.e.b.g.  Oajaca
+991678,2,2,5,4,3646,9,Cebg. Loma Grande
+988444,2,2,5,5,381,1,Esc. Ana Pérez De Isaza
+989509,2,2,5,5,1446,2,Esc. Agua Fría
+990177,2,2,5,5,2114,3,C.e. Jacinta A. De Morán
+990645,2,2,5,5,2582,4,Esc. Aguas Blancas
+990991,2,2,5,5,2928,5,C.e.b.g. Luis Felipe Márquez Guzmán
+991240,2,2,5,5,3177,6,Esc. Llano Marín
+992846,2,2,5,5,4783,8,Caseta Alto Del Encanto
+5993010,2,2,5,5,5004947,50,Centro De Rehabilitació Llano Marín
+5993139,2,2,5,5,5005076,9,Esc. Santa Cruz
+988546,2,2,5,6,452,1,Ce. Francisco Figueroa Herrera
+989135,2,2,5,6,1041,15,Esc.  El Águila
+989601,2,2,5,6,1507,2,Esc. Pajonal Arriba
+990256,2,2,5,6,2162,3,Ce. José De Los Reyes Vásquez
+990714,2,2,5,6,2620,4,Cebg. Simón Martínez Pérez
+991047,2,2,5,6,2953,5,Esc. Bilingüe Membrillo
+988634,2,2,5,7,509,1,Esc. José De Gracía Fernández
+989684,2,2,5,7,1559,2,Cebg Victor Manuel Ramos Vega
+990331,2,2,5,7,2206,3,Esc. Ciruelito
+990778,2,2,5,7,2653,4,Esc. Garicín
+988717,2,2,5,8,561,1,C.e.b.g.  Las Marías
+988971,2,2,5,8,815,10,Cebg El  Coquillo De Uracillo
+989035,2,2,5,8,879,11,Cebg  Altos  Del Silencio
+989089,2,2,5,8,933,12,C.e.b.g. La Mina
+989172,2,2,5,8,1016,14,Esc. Las Mercedes
+989199,2,2,5,8,1043,15,C.e.b.g. Tomás Agraje  M.
+989241,2,2,5,8,1085,17,Ce. Uracillo Centro
+989257,2,2,5,8,1101,18,Cebg El Límite
+989270,2,2,5,8,1114,19,C.e.b.g.  Pueblo Nuevo
+989954,2,2,5,8,1798,23,C.e.  Sabaneta De U
+991156,2,2,5,8,3000,5,Cebg  Cerro Miguel
+991393,2,2,5,8,3237,6,Cebg  Boca De Uracillo
+991579,2,2,5,8,3423,7,Cebg  San Cristobal
+991725,2,2,5,8,3569,8,C.e.b.g.  El Jobo De Río Indio
+991841,2,2,5,8,3685,9,C.e.b.g. Cristobal Alabarca
+988790,2,2,5,9,603,1,Esc. Mercedes Bustamante
+989121,2,2,5,9,934,12,C.e.b.g.  Boca De Chiguirí
+989167,2,2,5,9,980,13,C.e.b.g. Sabana Larga
+989204,2,2,5,9,1017,14,C.e.b.g.  Tambo
+989231,2,2,5,9,1044,15,Ce  Miraflores
+989273,2,2,5,9,1086,17,Esc. La Martillada
+989289,2,2,5,9,1102,18,Cebg. Chiguirí Abajo
+989824,2,2,5,9,1637,2,Esc. La Cuesta De Marica
+989965,2,2,5,9,1778,21,Cebg. Altos Del Coco
+990004,2,2,5,9,1817,25,Cebg. Tucuecito
+990018,2,2,5,9,1831,27,Cebg. Los Pilares
+990024,2,2,5,9,1837,28,Cebg. San José Del Naranjal
+990455,2,2,5,9,2268,3,Esc. Bilingüe Sagreja
+990562,2,2,5,9,2375,35,Cefacei La Candelaria
+990565,2,2,5,9,2378,36,Cebg. Ojo De Agua
+5993262,2,2,5,9,5005075,37,C.e.b.g. Atré
+988856,2,2,5,10,638,1,Esc. Tulú
+989036,2,2,5,10,818,10,C.e.b.g.  Boca De Cuiria
+989154,2,2,5,10,936,12,C.e.b.g. La Tulúa
+989200,2,2,5,10,982,13,Cebg. San Vicente
+989263,2,2,5,10,1045,15,C.e.b.g.  Nuevo San Antonio
+989285,2,2,5,10,1067,16,C.e.b.g.  Luracito Arriba
+989334,2,2,5,10,1116,19,C.e.b.g.  Las Marinas
+989985,2,2,5,10,1767,20,Esc. San Pablo
+990510,2,2,5,10,2292,3,Esc. Lurá Centro
+990934,2,2,5,10,2716,4,C.e.b.g.  Buena Vista
+991909,2,2,5,10,3691,9,C.e.b.g. San Isidro
+5993677,2,2,5,10,5005459,21,Ce Unión Santeña
+5993288,2,2,5,11,5005039,1,Esc. Cuiria
+5993289,2,2,5,11,5005040,2,C.e.b.g. Boca De Tulú
+5993290,2,2,5,11,5005041,3,Esc. Boca De Lurá
+5993291,2,2,5,11,5005042,4,C.e. Lourdes
+5993292,2,2,5,11,5005043,5,C.e.b.g. Boca De Banazo
+5993293,2,2,5,11,5005044,6,Esc. Paso Real
+5993294,2,2,5,11,5005045,7,C.e.b.g. Villa Del Carmen
+5993295,2,2,5,11,5005046,8,C.e. Cañazas
+5993296,2,2,5,11,5005047,9,C.b. Manuel Jaén Rodríguez
+5993297,2,2,5,11,5005048,10,C.e.b.g. Boca De Tucué
+5993298,2,2,5,11,5005049,11,C.e.b.g. El Guayabo
+5993330,2,2,5,12,5005050,1,C.e.b.g.  Bito
+5993331,2,2,5,12,5005051,2,C.e.b.g. Altos De San Miguel
+5993332,2,2,5,12,5005052,3,Esc. Santa Ana
+5993333,2,2,5,12,5005053,4,C.e.b.g. Caño De San Miguel
+5993334,2,2,5,12,5005054,5,C.e.b.g. Alto De Los Darieles
+5993335,2,2,5,12,5005055,6,C.e.b.g. Valle De San Miguel
+5993336,2,2,5,12,5005056,7,Esc. Banazo
+5993337,2,2,5,12,5005057,8,Esc. Las  Qdas. De U
+5993369,2,2,5,13,5005058,1,Cebg. Renacimiento De U
+5993370,2,2,5,13,5005059,2,Esc. Quebrada Grande
+5993371,2,2,5,13,5005060,3,Esc. Barrios Unidos
+5993372,2,2,5,13,5005061,4,C.e.b.g. Asunción Chirú
+5993373,2,2,5,13,5005062,5,Ce. Candelario Ovalle
+5993374,2,2,5,13,5005063,6,Esc. Río Indio Arriba
+5993375,2,2,5,13,5005064,7,C.e.b.g. Brazo De U
+5993407,2,2,5,14,5005065,1,Esc. Sonadora
+5993408,2,2,5,14,5005066,2,Esc. La Negrita
+5993409,2,2,5,14,5005067,3,Esc. Monte Grande
+5993410,2,2,5,14,5005068,4,Esc. Churuquita Grande
+5993411,2,2,5,14,5005069,5,C.e.b.g. Guabal
+5993412,2,2,5,14,5005070,6,Esc. El Barrero
+5993413,2,2,5,14,5005071,7,Instituto Carmen Conté Lombardo
+5993414,2,2,5,14,5005072,8,C.e.b.g. San Juan Bosco
+5993415,2,2,5,14,5005073,9,Esc. Modesto Morán H.
+5993416,2,2,5,14,5005074,10,Esc. Celestino Del Rosario
+5993450,2,2,5,15,5005077,1,C.e.b.g. El Limón
+5993451,2,2,5,15,5005078,2,Esc. Gurbé
+5993452,2,2,5,15,5005079,3,C.e.b.g. Zenón Magallón
+5993453,2,2,5,15,5005080,4,C.e.b.g. Valle De Platanal
+5993454,2,2,5,15,5005081,5,C.e.b.g. Alto De Riecito
+5993455,2,2,5,15,5005082,6,Esc. Los Elegidos
+5993456,2,2,5,15,5005083,7,C.e.b.g. Las Palmas
+5993457,2,2,5,15,5005084,8,C.e.b.g. La Encantada
+5993813,2,2,5,15,5005440,9,Esc. Santa María
+5993489,2,2,5,16,5005085,1,C.e.b.g. Zumbador
+5993490,2,2,5,16,5005086,2,C.e.b.g. Asunción Morán
+5993491,2,2,5,16,5005087,3,Esc. Santa Cruz
+5993492,2,2,5,16,5005088,4,C.e.b.g. Caimital
+5993493,2,2,5,16,5005089,5,Ce. Perecabé
+5993494,2,2,5,16,5005090,6,C.e.b.g. La Pedregosa
+5993495,2,2,5,16,5005091,7,C.e.b.g. Las Pozas
+5993496,2,2,5,16,5005092,8,Cebg. Las Minas
+1012930,6,3,0,1,5,1,Inst. Rufo Garay
+1014047,6,3,0,1,1122,2,Col.  José Guardia Vega
+1014772,6,3,0,1,1847,3,C.e.b.g.  Rep. De Paraguay
+1015311,6,3,0,1,2386,4,Esc. Bilingüe Juan Antonio Henríquez
+1015705,6,3,0,1,2780,5,Esc. Bilingüe Carlos Clement
+1015986,6,3,0,1,3061,6,Esc. Bilingüe Pablo Arosemena
+6018213,6,3,0,1,5005288,7,C.e.b.g. Rep. Uruguay
+6018214,6,3,0,1,5005289,8,Iphe Plan
+6018215,6,3,0,1,5005290,9,Iphe Parvulario
+1014155,6,3,0,2,1199,2,Esc. Bilingüe República De Bolivia
+1014871,6,3,0,2,1915,3,Esc. Bilingüe Porfirio Meléndez
+1017831,6,3,0,2,4875,5,Col. San José De La Salle
+6017868,6,3,0,2,5004912,50,Hospital Amador Guerrero
+1013160,6,3,0,3,173,1,Esc. Bilingüe Elisa Vda. De Garrido
+1014258,6,3,0,3,1271,2,C.e.b.g. El Jiral
+1014965,6,3,0,3,1978,3,Esc. Alto De Divisa
+1015849,6,3,0,3,2862,5,Esc. La Coclesana
+1016487,6,3,0,3,3500,8,Esc. De Peña Blanca
+1016618,6,3,0,3,3631,9,C.e.b.g. Qda. Bonita N°1
+1013272,6,3,0,4,254,1,Esc. Bilingüe Manuel Urbano Ayarza
+1014356,6,3,0,4,1338,2,Esc. La Represa
+1015048,6,3,0,4,2030,3,I.p.t.c. (Palo Quemado)
+1015543,6,3,0,4,2525,4,Cent. De Educación Barriada Kuna
+6018309,6,3,0,4,5005291,5,Esc. El Laguito
+6018310,6,3,0,4,5005292,6,Kinder San Judas Tadeo
+1013383,6,3,0,5,334,1,C.e.b.g. Ernesto Triana Zerda
+1014457,6,3,0,5,1408,2,C.e.b.g. Juan García Torres
+1015133,6,3,0,5,2084,3,Esc. Los Cedros Abajo
+1015606,6,3,0,5,2557,4,Esc. Cirí Grande
+1013492,6,3,0,6,412,1,Inst.  Simón M.  Urbina
+1016260,6,3,0,6,3180,6,Gimnasio De Gamboa
+1017950,6,3,0,6,4870,9,Universidad Tec. De Colón
+1017951,6,3,0,6,4871,10,Esc. Bilingüe Sudáfricana
+1017952,6,3,0,6,4872,11,C.f.i. Col. Abel Bravo
+6018028,6,3,0,6,5004948,50,Cárcel Pública Nueva Esperanza
+6018373,6,3,0,6,5005293,12,C.r.u. De Colón
+6018374,6,3,0,6,5005294,13,Inadeh
+6018482,6,3,0,6,5005402,14,Col. La Salle Margarita
+1013584,6,3,0,7,473,1,C.e.b.g.  Adelaida R. De Herrera
+1014639,6,3,0,7,1528,2,Esc. Quebradón
+1015291,6,3,0,7,2180,3,Esc. Orondaste L. Martínez
+1013672,6,3,0,8,530,1,C.e.  Efraín Tejada Urriola
+1014719,6,3,0,8,1577,2,C.e.b.g. Río Gatún
+1015360,6,3,0,8,2218,3,C.e.b.g. Qda. Ancha
+1015804,6,3,0,8,2662,4,Esc. Alfagia
+1013755,6,3,0,9,582,1,Esc. Nva. Providencia
+1014797,6,3,0,9,1624,2,Esc. Bilingüe Río Rita
+1013822,6,3,0,10,618,1,C.e.b.g.  Luis Jiménez R.
+1014853,6,3,0,10,1649,2,Esc. Felipe Salabarría Mesa
+1015482,6,3,0,10,2278,3,Esc. Villa Alondra
+1015911,6,3,0,10,2707,4,Esc. Sierra Llorona N.2
+6018499,6,3,0,10,5005295,5,High School Eden
+1013885,6,3,0,11,650,1,Esc. Bilingüe Marcos R. Vásquez
+1014914,6,3,0,11,1679,2,Esc. Bilingüe Crispino Ceballos
+1015536,6,3,0,11,2301,3,Inst. Benigno Jiménez
+1015958,6,3,0,11,2723,4,C.e.b.g.  Santa Rita Arriba
+6018531,6,3,0,11,5005296,5,Esc. Nuestra Señora De Lourdes
+6018532,6,3,0,11,5005297,6,C.e. Shalon Rabi
+1013943,6,3,0,12,677,1,C.e.b.g.  Salamanca
+1014966,6,3,0,12,1700,2,Esc.daniel Centeno
+1015580,6,3,0,12,2314,3,Esc. Villa  Santa Cruz
+1016002,6,3,0,12,2736,4,C.e.b.g. Boquerón Arriba
+1016300,6,3,0,12,3034,5,Esc. Nuevo Paraíso
+1013992,6,3,0,13,695,1,C.e.b.g. Nvo. San Juan
+1015012,6,3,0,13,1715,2,C.e.b.g. Dr.  Augusto  Boyd N°2
+1015619,6,3,0,13,2322,3,Esc. Bilingüe Gatuncillo
+1016039,6,3,0,13,2742,4,C.e.b.g. Nuevo Vigía
+1016336,6,3,0,13,3039,5,Esc. Bilingüe Desmond Bayan
+6018595,6,3,0,13,5005298,6,Esc. Adventista El 20
+6018703,6,3,0,13,5005406,7,Esc. Secundaria De Gatuncillo
+1014037,6,3,0,14,709,1,Esc. Santa Rosa No. 1
+1015054,6,3,0,14,1726,2,Esc. Palenque Carretera
+1015661,6,3,0,14,2333,3,Esc. Aguas Claras No 1
+1017977,6,3,0,15,4618,4,C.e. San Miguel Febres Cordero
+1017978,6,3,0,15,4619,5,Esc. Bilingüe Cristobal Colón
+6018658,6,3,0,15,5005299,6,C.e. Santa María De Belén
+1013906,7,3,1,1,20,1,Esc. De  Chagres
+1014019,7,3,1,2,102,1,C.e.b.g. El Achiote
+1014133,7,3,1,3,185,1,C.e.telebásico El Guabo
+1015230,7,3,1,3,1282,2,Esc. Santa Fe
+1015934,7,3,1,3,1986,3,Esc. El Plátano
+1014244,7,3,1,4,265,1,Esc. El Marañón
+1015327,7,3,1,4,1348,2,Esc. Las Cruces
+1016018,7,3,1,4,2039,3,Esc. El Congo
+1016509,7,3,1,4,2530,4,Esc. Santa Rosa
+1016870,7,3,1,4,2891,5,Esc. La Nva. Arenosa
+1017128,7,3,1,4,3149,6,Esc. El Limón
+1017335,7,3,1,4,3356,7,C.e.b.g. La Encantadita
+1014354,7,3,1,5,344,1,Esc. Primaria  José Leandro Solís
+1015427,7,3,1,5,1417,2,Esc. Mosquera
+1014461,7,3,1,6,420,1,Esc. De Piña
+1015522,7,3,1,6,1481,2,Esc. La Unión
+1014553,7,3,1,7,481,1,Esc. Salud
+1015608,7,3,1,7,1536,2,Esc. Sevilla
+1016259,7,3,1,7,2187,3,Esc. Costa De Oro
+1014879,7,3,2,1,32,1,C.e.b.g.  Miguel De La Borda
+1015994,7,3,2,1,1147,2,Ce. El Limón
+1016717,7,3,2,1,1870,3,Esc. Rio Diego
+1017253,7,3,2,1,2406,4,C.e.b.g.  El Vallecito
+1017643,7,3,2,1,2796,5,Ce. Nuevo Veraguas
+1017923,7,3,2,1,3076,6,C.e.b.g. El Platanal
+1014992,7,3,2,2,114,1,Cebg. Coclé Del Norte
+1016097,7,3,2,2,1219,2,Esc. Belén
+1016810,7,3,2,2,1932,3,Cebg. Sabanita Verde
+1017338,7,3,2,2,2460,4,Cebg. Boca De Toabré
+1017716,7,3,2,2,2838,5,Cebg. Santa Elena
+1017990,7,3,2,2,3112,6,Esc. Calle Larga
+1018207,7,3,2,2,3329,7,C.e. Río Palmilla
+1019654,7,3,2,2,4776,8,Esc. Nueva Lucha De Petaquilla
+1019656,7,3,2,2,4778,9,C.e.b.g. San José De San Lucas
+1015105,7,3,2,3,196,1,Esc. Celestino Villarreta
+1016902,7,3,2,3,1993,3,Cebg. Boca Del Congal
+1017410,7,3,2,3,2501,4,Esc. Villa Del Carmen
+1019686,7,3,2,3,4777,5,C.e.b.g. Cerro Miguel
+6020344,7,3,2,3,5005435,6,Esc. Nueva Concepción
+6020345,7,3,2,3,5005436,7,Cebg Alto De Santa Cruz
+6020346,7,3,2,3,5005437,8,Esc. Nuevo San José #1
+6020373,7,3,2,3,5005464,9,Esc. Los Chorritos
+1015216,7,3,2,4,276,1,Esc. Gobea
+1016296,7,3,2,4,1356,2,Esc. La Andriona
+1015326,7,3,2,5,355,1,I.p.t. Gil Betegón Martínez
+1016396,7,3,2,5,1425,2,Esc. Jobo Abajo
+1017069,7,3,2,5,2098,3,Esc. Las Minas
+1015849,7,3,3,1,41,1,Esc. Bilingüe Jacoba Urriola Solis
+1016963,7,3,3,1,1155,2,Esc. Nvo. Tonosí
+1017685,7,3,3,1,1877,3,Esc. Río Guanche
+1018219,7,3,3,1,2411,4,Esc. Río Piedra
+6021215,7,3,3,1,5005407,5,Esc. Primaria De Buenaventura
+1015962,7,3,3,2,123,1,Esc. Manuel A. Molinar
+1016075,7,3,3,3,205,1,Cent. Telebásico Garrote
+1017166,7,3,3,3,1296,2,Esc. San Antonio
+1016186,7,3,3,4,285,1,Esc. Isla Grande
+1017264,7,3,3,4,1363,2,Esc. Portolatina C. De Rios
+1016296,7,3,3,5,364,1,Esc. María Chiquita
+6021428,7,3,3,5,5005496,60,Centro De Cumplimiento Basilio Lakas
+1016819,7,3,4,1,50,1,Esc. Palenque
+1016932,7,3,4,2,132,1,Esc. Juana M. Vda. De Sugaste
+1017045,7,3,4,3,214,1,Esc. Miramar
+1017156,7,3,4,4,294,1,Esc. José Isabel Herrera
+1017266,7,3,4,5,373,1,Esc. Ernesto Acosta
+1017369,7,3,4,6,445,1,Esc. Playa Chiquita
+1017457,7,3,4,7,502,1,Esc. Simeón Salazar
+1017542,7,3,4,8,556,1,Esc. Heriberto Molinar
+1022575,7,3,5,1,4845,1,Iptc Coclecito
+1022607,7,3,5,2,4846,1,Cebg San Juan De Turbe
+1022608,7,3,5,2,4847,2,Cebg Nuevo San José
+6023224,7,3,5,2,5005463,3,Esc. San Benito
+1022640,7,3,5,3,4848,1,Cebg Nuevo Sinai
+1022641,7,3,5,3,4849,2,Esc. Nueva Esperanza
+1042722,11,4,0,1,6,1,Esc. Alanje
+1043839,11,4,0,1,1123,2,Esc. Mostrenco
+1042838,11,4,0,2,91,1,Esc. Bilingüe Divalá
+1043947,11,4,0,2,1200,2,C.e. Los Limones
+6047855,11,4,0,2,5005108,9,I.p.t. Divala
+1042952,11,4,0,3,174,1,Esc. Primaria El Tejar
+1044050,11,4,0,3,1272,2,C.e. La Pita
+1044757,11,4,0,3,1979,3,Esc. Loma De San Pedro
+6047887,11,4,0,3,5005109,4,Col. Sec. De Alanje
+1043064,11,4,0,4,255,1,C.e.b.g De Guarumal
+1044148,11,4,0,4,1339,2,Esc. Primaria Los Pocitos
+1044840,11,4,0,4,2031,3,C.e. De Guásimo
+1043175,11,4,0,5,335,1,Esc. Palo Grande
+1043284,11,4,0,6,413,1,Esc. Los Querévalos
+1044345,11,4,0,6,1474,2,Esc. Orilla Del Río
+1043376,11,4,0,7,474,1,C.e.b.g. Santo Tomas
+1045537,11,4,0,7,2635,4,Esc. De San Martín
+1043464,11,4,0,8,531,1,Esc. Canta Gallo
+1043547,11,4,0,9,583,1,Esc. Las Mercedes
+1044589,11,4,0,9,1625,2,Esc. Santa Lucía
+1045658,11,4,0,9,2694,4,Esc. Chiriquí Viejo
+1045976,11,4,0,9,3012,5,Casa Justicia Comunitaria Nuevo México
+1043698,9,4,1,1,21,1,Esc. Bilingüe  San Vicente
+1044727,9,4,1,1,1050,16,Centro Pedagógico Monte Verde
+1044814,9,4,1,1,1137,2,C.e. Tomás Armuelles
+1045538,9,4,1,1,1861,3,Esc. Puerto Armuelles
+1046056,9,4,1,1,2379,37,Esc. Guanábano
+1046058,9,4,1,1,2381,38,C.e.b.g Las Mellicitas
+1046060,9,4,1,1,2383,39,Centro Pedagógico  Agua Buena
+1046075,9,4,1,1,2398,4,Esc. Sec. De P. Armuelles
+1046447,9,4,1,1,2770,42,Esc. Brisas Del Mar
+1046449,9,4,1,1,2772,44,Esc. Flor De Lima
+1046451,9,4,1,1,2774,46,C.e. Adventista De Barú
+1046452,9,4,1,1,2775,47,Esc. Los Ángeles
+1046453,9,4,1,1,2776,48,Esc. Márgenes De Corotú
+1046467,9,4,1,1,2790,5,C.e. Río Mar
+1046748,9,4,1,1,3071,6,Col. San Antonio
+6048593,9,4,1,1,5004916,50,Hospital Dionisio Arrocha
+6048787,9,4,1,1,5005110,51,Instituto De Idiomas De Puerto Armuelles
+1043811,9,4,1,2,103,1,C.e. Punta Burica
+1044918,9,4,1,2,1210,2,Esc. Caña Blanca
+1045633,9,4,1,2,1925,3,Esc. Bella Vista
+1046161,9,4,1,2,2453,4,Esc. Puerto Balsa
+1046540,9,4,1,2,2832,5,Esc. Qda. Tallo
+1043925,9,4,1,3,186,1,Esc. Progreso
+1044651,9,4,1,3,912,12,Esc. Chuchupate
+1044699,9,4,1,3,960,13,Esc. Colorado Centro
+1044742,9,4,1,3,1003,14,C.e. Media De Progreso
+1045022,9,4,1,3,1283,2,Esc. Cuervito
+1045726,9,4,1,3,1987,3,Esc. Paso Canoa Abajo
+1046235,9,4,1,3,2496,4,C.e.b. Bilingüe  Paso Canoa Internacional
+1046605,9,4,1,3,2866,5,Esc. Paso  Canoa Arriba
+1046871,9,4,1,3,3132,6,Esc. Colorado Km. 32
+1044036,9,4,1,4,266,1,Esc. Berba
+1045119,9,4,1,4,1349,2,Esc. De Corotú Civil
+1045810,9,4,1,4,2040,3,C.e.b.g. De Baco
+1046301,9,4,1,4,2531,4,C.b.m.  Ciprés
+1046662,9,4,1,4,2892,5,C.e.b.g. La Esperanza
+1046920,9,4,1,4,3150,6,Esc. San Valentín
+1047127,9,4,1,4,3357,7,Esc. Kilometro 24
+1047284,9,4,1,4,3514,8,Esc. De Teca
+1047412,9,4,1,4,3642,9,Esc. Madre Vieja- Zona 21
+1044146,9,4,1,5,345,1,C.e. Almendro Asentamiento
+1044663,9,4,1,5,862,11,Centro Pedagógico Higuerón
+1044882,9,4,1,5,1081,17,Esc. Caoba 01
+1044901,9,4,1,5,1100,18,C.e. Zapatero
+1044914,9,4,1,5,1113,19,Esc. La Victoria
+1045219,9,4,1,5,1418,2,Esc. Blanco Arriba
+1045588,9,4,1,5,1787,22,Esc. Los Plancitos
+1045617,9,4,1,5,1816,25,Centro Pedagógico  Caoba 09
+1045625,9,4,1,5,1824,26,Esc. Cañazas
+1045631,9,4,1,5,1830,27,Esc.  Balsa
+1045892,9,4,1,5,2091,3,Esc. Burica Centro
+1046158,9,4,1,5,2357,30,C.e. San Antonio
+1046717,9,4,1,5,2916,5,Esc. Corozo
+1047172,9,4,1,5,3371,7,Esc.primaria Fina Blanco
+1047325,9,4,1,5,3524,8,Esc. Finca Bongo
+1048470,9,4,1,5,4669,32,C.e. Palmito
+6048914,9,4,1,5,5005113,33,Esc. Secundaria Finca Blanco
+6048796,9,4,1,6,5004964,1,Esc. San Bartolo Línea
+6048797,9,4,1,6,5004965,2,Centro Pedagógico Sangrillo Arriba
+6048798,9,4,1,6,5004966,3,Esc. Palmar Sur
+6048799,9,4,1,6,5004967,4,Esc. Bella Vista
+6048800,9,4,1,6,5004968,5,Esc. Tres Brazos
+6048801,9,4,1,6,5004969,6,Esc. Bilingüe El Palmar
+6048944,9,4,1,6,5005112,7,C.r.u.ba
+6049222,9,4,1,6,5005390,8,Inst. Puerto Armuelles
+6048833,9,4,1,7,5004970,1,C.e.b.g. Jobito
+6048834,9,4,1,7,5004971,2,Esc. El Higuito
+6048835,9,4,1,7,5004972,3,Esc. La Ceiba
+6048836,9,4,1,7,5004973,4,C.e. Finca  Majagua
+6048837,9,4,1,7,5004974,5,C.e. Malagueto
+6048838,9,4,1,7,5004975,6,C.e. Lechoza
+6048839,9,4,1,7,5004976,7,Esc. Los Olivos
+6048840,9,4,1,7,5004977,8,Esc. Manaca Civil
+6048841,9,4,1,7,5004978,9,Esc. Aguacatón
+6048842,9,4,1,7,5004979,10,Esc. Corredor
+6048843,9,4,1,7,5004980,11,Esc. Manaca Norte
+6048844,9,4,1,7,5004981,12,Ipt Barú
+6048845,9,4,1,7,5004982,13,C.ped. Guayacán
+1044671,11,4,2,1,33,1,Esc.  Antonio Ríos Saavedra
+1045786,11,4,2,1,1148,2,Esc. Boquerón Viejo
+1046509,11,4,2,1,1871,3,C.e. La Meseta
+1047045,11,4,2,1,2407,4,Escuela Macano
+1044784,11,4,2,2,115,1,Esc. Dr. Miguel Peregrino Sánchez P.
+1045889,11,4,2,2,1220,2,C.e. Cerro Colorado
+1046602,11,4,2,2,1933,3,Esc. Cerro Cabuya
+1047130,11,4,2,2,2461,4,C.e. Ojo De Agua
+1044897,11,4,2,3,197,1,Esc. Cordillera
+1045008,11,4,2,4,277,1,C.e.b.g. El Aguacate
+1046088,11,4,2,4,1357,2,Esc. Guabal
+1045118,11,4,2,5,356,1,Esc. Guayabal
+1046188,11,4,2,5,1426,2,C.e.  Bocalatún
+1046861,11,4,2,5,2099,3,Esc. Santa Rita
+1047331,11,4,2,5,2569,4,Esc. Macano Arriba
+1045224,11,4,2,6,431,1,Esc. Paraíso
+1046283,11,4,2,6,1490,2,C.e. Santa Marta
+1045314,11,4,2,7,490,1,Esc. La Victoria
+1046368,11,4,2,7,1544,2,Esc. Pedregalito
+1047018,11,4,2,7,2194,3,Esc.  Guinea
+1045399,11,4,2,8,544,1,C.e. De  Tijeras
+1046444,11,4,2,8,1589,2,C.e. Sitio Lázaro
+1045641,12,4,3,1,42,1,C.e.b.g. Josefa  Montero  Vásquez
+1048011,12,4,3,1,2412,4,Esc. De Volcancito
+6050714,12,4,3,1,5005115,11,Colegio Pio Xii
+1045754,12,4,3,2,124,1,Centro Básico  Caldera
+1046858,12,4,3,2,1228,2,Esc. Pueblo Nuevo
+1045867,12,4,3,3,206,1,Esc. Palmira
+1046958,12,4,3,3,1297,2,Esc. Palmira Abajo
+1045978,12,4,3,4,286,1,Esc. Alto Boquete
+1047056,12,4,3,4,1364,2,Esc. Francés Arriba
+1047742,12,4,3,4,2050,3,Esc. Sec. Benigno Tomás Argote
+6050808,12,4,3,4,5005116,4,Jardin De Infancia Caterina Volpicelli
+6050810,12,4,3,4,5005118,6,Academia Inst. Boquete
+1046088,12,4,3,5,365,1,Esc. Alto Jaramillo
+1047157,12,4,3,5,1434,2,Esc. Jaramillo Abajo
+1047827,12,4,3,5,2104,3,Esc. Jaramillo Arriba
+1048298,12,4,3,5,2575,4,Esc. Estrella Los Valles
+1046192,12,4,3,6,438,1,Esc. Octavio López P.
+1047252,12,4,3,6,1498,2,C.e. Alto Quiel
+1047909,12,4,3,6,2155,3,C.e. Palo Alto
+1046611,10,4,4,1,51,1,Esc. Justo A. Castillo
+1047325,10,4,4,1,765,10,Col.  Daniel Octavio Crespo
+1047400,10,4,4,1,840,11,Esc. Bilingüe Belén
+1047460,10,4,4,1,900,12,Esc. San Miguel Del Yuco
+1047510,10,4,4,1,950,13,C.e. El Porvenir
+1047722,10,4,4,1,1162,2,Esc. Bugabita
+1048444,10,4,4,1,1884,3,Esc. San Vicente
+6051679,10,4,4,1,5005119,14,Esc. Adventista De La Concepción
+6051680,10,4,4,1,5005120,15,Saint  Michel ' Institute
+6051682,10,4,4,1,5005122,17,Esc. Laboral Particular Colpano
+6051683,10,4,4,1,5005123,18,Inst. Barú
+6051684,10,4,4,1,5005124,19,C.e. Bilingüe Santa Catalina
+1046724,10,4,4,2,133,1,Esc. Gariché
+1047364,10,4,4,2,773,10,Esc.de Exquisito
+1047499,10,4,4,2,908,12,Esc. La Libertad
+1047826,10,4,4,2,1235,2,C.e.  Los Azules
+1049923,10,4,4,2,3332,7,Esc. La Unión
+1050084,10,4,4,2,3493,8,Esc. Aserrío
+6051717,10,4,4,2,5005126,13,Esc. Sec. De Aserrio
+1046837,10,4,4,3,215,1,Esc. Bugaba
+1047927,10,4,4,3,1305,2,Esc. La Mata De Bugaba
+1048627,10,4,4,3,2005,3,C.e.  Brisa Del Río
+1047058,10,4,4,5,374,1,Esc. De  Gómez
+1048124,10,4,4,5,1440,2,Esc. Gómez Abajo
+1048793,10,4,4,5,2109,3,Esc. San Miguel De Exquisito
+1049264,10,4,4,5,2580,4,Esc. La Meseta
+1049609,10,4,4,5,2925,5,Esc. Alto Chiriquí
+1047161,10,4,4,6,446,1,Esc. La Estrella
+1048216,10,4,4,6,1501,2,Esc. Sioguí Abajo N.1
+1048873,10,4,4,6,2158,3,Esc. Sioguí Arriba
+1049330,10,4,4,6,2615,4,Esc. Sioguí Abajo N.2
+1049664,10,4,4,6,2949,5,Esc. Altos De Los Mirandas
+1051380,10,4,4,6,4665,6,C.e. La Tranca
+1047249,10,4,4,7,503,1,Esc. San Andrés
+1048299,10,4,4,7,1553,2,Esc. San Francisco
+1048948,10,4,4,7,2202,3,Esc. Qda. Llana
+1047334,10,4,4,8,557,1,C.e. Santa Marta
+1048377,10,4,4,8,1600,2,Esc. Bijagual
+1049014,10,4,4,8,2237,3,Esc. Ojo De Agua
+6051904,10,4,4,8,5005127,4,Esc. Bijagual No 2
+1047407,10,4,4,9,599,1,Esc. Santa Rosa
+1048441,10,4,4,9,1633,2,Centro Pedagógico Bajo Frío
+1049073,10,4,4,9,2265,3,Esc. El Santo
+1049506,10,4,4,9,2698,4,Esc. Básica Camarón Arriba
+1047473,10,4,4,10,634,1,C.e.b.g. Santo Domingo
+1048504,10,4,4,10,1665,2,Esc. Básico General De Manchuila
+1049127,10,4,4,10,2288,3,Esc. Gariché Abajo
+1051505,10,4,4,10,4666,4,Esc. Quebrada Negra
+1047533,10,4,4,11,663,1,Esc. Sortová
+1048558,10,4,4,11,1688,2,Esc. La Colonia
+1049176,10,4,4,11,2306,3,Esc. Chatal
+1049598,10,4,4,11,2728,4,Esc. Volante
+1047633,10,4,4,13,701,1,C.e. Bongo Abajo
+1048652,10,4,4,13,1720,2,Esc. Bongo Arriba
+1049259,10,4,4,13,2327,3,Esc. El Calvario
+1049678,10,4,4,13,2746,4,Esc. La Cuchilla
+1051595,10,4,4,14,4632,1,Esc. Solano
+1051658,10,4,4,14,4695,2,I.p.t. La Concepción
+1051757,10,4,4,15,4763,1,C.e.  Jacú
+1051758,10,4,4,15,4764,2,C.e. San Isidro
+1051759,10,4,4,15,4765,3,Esc. San Pedro
+1051760,10,4,4,15,4766,4,Esc. La Celmira
+1051761,10,4,4,15,4767,5,C.e.b.g. El Porton
+1051762,10,4,4,15,4768,6,Esc. Quebrada Grande
+1047580,8,4,5,1,59,1,Esc. Bilingüe Doleguita
+1048574,8,4,5,1,1053,16,Esc. Portachuelo
+1048614,8,4,5,1,1093,18,Col. Francisco Morazán
+1048630,8,4,5,1,1109,19,Esc. El Varital
+1048691,8,4,5,1,1170,2,Col. Félix Olivares C.
+1049315,8,4,5,1,1794,23,Col. Nuestra Señora De Los Angeles
+1049413,8,4,5,1,1892,3,Esc. Bilingüe Rep. De Francia
+1049943,8,4,5,1,2422,4,C.e.b.g. Santa Cruz De David
+1050609,8,4,5,1,3088,6,Cebg San Mateo
+6052438,8,4,5,1,5004917,51,Hospital Chiriquí
+6052470,8,4,5,1,5004949,52,Cent. De Custodio Y Cumplimiento Aurelio Granados
+6052649,8,4,5,1,5005128,27,Cambridge  Bilingual School
+6052650,8,4,5,1,5005129,28,Univ. Iberoamericana De Panamá
+6052651,8,4,5,1,5005130,29,I.p.t. David- Cabecera
+6052652,8,4,5,1,5005131,30,Academia Internacional David
+6052654,8,4,5,1,5005133,32,C.e. Vocacional Obispado
+6052655,8,4,5,1,5005134,33,Col. San Agustín
+1047693,8,4,5,2,141,1,Esc. Mariano Candanedo
+1048795,8,4,5,2,1243,2,Esc. Los Cerrillos
+1047805,8,4,5,3,222,1,C.e. Marcelino Samudio
+1048893,8,4,5,3,1310,2,Esc. Cochea Arriba
+1049592,8,4,5,3,2009,3,Esc. El Higo
+1050095,8,4,5,3,2512,4,Esc. Guayabal
+6053058,8,4,5,3,5005475,6,Ce De Macano
+1047917,8,4,5,4,303,1,Esc. Chiriquí
+1048993,8,4,5,4,1379,2,Esc. Chorcha Abajo
+1049674,8,4,5,4,2060,3,Esc. La Pita
+1050159,8,4,5,4,2545,4,Esc. Veladero
+6052564,8,4,5,4,5004950,50,Centro Penitenciario De Chiriquí
+1048027,8,4,5,5,382,1,C.e.  Guaca Arriba
+1049092,8,4,5,5,1447,2,Esc. Nance Bonito
+1049760,8,4,5,5,2115,3,Ce Palmira Del Banco
+1050228,8,4,5,5,2583,4,Ce  Guaca Abajo
+1052316,8,4,5,5,4671,5,Esc. Alto Majagua
+1048129,8,4,5,6,453,1,Esc. Bilingüe  Victoriano Lorenzo
+1049184,8,4,5,6,1508,2,Esc. Mata Del Nance
+1049839,8,4,5,6,2163,3,Esc. El Quiteño
+1050297,8,4,5,6,2621,4,Esc. El Valle
+1050630,8,4,5,6,2954,5,Esc. Llano Grande Abajo
+1050873,8,4,5,6,3197,6,Esc. Bilingüe San José (Las Lomas)
+1051071,8,4,5,6,3395,7,Esc. Llano Grande Arriba
+1052348,8,4,5,6,4672,8,Col. Victoriano Lorenzo
+1048217,8,4,5,7,510,1,Esc. Bilingüe Pedregal
+1049267,8,4,5,7,1560,2,Esc. Bilingüe  La Primavera
+1049914,8,4,5,7,2207,3,Esc. Bilingüe La Primavera ( Anexo)
+6052842,8,4,5,7,5005135,4,Centro Especial  I.p.h.e.
+6052843,8,4,5,7,5005136,5,Col. Pablo Emilio Corsen
+1048300,8,4,5,8,562,1,Esc. Aura Rosa Aguilar
+1049342,8,4,5,8,1604,2,Esc. San Carlitos
+1049979,8,4,5,8,2241,3,Esc. Sabana Bonita
+1050739,8,4,5,8,3001,5,Usma
+1048373,8,4,5,9,604,1,Esc. Amada González De Morales
+1049407,8,4,5,9,1638,2,Esc. Corozal
+6052906,8,4,5,9,5005137,3,Esc. Margarita Beerman
+1048439,8,4,5,10,639,1,Esc. San Pablo Viejo Arriba
+1049469,8,4,5,10,1669,2,Esc. Montilla
+1050093,8,4,5,10,2293,3,Esc. Santo Domingo De Guzmán
+1050517,8,4,5,10,2717,4,Esc. Aguacatal
+1050825,8,4,5,10,3025,5,C.e.b.g.  Vidal B. De Barroso
+1051059,8,4,5,10,3259,6,Col. Adventista Bilingüe De David
+1052473,8,4,5,10,4673,9,Esc. San Juan De David
+6052714,8,4,5,10,5004914,50,Hospital José Domingo De  Obaldía
+6052715,8,4,5,10,5004915,51,Hospital Rafael Hernández
+6052938,8,4,5,10,5005138,10,Inst. Panamericano
+1052581,8,4,5,11,4750,1,Esc. Nuevo Vedado
+1052582,8,4,5,11,4751,2,C.o.i.f. Gotitas De Amor
+1052583,8,4,5,11,4752,3,Esc. Bilingüe Elisa Chiari
+1052584,8,4,5,11,4753,4,Esc. Bilingüe Loma Colorada
+1052585,8,4,5,11,4754,5,Ce María Olimpia De Obaldía
+1052683,8,4,5,11,4852,6,E.b.g. Centro Bilingüe Elisabetino
+6052971,8,4,5,11,5005140,8,I.n.a.d.h.e.
+6052972,8,4,5,11,5005141,9,Esc. Cristiana Fuente De Luz
+6052973,8,4,5,11,5005142,10,Udelas
+1052617,8,4,5,12,4755,1,Esc. Bilingüe José María Roy
+1052618,8,4,5,12,4756,2,C.e. Bilingüe Victoriano Lorenzo David
+1052619,8,4,5,12,4757,3,C.e. San Cristobal
+1052620,8,4,5,12,4758,4,Inst. David
+1052621,8,4,5,12,4759,5,Esc. Bilingüe Barrio Lassonde
+1052622,8,4,5,12,4760,6,Esc. Bilingüe Los Abanicos
+1052623,8,4,5,12,4761,7,C.o.i.f. Nazareth
+1052624,8,4,5,12,4762,8,C.e.b.g. Nuevo Amanecer
+6053005,8,4,5,12,5005143,9,Col. San Francisco De Asis
+6053006,8,4,5,12,5005144,10,Isae Universidad
+6053007,8,4,5,12,5005145,11,I.p.t. Arnulfo Arias
+6053009,8,4,5,12,5005147,13,Universidad Internacional  Nueva Luz
+6053010,8,4,5,12,5005148,14,Esc. El Buen Pastor
+6053011,8,4,5,12,5005149,15,The Oxford School
+6053012,8,4,5,12,5005150,16,Instituto Del Saber
+6053014,8,4,5,12,5005152,18,U.t.p. (Centro Regional De Chiriquí)
+6053253,8,4,5,12,5005391,19,Esc. King School David
+1048547,12,4,6,1,65,1,Esc. Leopoldina Field
+1050908,12,4,6,1,2426,4,Esc. El Flor
+1051574,12,4,6,1,3092,6,Col. Beatriz M. De Cabal
+6053635,12,4,6,1,5005153,7,C.e. Bilingüe Maudy
+1048661,12,4,6,2,148,1,Esc. José Lucinio  Lara
+6053667,12,4,6,2,5005154,2,C.a.i.p.i. Mis Primeros Pasos (Parbulario)
+1048773,12,4,6,3,229,1,Esc. Los Anastacios
+1049861,12,4,6,3,1317,2,C.e.  Rincón Largo
+1050557,12,4,6,3,2013,3,Esc. Caimito
+6053699,12,4,6,3,5005155,4,Esc. Adventista Bilingüe De Dolega
+1048885,12,4,6,4,310,1,C.e.b.g. Félix  A. Lara
+1050640,12,4,6,4,2065,3,C.e. Cabecera De Cochea
+1048995,12,4,6,5,389,1,C.e. Elifenia Staff
+1050059,12,4,6,5,1453,2,C.e. La Acequia
+1049094,12,4,6,6,457,1,Esc. Mayor Martín González
+1050149,12,4,6,6,1512,2,Esc. Palma Real
+1050804,12,4,6,6,2167,3,C.e. Banco De Palmira
+1051261,12,4,6,6,2624,4,C.e.b.g. Elefia Martínez Serrano
+1051836,12,4,6,6,3199,6,Esc. Rovira Arriba
+1049182,12,4,6,7,514,1,C.e. Rita Irene Wald Jaramillo
+1050231,12,4,6,7,1563,2,C.e.  Los Palomos
+1050877,12,4,6,7,2209,3,Esc. De Balita
+1049265,12,4,6,8,566,1,C.e.b.g. Los Algarrobos
+1050307,12,4,6,8,1608,2,C.e. Las Cañas
+1050944,12,4,6,8,2245,3,C.e. Santa Rosa
+1051383,12,4,6,8,2684,4,C.e. Los Algarrobos Arriba
+6053650,12,4,6,8,5004951,50,Cent. Femenino De Rehabilitación Los Algarrobos
+1049514,12,4,7,1,71,1,Esc. Bilingüe Gualaca
+1050626,12,4,7,1,1183,2,Esc. Higuerón
+1051344,12,4,7,1,1901,3,Esc. Bella Vista
+1051874,12,4,7,1,2431,4,C.e.  Los Planes
+1052258,12,4,7,1,2815,5,Esc. La Esperanza
+1054117,12,4,7,1,4674,6,Col. Jesús María Pla C.
+6054835,12,4,7,1,5005392,8,Esc. Ing. Sebastian Sánchez
+1049628,12,4,7,2,154,1,C.e.b.g.  Valle De La Mina
+1050729,12,4,7,2,1255,2,Esc. Entre Ríos
+1051438,12,4,7,2,1964,3,Esc. Soledad
+1051956,12,4,7,2,2482,4,Esc. De Chiriquicito
+1049740,12,4,7,3,235,1,C.e.b.g. Eutimia Broce De Nieto
+1050827,12,4,7,3,1322,2,C.e.b.g.  Los Bongos
+1049852,12,4,7,4,316,1,C.e. B. G. Paja De Sombrero
+1051605,12,4,7,4,2069,3,Esc. Calabazal
+1052083,12,4,7,4,2547,4,Caseta Bajo Méndez
+1052440,12,4,7,4,2904,5,Esc. La Palma
+1049962,12,4,7,5,395,1,Esc. Rincón De Gualaca
+1051026,12,4,7,5,1459,2,C.e. David Trujillo
+1051691,12,4,7,5,2124,3,Esc. Qda. De Lajas
+1052153,12,4,7,5,2586,4,Esc. Galerita
+1050479,13,4,8,1,75,1,Esc. Antonio Anguizola
+1050705,13,4,8,3,239,1,Esc. Ricardo Murgas
+6055467,13,4,8,6,5004908,4,Cancha El Porvenir
+1052157,13,4,8,7,1567,2,C.e.f.a.c.e.i. El Puerto
+1052234,13,4,8,8,1613,2,Junta Comunal De Santa Lucía
+1051444,11,4,9,1,79,1,Ce. Río Sereno
+1052555,11,4,9,1,1190,2,Ce. Altamira
+1053271,11,4,9,1,1906,3,Esc. El Cerrón
+1053801,11,4,9,1,2436,4,Esc. Miraflores
+1054184,11,4,9,1,2819,5,C.e.  Básico Piedra De Candela
+1054461,11,4,9,1,3096,6,Esc. Union Internacional
+1054681,11,4,9,1,3316,7,Col. Sec. De Renacimiento
+1051558,11,4,9,2,162,1,C.b.  Breñon
+1052659,11,4,9,2,1263,2,Esc. Ojo De Agua
+1053367,11,4,9,2,1971,3,Esc. Salsipuedes
+1051670,11,4,9,3,243,1,C.e. Alto Quiel
+1052756,11,4,9,3,1329,2,Esc. Los Planes
+1053448,11,4,9,3,2021,3,C. B.  Qda. De  Vuelta
+1053946,11,4,9,3,2519,4,Ce. Bajos De Chiriquí
+1054311,11,4,9,3,2884,5,Esc. Cañas Gordas
+1054569,11,4,9,3,3142,6,Esc. De Copal
+1051782,11,4,9,4,324,1,I.p.t. Monte Lirio
+1054368,11,4,9,4,2910,5,Esc. San Antonio
+1054979,11,4,9,4,3521,8,C.e. De Santa Clara Abajo
+1055107,11,4,9,4,3649,9,C.e. San Antonio Arriba
+1051892,11,4,9,5,403,1,C.e.b.g. Caizán Fuertes Caminos
+1052954,11,4,9,5,1465,2,Esc. Alto De La Mina
+1053618,11,4,9,5,2129,3,Esc. Caizán Primavera
+1051985,11,4,9,6,465,1,Esc. Santa Cruz
+1053041,11,4,9,6,1521,2,C.b.  Salitral
+1053694,11,4,9,6,2174,3,Esc. Bonita
+1054150,11,4,9,6,2630,4,Esc. Baitún Abajo
+1055066,11,4,9,6,3546,8,Esc. Baitún Arriba
+1052073,11,4,9,7,522,1,C.e.  Santa Clara
+1053120,11,4,9,7,1569,2,C.e.  Palmarito
+1056218,11,4,9,7,4667,3,C.e. Río Guisado
+1052156,11,4,9,8,574,1,C.b. Dominical
+1053198,11,4,9,8,1616,2,Esc. Cerro De Paja
+1053834,11,4,9,8,2252,3,Esc. Cañas Blancas Arriba
+1052408,13,4,10,1,82,1,Esc. Sara Victoria Campbell
+1052522,13,4,10,2,165,1,Esc. Boca Chica
+1052746,13,4,10,4,327,1,C.e.b.g.  Boca Del Monte
+1053821,13,4,10,4,1402,2,Esc. Sábalo
+1054498,13,4,10,4,2079,3,Esc. Anastasio Alvarado
+1054973,13,4,10,4,2554,4,C.e.b.g. Las Vueltas
+1053188,13,4,10,9,614,1,Esc. San Juan
+1054220,13,4,10,9,1646,2,Esc. Cienaguita
+1057252,13,4,10,9,4678,4,Esc. Hato San Juan
+1054280,13,4,10,10,1675,2,C.e. El Jobo
+1054903,13,4,10,10,2298,3,Esc. Llano Grande
+1057282,13,4,10,10,4677,4,Ipt Abel Tapiero Miranda
+1053370,13,4,11,1,83,1,Esc. Bilingüe  Santiago Bolaños (Tole)
+1056109,13,4,11,1,2822,5,Esc. El Común
+6058445,13,4,11,1,5005158,6,Colegio Comercial Tolé
+1053911,13,4,11,6,469,1,Cent. Bás. Gral. Cerro Viejo
+1056404,13,4,11,6,2962,5,C.e.b.g  Nuevo Panamá
+1056645,13,4,11,6,3203,6,Esc. Cerro Iglesias
+1056841,13,4,11,6,3399,7,Esc. Calabacito
+1054082,13,4,11,8,578,1,"C.e,B.g. Bertilo Mejía S."
+1055124,13,4,11,8,1620,2,Esc. El Guabino
+1056629,13,4,11,11,3032,5,Junta Comunal Potrero De Caña
+6058758,13,4,11,11,5005161,6,Esc. Buenos Aires
+1054321,13,4,11,12,693,1,Esc. Qda. De Piedra
+1055342,13,4,11,12,1714,2,Esc. Natá De Tolé
+1054408,13,4,11,14,718,1,C.e.b.g. Bella Vista
+1058365,13,4,11,14,4675,2,Esc. Tabasara Abajo
+1054446,13,4,11,15,725,1,C.e. Llano Culebra
+1055458,13,4,11,15,1737,2,C.e.b.g.. Tambor
+1054484,13,4,11,16,732,1,Esc. Alto Guayabo
+1055495,13,4,11,16,1743,2,Esc. Bajo Solís
+1058428,13,4,11,16,4676,3,Esc. Alto Algarrobo
+1054520,13,4,11,17,737,1,Esc. Veladero
+1055530,13,4,11,17,1747,2,Esc. Llano Limón
+1054334,13,4,12,1,86,1,Esc. Las Lajas
+1055045,13,4,12,8,580,1,Esc. Juay
+6059465,13,4,12,11,5004907,3,C.e. Bilingüe De San Félix
+6059471,13,4,12,11,5004913,50,Hospital Regional Del Oriente Chiricano
+1055283,13,4,12,12,694,1,Esc. Lajas Adentro
+1055328,13,4,12,13,708,1,Esc. Santa Cruz
+1059843,10,4,13,1,4634,1, Esc. Cuesta De Piedra
+1059844,10,4,13,1,4635,2,Esc. El Bijao
+1059876,10,4,13,2,4636,1,Esc. Primaria Bilingüe Volcán
+1059877,10,4,13,2,4637,2,Esc. Brazos De Gariche
+1059878,10,4,13,2,4638,3,C.e.. El Valle
+6060402,10,4,13,2,5005162,4,Academia Adventista Bilingüe De Volcán
+6060403,10,4,13,2,5005163,5,Col. Sec. De Volcán
+1059910,10,4,13,3,4639,1,Esc. Bilingüe Paso Ancho
+1059911,10,4,13,3,4640,2,Esc. Nva Suiza
+1059943,10,4,13,4,4641,1,Cebg Cerro Punta
+1059944,10,4,13,4,4642,2,Esc. Bajo Grande
+1059946,10,4,13,4,4644,4,Esc. Las Nubes
+1059947,10,4,13,4,4645,5,C.e.  Fernando Eleta Almáran
+1059979,10,4,13,5,4646,1,C.e.b.g. Nva California
+1060029,10,4,13,5,4696,2,Esc. Básica General  Las Perlas
+6060498,10,4,13,5,5005165,3,Inst. Bilingüe Paulatino
+6060742,10,4,13,5,5005409,4,Colegio  Agricola San Benito
+1072514,14,5,0,1,7,1,Esc. Bilingüe Eugenio Pérez
+1073261,14,5,0,1,754,10,Esc. La Quebrada
+1073631,14,5,0,1,1124,2,Cebg. Río  Mogué
+1074356,14,5,0,1,1849,3,Cebg. Punta Alegre
+1072630,14,5,0,2,92,1,Esc. Activa Nuevo Camogantí
+1072744,14,5,0,3,175,1,Esc. Chepigana
+1073842,14,5,0,3,1273,2,Esc. La  Marea
+1074549,14,5,0,3,1980,3,Esc. Aldea Embera
+1072856,14,5,0,4,256,1,Esc. Bilingüe José De La Cruz H.
+1073940,14,5,0,4,1340,2,Esc. Calle Larga
+1074632,14,5,0,4,2032,3,Esc. Río De Jesús
+1072967,14,5,0,5,336,1,Cebg Marcos Medina A.
+1074041,14,5,0,5,1410,2,Esc. Biroquerá
+1077442,14,5,0,5,4811,3,Esc. Guayabito
+1073076,14,5,0,6,414,1,Esc. Puerto Piña
+1074137,14,5,0,6,1475,2,C.e.b.g.  Nueva Estancia
+1073339,14,5,0,9,584,1,C.e.b.g. Sambú
+1074381,14,5,0,9,1626,2,Esc. Valle Bijagual
+1073405,14,5,0,10,619,1,Esc. Setegantí
+1074436,14,5,0,10,1650,2,Esc. El Quintín
+1073468,14,5,0,11,651,1,Esc. Críspulo Leoteau
+1074497,14,5,0,11,1680,2,Esc. Cémaco
+1073526,14,5,0,12,678,1,Esc. Tucutí
+1074549,14,5,0,12,1701,2,Esc. Vasco Núñez De Balboa
+1077567,14,5,0,12,4719,3,Esc. Pueblo Nuevo
+1077568,14,5,0,12,4720,4,Esc. Llano Bonito
+1077569,14,5,0,12,4721,5,Esc. Nueva Galilea
+1073490,15,5,1,1,22,1,C.e.b.g. Emilia Valdelamar V.
+1074606,15,5,1,1,1138,2,Esc. El Pirre
+1073603,15,5,1,2,104,1,Esc. Bilingüe Boca De Cupe
+1078309,15,5,1,2,4810,2,Esc. Cupe
+1073717,15,5,1,3,187,1,Esc. Paya
+1078386,15,5,1,3,4856,2,Esc. De Sobiaquirú
+1078387,15,5,1,3,4857,3,Esc. Matugantí
+1073828,15,5,1,4,267,1,Esc. Pinogana
+1073938,15,5,1,5,346,1,Esc. Púcuro
+1074044,15,5,1,6,421,1,Esc. Boca De Aruza
+1074136,15,5,1,7,482,1,Ce. José Del C. Mejía
+1075191,15,5,1,7,1537,2,Esc. Bilingüe Santa Librada
+1077325,15,5,1,7,3671,9,Esc. Bilingüe Nuevo Progreso
+1074223,15,5,1,8,538,1,Esc. Sansón
+1075269,15,5,1,8,1584,2,Ce. Bilingüe Marco Alarcón
+1076912,15,5,1,8,3227,6,Esc. Anayansi
+1077105,15,5,1,8,3420,7,C.e.b.g. Bilingüe  Portuchada
+1077249,15,5,1,8,3564,8,Esc. Nicanor
+1077366,15,5,1,8,3681,9,C.e.b.g. Canglón
+1081147,14,5,4,1,4796,1,Esc. Bilingüe Agua Fría #2
+1081148,14,5,4,1,4797,2,Esc. El Tirado
+1081149,14,5,4,1,4798,3,Esc. Embera Puru
+1081150,14,5,4,1,4799,4,C.e.b.g. Palmira
+1081151,14,5,4,1,4800,5,Esc. Agua Fría N°1
+1081152,14,5,4,1,4801,6,Esc. Río Sabana
+1081184,14,5,4,2,4802,1,C.e.b.g. Cucunatí
+1081185,14,5,4,2,4803,2,Esc. Candelilla
+1081217,14,5,4,3,4804,1,Esc. Río Congo
+1081218,14,5,4,3,4805,2,C.b.g. Edamia Mendoza M.
+1081219,14,5,4,3,4806,3,Esc. Santa Barbara
+1081222,14,5,4,3,4809,6,Esc. Caña Blanca
+6081905,14,5,4,3,5005492,7,Esc. El Puerto
+1081256,14,5,4,4,4812,1,Esc. Río Pavo
+1081257,14,5,4,4,4813,2,Esc. Platanillo
+1081259,14,5,4,4,4815,4,Esc. Unión Interiorana
+1081260,14,5,4,4,4816,5,Esc. Río Bonito
+1081297,14,5,4,4,4853,6,Esc.  El Arenal
+1081298,14,5,4,4,4854,7,Esc. Valle Rico
+1081292,14,5,4,5,4817,1,Esc. Río Iglesias
+1081293,14,5,4,5,4818,2,C.e.b.g. Arretí
+1081294,14,5,4,5,4819,3,Esc. La Moneda
+1081295,14,5,4,5,4820,4,Esc. Aruza Arriba
+1081327,14,5,4,6,4821,1,Cebg. Bilingüe Santa Fe
+1081329,14,5,4,6,4823,3,Esc. Gerardo Bocorizo D.
+1081330,14,5,4,6,4824,4,Esc. Zimba
+1081331,14,5,4,6,4825,5,C.e.b.g. El Tamarindo
+1081332,14,5,4,6,4826,6,Esc. Bilingüe La Cantera
+1081333,14,5,4,6,4827,7,Esc.  Guayabito
+1081357,14,5,4,6,4851,8,Cebg. Pueblo Nuevo
+1081365,14,5,4,7,4828,1,Ce. Bilingüe Zapallal
+1081366,14,5,4,7,4829,2,Esc. Quebrada Honda
+1081381,14,5,4,7,4844,3,Esc. Boca De Lara
+1081392,14,5,4,7,4855,4,Esc. San Miguel
+1104686,16,6,0,1,2388,4,Esc. I.p.h.e.
+1105080,16,6,0,1,2782,5,Esc. Bilingüe Juan T. Del Busto
+1105361,16,6,0,1,3063,6,Col. José D. Crespo
+1105754,16,6,0,1,3456,8,Col. Psicopedagógico Bilingüe
+6107216,16,6,0,1,5004918,50,Hospital Cecilio Castillero
+6107219,16,6,0,1,5004921,52,Hogar Leonístico Para Ancianos De Azuero
+1102422,16,6,0,2,93,1,C.e.b.g. Bilingüe  Presidente John F. Kennedy
+1103530,16,6,0,2,1201,2,C.o.i.f. La Arena
+6107613,16,6,0,2,5005284,3,Cancha El Ciruelito
+1102536,16,6,0,3,176,1,Esc. Bilingüe Sergio Pérez Delgado
+1103634,16,6,0,3,1274,2,Esc. Bilingüe Boca De Parita
+1104341,16,6,0,3,1981,3,Col. Padre Segundo Familiar Cano
+1104851,16,6,0,3,2491,4,Jardín De La Infancia De Monagrillo
+6107645,16,6,0,3,5005285,5,Centro Cultural De Monagrillo
+1102648,16,6,0,4,257,1,Esc. Bilingüe  Tomás Herrera
+1103732,16,6,0,4,1341,2,Esc. Bilingüe  Hipólito Pérez Tello
+1104424,16,6,0,4,2033,3,Caseta Parque Forestal El Vigía
+6107677,16,6,0,4,5005286,4,Casa De Retiro Damasco
+1102759,16,6,0,5,337,1,Esc. Bilingüe  Evelio Dolores Carrizo
+1103833,16,6,0,5,1411,2,Esc. Bilingüe  Eneida  De Castillero
+1104507,16,6,0,5,2085,3,Caseta El Caracol
+6107342,16,6,0,5,5004920,50,Hospital Dr. Gustavo Nelson Collado
+6107709,16,6,0,5,5005287,5,Cancha Municipal Llano Bonito
+1103282,18,6,1,1,23,1,Esc. Bilingüe Gloriela Barría
+1104398,18,6,1,1,1139,2,Esc. Las Margaritas
+1105121,18,6,1,1,1862,3,Esc. Las Cuchillas
+1105658,18,6,1,1,2399,4,Esc. Cerro Gordo
+1106331,18,6,1,1,3072,6,Esc. La Calidonia
+1106555,18,6,1,1,3296,7,Caseta Los Pintos
+1103395,18,6,1,2,105,1,C. B. G. De Chepo
+1104501,18,6,1,2,1211,2,Esc. Las Playitas
+1105216,18,6,1,2,1926,3,C.e.b.g. Sabino Figueroa Mendoza
+1105744,18,6,1,2,2454,4,C.e.b.g. La Desbarrancada
+1106123,18,6,1,2,2833,5,Esc. Filo Llano
+1106396,18,6,1,2,3106,6,Esc. Sonadora
+1106615,18,6,1,2,3325,7,Esc. Quebrada El Cántaro
+1106778,18,6,1,2,3488,8,Esc. Río Viejo
+1103509,18,6,1,3,188,1,Esc. El Chumical
+1103620,18,6,1,4,268,1,Esc.  El Toro
+1104702,18,6,1,4,1350,2,Esc. El Platito
+1106245,18,6,1,4,2893,5,Esc. El Maure
+1106503,18,6,1,4,3151,6,Esc. Alto El Martín
+1106710,18,6,1,4,3358,7,Esc. El Castillo
+1104802,18,6,1,5,1419,2,Esc. El Suay
+1105475,18,6,1,5,2092,3,Esc. Los Helechales
+1105948,18,6,1,5,2565,4,Esc. Las Lajas
+1106300,18,6,1,5,2917,5,Esc. La Peña
+1106552,18,6,1,5,3169,6,Esc. Los Ceibos
+1106908,18,6,1,5,3525,8,Esc. Leones
+1103836,18,6,1,6,422,1,C.e.b.g.  Qda. Del Rosario
+1104896,18,6,1,6,1482,2,Esc. El Nanzal
+1105556,18,6,1,6,2142,3,Esc.  Las Yescas
+1107071,18,6,1,6,3657,9,Esc. La  Huaca
+1108202,18,6,1,6,4788,10,Esc. Qda. Del Rosario Abajo
+1103928,18,6,1,7,483,1,Esc. El Copé
+1104983,18,6,1,7,1538,2,Esc. Loma Del Ranchito
+1105634,18,6,1,7,2189,3,C.b.g.. Las Matas
+1106087,18,6,1,7,2642,4,Esc. Los Virotales
+1106414,18,6,1,7,2969,5,C.e.b.g.  El Ciprián
+1104254,17,6,2,1,34,1,Esc. Bilingüe  Luciria  Nieto De Pimentel
+1105369,17,6,2,1,1149,2,Esc. Las Cuestas
+1106092,17,6,2,1,1872,3,Esc. Barro Blanco
+1106628,17,6,2,1,2408,4,Esc. Francisco Henríquez
+1107017,17,6,2,1,2797,5,Esc. El Piro
+1107297,17,6,2,1,3077,6,Esc. Llanita De Los  Bultrones
+1107519,17,6,2,1,3299,7,Esc. Sabaneta De Los Leones
+1104367,17,6,2,2,116,1,Esc. El Capurí
+1105472,17,6,2,2,1221,2,Esc. El Jacintillo
+1106185,17,6,2,2,1934,3,Esc. Las Lagunitas
+1104480,17,6,2,3,198,1,Esc. La Canoa
+1105572,17,6,2,3,1290,2,C.e.  El Calabacito
+1106276,17,6,2,3,1994,3,Esc. Ojo De Agua
+1104591,17,6,2,4,278,1,Esc. Gregorio González
+1104701,17,6,2,5,357,1,C.e.  La Arena
+1105771,17,6,2,5,1427,2,Esc. La Sabaneta
+1104807,17,6,2,6,432,1,C.e. Telebásico  La Pitaloza
+1105866,17,6,2,6,1491,2,Esc. El  Cañafístulo
+1107564,17,6,2,6,3189,6,C.e.b.g. Cruce De Santa Clara
+1107912,17,6,2,6,3537,8,Esc. Santa Clara
+1104897,17,6,2,7,491,1,Esc. Los Cerritos
+1106027,17,6,2,8,1590,2,Esc. Pan De Azucar
+1106665,17,6,2,8,2228,3,Esc. Cerro De Paja
+1107108,17,6,2,8,2671,4,Esc. El Chorrillo
+1107430,17,6,2,8,2993,5,C.e. Telebásica  Las Pipas
+1107666,17,6,2,8,3229,6,Esc. El Salitre
+1105060,17,6,2,9,592,1,Esc. El Caracucho
+1106099,17,6,2,9,1631,2,C.e.b.g.   Llana Abajo
+1106731,17,6,2,9,2263,3,Esc. Llana Arriba
+1107165,17,6,2,9,2697,4,Esc. Los Peladeros
+1105945,18,6,3,1,764,10,Esc. La Cabuya
+1106080,18,6,3,1,899,12,Esc. Rincón Grande
+1106130,18,6,3,1,949,13,Esc. Bilingüe José Dolores  Carrizo
+1106207,18,6,3,1,1026,15,C.e.f.a.c.e.i.  De Santa Rosa
+1106233,18,6,3,1,1052,16,Esc. José D. Carrizo N°3
+1106338,18,6,3,1,1157,2,Col. Rafael Quintero V.
+1108262,18,6,3,1,3081,6,Esc. Las Guabas
+1108483,18,6,3,1,3302,7,Esc. El Guayabito
+1108650,18,6,3,1,3469,8,Esc. El Hatillo
+1108787,18,6,3,1,3606,9,Esc. Qda. De Agua
+1109968,18,6,3,1,4787,18,Esc. Los Remedios
+1105337,18,6,3,2,125,1,Esc. Cerro Largo
+1108703,18,6,3,2,3491,8,Esc. El Bejucal
+1108836,18,6,3,2,3624,9,Esc. El Guarumal
+1105450,18,6,3,3,207,1,I.p.t. Agropecuario Los Llanos
+1106247,18,6,3,3,1004,14,Esc. Los Potreros
+1106541,18,6,3,3,1298,2,Esc. Rincón Santo
+1107242,18,6,3,3,1999,3,Esc. Lastenia C. De Villarreal
+1107748,18,6,3,3,2505,4,Esc. Los Jaramillos
+1108116,18,6,3,3,2873,5,Esc. Gerardo Honorio Quintero
+1108379,18,6,3,3,3136,6,Esc. Gregorio Gil Corcovado
+1108591,18,6,3,3,3348,7,Esc. Entradero De Tijeras
+1105561,18,6,3,4,287,1,Esc. Cristina R. De Pinzón
+1106639,18,6,3,4,1365,2,Esc. Aleida A. González Bustavino
+1107325,18,6,3,4,2051,3,Esc. La Polonia
+1107813,18,6,3,4,2539,4,Esc. Rafael Quintero Villarreal
+1105671,18,6,3,5,366,1,Esc. Domingo Villalobos
+1106740,18,6,3,5,1435,2,C.e.b.g. Las Paredes
+1107410,18,6,3,5,2105,3,Esc. Dos Bocas
+1107881,18,6,3,5,2576,4,Esc. El Negrito
+1108229,18,6,3,5,2924,5,Esc. Llano Largo
+1108479,18,6,3,5,3174,6,Esc. Los Carates
+1105775,18,6,3,6,439,1,Esc. Cerro Paja
+1106835,18,6,3,6,1499,2,Esc. Limón De Tijera
+1107492,18,6,3,6,2156,3,Esc. Los Salitres
+1107949,18,6,3,6,2613,4,Esc. Inés Pinto Rodríguez
+1108284,18,6,3,6,2948,5,Esc. El Boquerón
+1105863,18,6,3,7,496,1,Esc. La Arena
+1106915,18,6,3,7,1548,2,Esc. Valle Rico
+1107566,18,6,3,7,2199,3,Esc. El Potrero
+1108016,18,6,3,7,2649,4,Esc. Los Bajos
+1108344,18,6,3,7,2977,5,Esc. Bernardino Barba
+1105949,18,6,3,8,551,1,Esc. El Rascador
+1106994,18,6,3,8,1596,2,Esc. El Zapotal
+1107632,18,6,3,8,2234,3,Esc. El Pájaro
+1108074,18,6,3,8,2676,4,Tele Básica Entradero Del Castillo
+1108396,18,6,3,8,2998,5,Esc. Los Asientos
+1108632,18,6,3,8,3234,6,Esc. El Ave María
+1106194,17,6,4,1,52,1,C. E. Bilingüe Parita
+1107305,17,6,4,1,1163,2,Esc. Puerto Limón
+1108027,17,6,4,1,1885,3,Esc. El Sesteadero
+1106307,17,6,4,2,134,1,Esc. Bilingüe Cabuya
+1107409,17,6,4,2,1236,2,Esc. El Pedernal
+1108119,17,6,4,2,1946,3,Esc. Los Higos
+1106420,17,6,4,3,216,1,Esc. Los Castillos
+1106531,17,6,4,4,296,1,Esc. Llano De La Cruz
+1107607,17,6,4,4,1372,2,Caseta Los Cantos
+1106641,17,6,4,5,375,1,Esc. De  París
+1106744,17,6,4,6,447,1,Esc. Portobelillo
+1107799,17,6,4,6,1502,2,Esc. La Valencia
+1106832,17,6,4,7,504,1,Esc. Potuga
+1107882,17,6,4,7,1554,2,Esc. La Concepción
+1107163,17,6,5,1,60,1,Esc. Bilingüe  Ildaura  Vieto
+1108274,17,6,5,1,1171,2,Col. José Octavio Huertas
+1107276,17,6,5,2,142,1,Esc. Las Cabras
+1108378,17,6,5,2,1244,2,Esc. La Arenita
+1109087,17,6,5,2,1953,3,Esc. El Ciruelito
+1109609,17,6,5,2,2475,4,Esc. El Calabazo
+1109983,17,6,5,2,2849,5,Esc. Bilingüe Las Flores
+1107388,17,6,5,3,223,1,Esc. El Pájaro
+1108476,17,6,5,3,1311,2,Esc. El Jazmín
+1107500,17,6,5,4,304,1,Esc. El Barrero
+1108576,17,6,5,4,1380,2,Esc. Ricaurter Salamín
+1109257,17,6,5,4,2061,3,Esc. Pueblo Nuevo
+1107610,17,6,5,5,383,1,Esc. El Pedregoso
+1108675,17,6,5,5,1448,2,Esc. La Candelaria
+1109343,17,6,5,5,2116,3,Esc. El Pedregosito
+1109811,17,6,5,5,2584,4,Esc. Bienvenido Quintero
+1107712,17,6,5,6,454,1,Esc. El Ciruelo
+1108767,17,6,5,6,1509,2,Esc. Las Mesitas
+1109422,17,6,5,6,2164,3,Esc. El Balillo
+1109880,17,6,5,6,2622,4,Esc. La Trinidad
+1107800,17,6,5,7,511,1,C.e.b.g. Bilingüe Sabana Grande
+1108850,17,6,5,7,1561,2,Esc. Nva. Esc. Activa  Peñas Prietas
+1109497,17,6,5,7,2208,3,Esc. Bahía Honda
+1109943,17,6,5,7,2654,4,Esc. Los Corralillos
+1112075,17,6,5,7,4786,5,Esc. Primaria De Mandinga
+1107883,17,6,5,8,563,1,Esc. Rincón Hondo
+1108925,17,6,5,8,1605,2,Esc. El Cocuyo
+1109562,17,6,5,8,2242,3,Esc. Esquiguita
+1110002,17,6,5,8,2682,4,Esc. Borrola
+1110322,17,6,5,8,3002,5,Esc. El Banco
+1108130,18,6,6,1,66,1,Esc. Bilingüe Sebastían Pinzón
+1108244,18,6,6,2,149,1,Esc. Melania P. De López
+1109345,18,6,6,2,1250,2,Esc. Los Panamaes
+1108356,18,6,6,3,230,1,Esc. Bilingüe  Ernestina Chiari
+1109444,18,6,6,3,1318,2,Casa Comunal El Rodeo
+1108468,18,6,6,4,311,1,C.e. Telebásico  El Limón
+1109544,18,6,6,4,1387,2,Esc. María De Los Santos C. Villarreal
+1108578,18,6,6,5,390,1,Inst.  Artes Mecánicas
+1109642,18,6,6,5,1454,2,Esc. Bilingüe Los Canelos
+1110308,18,6,6,5,2120,3,C.e.b.g. Salamanca
+1132098,19,7,0,1,9,1,Esc. Bilingüe Juana Vernaza
+1133215,19,7,0,1,1126,2,Esc. La Guaca
+6137261,19,7,0,1,5005172,3,Col. Francisco Castillero
+1132214,19,7,0,2,94,1,Esc. El Espinal
+1133322,19,7,0,2,1202,2,Esc. Ciénaga Larga
+1134037,19,7,0,2,1917,3,Esc. La Loma
+1132328,19,7,0,3,177,1,Esc. El Macano
+1132440,19,7,0,4,258,1,Esc. Guararé Arriba
+1132551,19,7,0,5,338,1,Esc. Heraclio Barletta
+1132659,19,7,0,6,415,1,Esc. La Pasera
+1133720,19,7,0,6,1476,2,Esc. El Montero
+1132751,19,7,0,7,476,1,Esc. Las Trancas
+1132839,19,7,0,8,533,1,Esc. Llano Abajo
+1132922,19,7,0,9,585,1,Esc. El Hato
+1132988,19,7,0,10,620,1,Esc. Perales
+1134019,19,7,0,10,1651,2,Esc. Bilingüe Santa Isabel De Las Tablas
+1133074,19,7,1,1,24,1,Col. Manuel M. Tejada R.
+1134190,19,7,1,1,1140,2,Esc. Bilingüe Claudio Vásquez
+1134913,19,7,1,1,1863,3,Esc. Bilingüe Presidente Porras
+6137973,19,7,1,1,5004923,51,Hospital Joaquín Franco
+6138003,19,7,1,1,5004953,52,Cárcel Pública De Las Tablas
+6138223,19,7,1,1,5005173,6,I.p.h.e.
+1133187,19,7,1,2,106,1,Esc. Bajo Corral
+1134293,19,7,1,2,1212,2,Esc. Qda. Grande
+1135536,19,7,1,2,2455,4,Esc. Las Lagunitas
+1133301,19,7,1,3,189,1,Esc. Carlos M. Espino F.
+1134396,19,7,1,3,1284,2,Esc. Flor Amarilla
+1135100,19,7,1,3,1988,3,Esc. El Fermín
+1135979,19,7,1,3,2867,5,Esc. Taboga
+1133412,19,7,1,4,269,1,Esc. Plinio A. Tejada
+1133522,19,7,1,5,348,1,Esc. Antonio González
+1133628,19,7,1,6,423,1,Esc. Nemesio Medina
+1133720,19,7,1,7,484,1,Cebg. Redilia Alfaro Anderson
+1133806,19,7,1,8,539,1,Esc. El Pedregoso
+1133887,19,7,1,9,589,1,Esc. Luis Yaniselly C.
+1133953,19,7,1,10,624,1,Esc. La Miel
+1134984,19,7,1,10,1655,2,Esc. El Loro
+1134014,19,7,1,11,654,1,Esc. Bilingüe  Carlos M. Ballesteros
+1134071,19,7,1,12,680,1,"Ce, Bolivar Antonio De Gracia"
+1134119,19,7,1,13,697,1,Esc. Bilingüe Amaris Durán De Vidal
+1134164,19,7,1,14,711,1,Esc. Benilda Céspedes
+1134204,19,7,1,15,720,1,Esc. Alejandro González
+1134242,19,7,1,16,727,1,Esc. Palmira
+1134279,19,7,1,17,733,1,Esc. Gustavo Batista Cedeño
+1134315,19,7,1,18,738,1,Esc. Ofelia Acevedo
+1134350,19,7,1,19,742,1,Esc. San José
+1134383,19,7,1,20,744,1,Esc. San Miguel
+1134416,19,7,1,21,746,1,Esc. Bilingüe Melquisedec Vásquez
+1134449,19,7,1,22,748,1,Esc. Melquiades Cárdenas
+1134482,19,7,1,23,750,1,Esc. Valle Rico
+1135487,19,7,1,23,1755,2,Esc. El Guayabo
+1134515,19,7,1,24,752,1,C.e.b.g. Jaime Alba
+1134046,20,7,2,1,35,1,Esc. Bilingüe Nicanor Villalaz
+1135161,20,7,2,1,1150,2,Esc. San Agustín
+6138935,20,7,2,1,5004924,50,Hospital Regional Anita Moreno
+6139185,20,7,2,1,5005174,4,Inst.  Coronel Segundo De Villareal
+6139186,20,7,2,1,5005175,5,I.p.t.a.
+1134159,20,7,2,2,117,1,Esc. El Guásimo
+1135264,20,7,2,2,1222,2,Esc. San Luis
+1134272,20,7,2,3,199,1,Esc. Bilingüe La Colorada
+1134383,20,7,2,4,279,1,Esc. María Rodríguez
+1134493,20,7,2,5,358,1,Esc. Las Cruces
+1135563,20,7,2,5,1428,2,Esc. Guarareito La Limona
+1134599,20,7,2,6,433,1,Esc. Las Guabas
+1137109,20,7,2,6,2943,5,Esc. La Mina
+1134689,20,7,2,7,492,1,Esc. Los Angeles
+1134774,20,7,2,8,546,1,Esc. Bilingüe Los Olivos
+1135819,20,7,2,8,1591,2,Esc. El Bijao
+1136457,20,7,2,8,2229,3,Esc. El Guayabal
+1134852,20,7,2,9,593,1,Esc. Bilingüe Llano Largo
+1134917,20,7,2,10,627,1,Esc. Bilingüe José De Los Santos Moreno
+1135948,20,7,2,10,1658,2,Esc. Las Zatras
+1136573,20,7,2,10,2283,3,Esc. Sabanagrande Abajo
+1134978,20,7,2,11,657,1,Esc. Bilingüe  Santa Ana
+1136056,20,7,2,12,1704,2,Esc. Tres Quebradas
+1135081,20,7,2,13,698,1,Esc. Villa Lourdes
+1136100,20,7,2,13,1717,2,Esc. La Laja
+1136707,20,7,2,13,2324,3,Esc. El Capurí
+1135126,20,7,2,14,712,1,Esc. Bilingüe Agua Buena
+1139065,20,7,2,15,4620,1,Esc. El Ejido
+1135016,20,7,3,1,44,1,Esc. Bilingüe  Rudecinda Rodríguez
+1136130,20,7,3,1,1158,2,Esc. Los Higos
+1136852,20,7,3,1,1880,3,Esc. Los Leales
+6140148,20,7,3,1,5005176,4,Col. Rafael A. Moreno
+1135129,20,7,3,2,126,1,Esc. Bahía Honda
+1136232,20,7,3,2,1229,2,Esc. Los Botoncillos
+1137540,20,7,3,3,2506,4,C.e.b.g.  Bajos De Güera
+1137908,20,7,3,3,2874,5,Esc. El Tallo
+1138171,20,7,3,3,3137,6,Esc. Tolú
+6140482,20,7,3,3,5005448,7,Esc. La Paula
+1135353,20,7,3,4,288,1,C.e.b.g.  Corozal
+1135463,20,7,3,5,367,1,Esc. De Chupá
+1136532,20,7,3,5,1436,2,Esc. Chupaito
+1135567,20,7,3,6,440,1,Esc. El Cedro
+1135655,20,7,3,7,497,1,Esc. Espino Amarilllo
+1135741,20,7,3,8,552,1,Cebg. La Mesa
+1137424,20,7,3,8,2235,3,Esc. De  Quito
+1135816,20,7,3,9,596,1,Esc. El Calabazo
+1136852,20,7,3,9,1632,2,Esc. El Pájaro
+6140669,20,7,3,9,5005449,4,Esc. Los Guayabos
+1135882,20,7,3,10,631,1,Esc. Bilingüe Llano De Piedra
+1136913,20,7,3,10,1662,2,Esc. El Faldar
+1137538,20,7,3,10,2287,3,Esc. San Antonio
+1138508,20,7,3,10,3257,6,Esc. El Bombachito
+1138685,20,7,3,10,3434,7,Esc. Bombacho
+1135942,20,7,3,11,660,1,Esc. El Mogollón
+1136967,20,7,3,11,1685,2,C.e.b.g. Quema
+1135986,19,7,4,1,53,1,Esc. Bilingüe Plinio Moscoso
+1137097,19,7,4,1,1164,2,Esc. Las Cabezas
+1137819,19,7,4,1,1886,3,Caseta El Limón
+1136099,19,7,4,2,135,1,Esc. Pablo Ballesteros
+1137201,19,7,4,2,1237,2,Esc. Los Higos
+1136212,19,7,4,3,217,1,Esc. Mariabé
+1136323,19,7,4,4,297,1,Esc.  De Púrio
+1137399,19,7,4,4,1373,2,Esc. Buenos Aires
+1136433,19,7,4,5,376,1,Esc. Oria Arriba
+1137498,19,7,4,5,1441,2,Esc. El Toro
+1136955,19,7,5,1,61,1,C.e.b.g.  Ernestina S. De Falcón
+1138066,19,7,5,1,1172,2,Esc. La Laguna
+1137068,19,7,5,2,143,1,Esc. El Cañafístulo
+1138170,19,7,5,2,1245,2,Esc. Colán
+1137180,19,7,5,3,224,1,Esc. Abigail Escala
+1138268,19,7,5,3,1312,2,Esc. Los Cerros
+1137292,19,7,5,4,305,1,Esc. Aurora M. De García
+1138368,19,7,5,4,1381,2,Esc. Nvo. Ocú
+1139049,19,7,5,4,2062,3,Esc. La Candelaria
+1137402,19,7,5,5,384,1,Esc. Justo Vásquez B.
+1138467,19,7,5,5,1449,2,Esc. El Carricillal
+1139135,19,7,5,5,2117,3,Esc. El Tábano
+1137922,20,7,6,1,67,1,Esc. Bilingüe  Rosa María Angulo De Arce
+1139034,20,7,6,1,1179,2,Esc. Búcaro
+1138036,20,7,6,2,150,1,Esc. Río Quema
+1139137,20,7,6,2,1251,2,Esc. Boca De Quema
+1140365,20,7,6,2,2479,4,Esc. Espaveito
+1140738,20,7,6,2,2852,5,Esc. Los Zatrales
+1138148,20,7,6,3,231,1,Esc. Primaria  Pablo Barrios
+1139931,20,7,6,3,2014,3,Esc. Agua Buena
+1138260,20,7,6,4,312,1,Esc. Río Viejo De Perina
+1139336,20,7,6,4,1388,2,Esc. La Corocita
+1140014,20,7,6,4,2066,3,Esc. Aquilino Domínguez Barrios
+1138370,20,7,6,5,391,1,Esc. El Cacao
+1140100,20,7,6,5,2121,3,Esc. Río Viejo Del Solar
+1138468,20,7,6,6,458,1,Esc. El Cortezo
+1139523,20,7,6,6,1513,2,Esc. La Pintada
+1138556,20,7,6,7,515,1,Esc. Flores
+1140251,20,7,6,7,2210,3,Esc. El Joaquín
+1138639,20,7,6,8,567,1,C.e.  Ave María
+1139681,20,7,6,8,1609,2,Esc. Carmelo A. Falcón Q.
+1140757,20,7,6,8,2685,4,Esc. El Jobero
+1141077,20,7,6,8,3005,5,Esc. Guánico Arriba
+1138710,20,7,6,9,607,1,Esc. De La Tronosa
+1140372,20,7,6,9,2269,3,C.e.b.g.  Guániquito
+1140804,20,7,6,9,2701,4,Telebásica  La Llana
+1138775,20,7,6,10,641,1,Esc. Cambutal
+1138833,20,7,6,11,668,1,Esc. Isla De Cañas
+1162866,24,8,1,1,25,1,C.e.b.g. Bilingüe José Irene Muñoz
+1164705,24,8,1,1,1864,3,Esc. Casaya
+1162979,24,8,1,2,107,1,Esc. La Ensenada
+1163093,24,8,1,3,190,1,C.e.b.g. La Esmeralda
+1163204,24,8,1,4,270,1,Esc. La Guinea
+1163314,24,8,1,5,349,1,C.e.b.g.  Jose Dolores Luna
+1163420,24,8,1,6,424,1,Esc. Saboga
+1165139,24,8,1,6,2143,3,Esc. Isla Contadora
+1165778,24,8,4,1,54,1,C.e.b.g. Bilingüe José Gabriel Duque
+1166490,24,8,4,1,766,10,Esc. Tigre Arriba
+1166565,24,8,4,1,841,11,C.e.b.g. Bilingüe Santa Isabel
+1166625,24,8,4,1,901,12,I. P. T.  México Panamá
+1166675,24,8,4,1,951,13,C.e.b.g. Bilingüe Tierra Prometida
+1166889,24,8,4,1,1165,2,C.e.b.g. Bilingüe Superación Campesina
+1167611,24,8,4,1,1887,3,C.e.b.g. Bilingüe Unión De Azuero
+1168808,24,8,4,1,3084,6,Esc. Juan Bañón Afuera
+1169029,24,8,4,1,3305,7,Puesto De Salud De Limonada
+1169196,24,8,4,1,3472,8,Esc. Trapiche
+1169333,24,8,4,1,3609,9,Esc. Río Calobre Abajo
+6170649,24,8,4,1,5004925,50,Hospital Regional De Chepo
+6171075,24,8,4,1,5005351,15,Col. Venancio F. Pascual
+6171076,24,8,4,1,5005352,16,Esc. Buen Pastor
+6171077,24,8,4,1,5005353,17,Esc. Easy To Learn
+6171184,24,8,4,1,5005460,18,Caseta Jesús María
+1165891,24,8,4,2,136,1,C.e.b.g. Bilingüe Clímaco Delgado B.
+1166993,24,8,4,2,1238,2,Esc. Río Piedra
+1167703,24,8,4,2,1948,3,Esc. Jenené
+1168225,24,8,4,2,2470,4,Esc. Buenos Aires
+1166004,24,8,4,3,218,1,Esc. Ciro Rivera
+1166115,24,8,4,4,298,1,Esc. Lorenza G. De Lasso
+1166734,24,8,4,4,917,12,Esc. Jesús Nazareno
+1167191,24,8,4,4,1374,2,Esc. Platanares
+1167646,24,8,4,4,1829,27,Esc. Río Tigre Abajo
+1167652,24,8,4,4,1835,28,Esc. La Pavita De Majé
+1167659,24,8,4,4,1842,29,Esc. Unicito
+1167872,24,8,4,4,2055,3,C.e.b.g. Bilingüe Loma De Los Naranjo
+1168359,24,8,4,4,2542,4,Esc. Calobre Ciénaga
+1168718,24,8,4,4,2901,5,Esc. Tres Quebradas
+1166225,24,8,4,5,377,1,C.e.b.g. Bilingüe José Del Carmen Echevers
+1167290,24,8,4,5,1442,2,Esc. Chararé
+1167958,24,8,4,5,2110,3,Esc. San José Del Madroño
+1168774,24,8,4,5,2926,5,Esc. Mamoní Arriba
+1169023,24,8,4,5,3175,6,Esc. La Zahína
+1166327,24,8,4,6,448,1,Esc. Chinina Abajo
+1167382,24,8,4,6,1503,2,Esc. Martinambo
+1168038,24,8,4,6,2159,3,Esc. Rio Nazareno
+1168495,24,8,4,6,2616,4,Esc. Rio Lagarto
+1168829,24,8,4,6,2950,5,C.e.  El Tigre Abajo
+1169072,24,8,4,6,3193,6,Esc. Chinina Arriba
+1169270,24,8,4,6,3391,7,Esc. Unión Herrerana
+1169420,24,8,4,6,3541,8,C.e.b.g. Nazareno Anexa
+1166415,24,8,4,7,505,1,C.e.b.g. Bilingüe Piriatí Emberá
+1166787,24,8,4,7,877,11,Cebg Palmas Bellas
+1166841,24,8,4,7,931,12,C. E.. Santa Rosa De Lima
+1166888,24,8,4,7,978,13,Esc. San Francisco De Piriatí
+1166925,24,8,4,7,1015,14,Esc. Río Tortí Abajo
+1166952,24,8,4,7,1042,15,Esc. Majé Cordillera
+1167465,24,8,4,7,1555,2,Esc. Alcatriz O Loma Bonita
+1168113,24,8,4,7,2203,3,Esc. Pigandi
+1168560,24,8,4,7,2650,4,C.e.  Ipeti Choco
+1169126,24,8,4,7,3216,6,C.e. Bilingüe María Elena Díaz
+1169322,24,8,4,7,3412,7,C. E. Bilingüe De Tortí
+1169469,24,8,4,7,3559,8,Esc. Playa Chuzo
+1169588,24,8,4,7,3678,9,C.e.b.g.  Nuevo Panamá
+6171264,24,8,4,7,5005354,16,Esc. Catrigandi
+6171326,24,8,4,7,5005416,17,Col. San José De Cañazas
+1166747,24,8,5,1,62,1,C.e.b.g.  José Sotero A.
+1167858,24,8,5,1,1173,2,C.e.b.g. Majé
+1166860,24,8,5,2,144,1,C.e. Playa De Las Mercedes
+1167962,24,8,5,2,1246,2,Esc. San Buenaventura
+1168671,24,8,5,2,1955,3,Esc. Río Marco
+1171582,24,8,5,2,4866,4,Esc. Trinidad Anexa Brujas
+1166972,24,8,5,3,225,1,C.e.b.g. Gonzalo Vásquez
+1168060,24,8,5,3,1313,2,Esc. Pueblo Nuevo
+1167084,24,8,5,4,306,1,C.e.b.g.  10 De Noviembre
+1168160,24,8,5,4,1382,2,C.e.b.g.  El Hato
+1168841,24,8,5,4,2063,3,C.e.b.g. Río Hondo
+1167194,24,8,5,5,385,1,Esc. Oquendo
+1168259,24,8,5,5,1450,2,Esc. Río Pásiga
+1168927,24,8,5,5,2118,3,Esc. Río Platanares
+1169394,24,8,5,5,2585,4,Esc. La Mina
+1169791,27,8,7,1,1184,2,Esc. Bilingüe  Simón Bolívar
+1171039,27,8,7,1,2432,4,Esc. Bilingüe República De México
+1171423,27,8,7,1,2816,5,C.e.b.g. Bilingüe Estados Unidos De América
+1168793,27,8,7,2,155,1,Esc. Bilingüe Dr. Manuel  Amador Guerrero
+1169894,27,8,7,2,1256,2,Esc. Bilingüe Manuel José Hurtado
+1171493,27,8,7,2,2855,5,C.e. Bilingüe Nuestra Señora De La Merced
+1173361,27,8,7,2,4723,6,Esc. Bonifacio Pereira (Inadhe)
+6173581,27,8,7,2,5004943,50,Hogar San Pedro Nolasco (Fátima)
+6173828,27,8,7,2,5005190,7,Esc. Tomas Alba Edison
+6173829,27,8,7,2,5005191,8,Gimnasio Kiwanis
+1168905,27,8,7,3,236,1,Esc. Dr. Justo Arosemena
+1170685,27,8,7,3,2016,3,Inst. Nacional
+6173862,27,8,7,3,5005193,5,Gimnasio Club De Leones 5 De Mayo
+1171248,27,8,7,4,2548,4,Esc. Bilingüe Pedro J. Sosa
+1173424,27,8,7,4,4724,11,Panamá School
+6173629,27,8,7,4,5004929,50,Hospital Santo Tomás
+6173630,27,8,7,4,5004930,51,Hospital Del Niño
+6173632,27,8,7,4,5004932,52,Hospital Nacional
+6174191,27,8,7,4,5005491,13,Esc. Rep. De Venezuela (Edif. Poli)
+1170191,27,8,7,5,1460,2,Esc. Fe Y Alegría
+1170856,27,8,7,5,2125,3,Esc. Artes Y O.  Melchor L. De La Vega
+1171318,27,8,7,5,2587,4,C.e. Marie Paussepin
+6173926,27,8,7,5,5005195,5,Academia Juntos Podemos
+1169222,27,8,7,6,460,1,Esc. Bilingüe Japón
+1170932,27,8,7,6,2170,3,C.e. Dr. Octavio Méndez Pereira
+1171389,27,8,7,6,2627,4,Esc. José A. Arango
+1171720,27,8,7,6,2958,5,Inst. América
+1171962,27,8,7,6,3200,6,Col. La Santa Familia
+1172159,27,8,7,6,3397,7,C.e. Bilingüe  Manuel E. Amador
+1172307,27,8,7,6,3545,8,Coif-Banconal
+1172427,27,8,7,6,3665,9,Inst. Bilingue Santa María La Antigua
+1173487,27,8,7,6,4725,10,Col. Internacional María Inmaculada
+6173959,27,8,7,6,5005197,12,Aulas Del Iphe
+6173962,27,8,7,6,5005200,15,Instituto Fermín Naudeau
+1169311,27,8,7,7,518,1,Primer C. Panama
+1170359,27,8,7,7,1566,2,Col. La Salle
+1171448,27,8,7,7,2655,4,Col. Episcopal De Panamá
+1171773,27,8,7,7,2980,5,Col. Anglo Mexicano
+6173724,27,8,7,7,5004931,50,Complejo Hospitalario Arnulfo Arias
+6173995,27,8,7,7,5005202,8,Colegio Japones Panamá
+6173997,27,8,7,7,5005204,10,Escuela Experimental Apnep
+1169394,27,8,7,8,570,1,Cebg  Bilingüe Ricardo Miró
+1170436,27,8,7,8,1612,2,Inst. Panamericano
+1171073,27,8,7,8,2249,3,Esc. Bilingüe Francisco Arias P.
+1171512,27,8,7,8,2688,4,Inst. Comercial Panamá
+1173550,27,8,7,8,4726,7,Col. Bilingüe Santa Marta
+6173758,27,8,7,8,5004934,50,Hosp. De Esp. Pediátricas Omar Torrijos H.
+6173759,27,8,7,8,5004935,51,Hospital San Fernando
+6174031,27,8,7,8,5005207,8,Gimnasio Pueblo Nuevo
+1169465,28,8,7,9,610,1,Esc. Bilingüe Puerto Rico
+1171557,28,8,7,9,2702,4,Esc. Federico Velásquez
+1173444,28,8,7,9,4589,10,Centro De Convenciones Atlántico Pacífico (Atlapa)
+1173582,28,8,7,9,4727,11,Inst. Técnico Don Bosco
+6173791,28,8,7,9,5004936,50,Hospital Pacifica Salud (Punta Pacifica)
+6173792,28,8,7,9,5004937,51,Centro Médico Paitilla
+6173882,28,8,7,9,5005027,12,Caseta Parque Omar
+6174068,28,8,7,9,5005213,16,Colegio Adventista Metropolitano
+6174350,28,8,7,9,5005495,52,Panamá Clinic
+1169530,28,8,7,10,644,1,Esc. Bilingüe Manuel Espinosa Batista
+1170559,28,8,7,10,1673,2,Esc. Bilingüe  María Ossa  De Amador
+1171182,28,8,7,10,2296,3,C.e.  Bilingüe Rep. De Haití
+1171605,28,8,7,10,2719,4,Esc. Juan B. Sosa
+1171912,28,8,7,10,3026,5,Esc. Bilingüe Sara Sotillo
+1172146,28,8,7,10,3260,6,Instituto  José D. Moscote
+1172323,28,8,7,10,3437,7,Colegio Brader
+6174108,28,8,7,10,5005222,8,Escuela San Cristobal
+6174109,28,8,7,10,5005223,9,El Coif Soy Feliz Meduca
+6174112,28,8,7,10,5005226,12,Instituto Episcopal San Cristóbal
+6174113,28,8,7,10,5005227,13,Colegio William Kilpatrick
+6174327,28,8,7,10,5005441,19,Academia Interamericana De Panamá
+1169800,28,8,7,11,883,11,Esc. Clara Ophelia Wattley
+1171947,28,8,7,11,3030,5,Esc. Bilingüe Estado De Libia
+1172181,28,8,7,11,3264,6,Esc. Mateo Iturralde
+1172356,28,8,7,11,3439,7,Cubículo Bolivar
+6173855,28,8,7,11,5004938,50,Hogar Bolívar
+6173871,28,8,7,11,5004954,51,Centro Femenino De Rehabilitación
+6174150,28,8,7,11,5005233,13,Gimnasio Reynaldo Grenald
+6174153,28,8,7,11,5005236,16,Centro Parvulario Armando Salazar
+1169639,28,8,7,12,691,1,Col. Parroquial San Judas Tadeo
+1169931,28,8,7,12,983,13,Colegio San Agustín
+1170660,28,8,7,12,1712,2,Esc. Gaspar O. Hernández
+1171268,28,8,7,12,2320,3,Esc. Carmen Solé B.
+1171688,28,8,7,12,2740,4,C.e. Homero Ayala
+1172216,28,8,7,12,3268,6,Colegio  Elena Ch. De Pinate
+1172391,28,8,7,12,3443,7,Esc. Rep. De Guatemala
+1172532,28,8,7,12,3584,8,Esc. Jose M. Torrijos
+1173676,28,8,7,12,4728,15,Nuestra Señora Del Carmen
+1173677,28,8,7,12,4729,16,Esc. Toribio Berrío Sosa
+1173678,28,8,7,12,4730,17,Ipt Juan Díaz
+6174186,28,8,7,12,5005238,18,Esc. La Concepción
+6174187,28,8,7,12,5005239,19,Centro Educativo Tsune Sabura Makiguchi
+6174192,28,8,7,12,5005244,24,Esc. Ernesto T. Lefevre
+1170703,30,8,7,13,1724,2,Esc. Bilingüe Cirilo J. Martínez
+1171310,30,8,7,13,2331,3,Esc. Narciso Garay
+1171726,30,8,7,13,2747,4,Esc. Santa Cruz
+1172022,30,8,7,13,3043,5,Esc. José P. Paredes
+1172251,30,8,7,13,3272,6,Esc. Ascanio Villaláz
+6174334,30,8,7,13,5005355,24,Esc. Bilingüe Abraham
+6174335,30,8,7,13,5005356,25,Buen Pastor Getzemani
+6174336,30,8,7,13,5005357,26,Buen Pastor Jireh
+6174338,30,8,7,13,5005359,28,Esc. Juan A. Martinelli
+6174390,30,8,7,13,5005411,29,Caseta Parque Barriada Balmoral
+6174391,30,8,7,13,5005412,30,Caseta Cancha La Florida
+1169727,27,8,7,14,717,1,Coif Pedro Miguel
+1169895,27,8,7,14,885,11,Colegio Real De Panamá
+1169949,27,8,7,14,939,12,C.e.f.a.c.e.i. Centinela Del Futuro
+1170742,27,8,7,14,1732,2,Esc. Bilingüe Omar Torrijos Herrera
+1171345,27,8,7,14,2335,3,Inst. Bolivar (Antiguo Saint Mary)
+1171760,27,8,7,14,2750,4,Esc. Bilingüe Kuna Nega
+1172055,27,8,7,14,3045,5,Col. Las Esclavas Del Sagrado Corazón De Jesús
+1172284,27,8,7,14,3274,6,Col. San Vicente De Paúl
+6173943,27,8,7,14,5004933,51,Hospital Oncológico
+6173965,27,8,7,14,5004955,61,Centro De Rehabilitación El Renacer
+6174218,27,8,7,14,5005208,15,Caipi Rayitos De Sol (Policia)
+6174405,27,8,7,14,5005395,20,Umip
+6174423,27,8,7,14,5005413,21,Instituto Atenea
+6174504,27,8,7,14,5005494,62,Ciudad De La Salud
+1169765,29,8,7,15,724,1,Esc. Bilingüe Santos Jorge
+1170026,29,8,7,15,985,13,Cebg. Bilingüe John F. Kennedy
+1170061,29,8,7,15,1020,14,Junta Local Del Roble
+1170129,29,8,7,15,1088,17,C.e.b.g. Bilingüe Ñajú
+1170145,29,8,7,15,1104,18,C.e.b.g. Bilingüe Tomás Arias.
+1170777,29,8,7,15,1736,2,Cebg.  Presidente Roosevelt
+1171381,29,8,7,15,2340,3,Esc. Bilingüe Villa Unida
+1171795,29,8,7,15,2754,4,Esc. Bilingüe Don Bosco Rural
+1173788,29,8,7,15,4747,26,Caseta Nuevo Chagres
+6174079,29,8,7,15,5005038,27,Inst.bilingüe Andrés Bello
+6174497,29,8,7,15,5005456,28,Colegio Bilingüe Jhon Lock
+1169803,29,8,7,16,731,1,Esc. Villa Cardenas
+1170119,29,8,7,16,1047,15,Esc. Bilingüe República De La India
+1170190,29,8,7,16,1118,19,Esc. Bilingüe San Pablo Y Villa Nueva
+1170814,29,8,7,16,1742,2,C.e.b.g. Bilingüe Rep. Árabe De Egipto
+1170841,29,8,7,16,1769,20,Esc. Nueva Santa Librada Rural
+1172522,29,8,7,16,3450,7,Esc. Guillermo Patterson
+1173785,29,8,7,16,4713,21,Caseta El Vallecito
+6174106,29,8,7,16,5005034,22,C.e. Bilingüe Salomón
+6174107,29,8,7,16,5005035,23,Esc. El Buen Pastor
+6174486,29,8,7,16,5005414,25,Caseta Pradera Del Norte
+6174487,29,8,7,16,5005415,26,Cancha Deportiva Villa Grecia
+1169839,30,8,7,17,736,1,C.e.b.g. Rep. De Honduras
+1169991,30,8,7,17,888,11,Cebg Altos De Pacora
+1170173,30,8,7,17,1070,16,C.e.b.g. Luis N. Herazo
+1170209,30,8,7,17,1106,18,Esc. Saint John´S Academy
+1170905,30,8,7,17,1802,23,C.e.b.g. Ciudad Santa Fe
+1171864,30,8,7,17,2761,4,Esc. Nueva Activa De Utivé
+1172155,30,8,7,17,3052,5,Esc. Carlos C. Arosemena
+1172554,30,8,7,17,3451,7,Esc. Pueblo Nuevo
+6174029,30,8,7,17,5004926,50,Residencial Los Años Dorados
+6174472,30,8,7,17,5005369,24,Esc. Padre Rev. Guardia Jaén
+1169875,30,8,7,18,741,1,C.e.b.g. La Mesa
+1170884,30,8,7,18,1750,2,Esc. Nueva Activa Carriazo
+1171482,30,8,7,18,2348,3,Esc. San Miguel
+1171896,30,8,7,18,2762,4,Esc.  Río Indio
+1172187,30,8,7,18,3053,5,Esc.nueva Activa  Juan Gil
+1169908,30,8,7,19,743,1,Esc. Ricardo J. Alfaro
+1171514,30,8,7,19,2349,3,Esc. Nvo. Belén
+1171928,30,8,7,19,2763,4,Esc. Emperatriz Taboada
+1172445,30,8,7,19,3280,6,C.e.b.g. La Siesta
+1172756,30,8,7,19,3591,8,Esc. Bilingüe Sector Sur
+6174092,30,8,7,19,5004927,50,Hospital Irma Tzanetatos
+6174527,30,8,7,19,5005362,10,Pc. Tocumen (Extensión)
+6174528,30,8,7,19,5005363,11,Pc. Tocumen
+6174529,30,8,7,19,5005364,12,Inst. Técnico Superior
+6174531,30,8,7,19,5005366,14,Esc. Nuevo Amanecer
+1169941,30,8,7,20,745,1,Esc. Bilingüe De Los Países Bajos De Holanda
+1170948,30,8,7,20,1752,2,Cebg Ciudad Jardín Las Mañanitas
+1171546,30,8,7,20,2350,3,Esc. Génesis
+1171960,30,8,7,20,2764,4,Inst. Bern Bautista Bilingüe
+1172251,30,8,7,20,3055,5,Esc. República De El Salvador
+6174556,30,8,7,20,5005360,7,Esc. San Miguel Arcángel
+6174557,30,8,7,20,5005361,8,Esc. El Buen Pastor Las Mañanitas
+1169974,30,8,7,21,747,1,Esc. Cerro Azul
+1170053,30,8,7,21,826,10,Cebg Santa María De Los Ángeles
+1170980,30,8,7,21,1753,2,I.p.t. Jeptha B. Duncan
+1171578,30,8,7,21,2351,3,Esc. Alto De Cabuya
+1171992,30,8,7,21,2765,4,Cebg.vista Hermosa
+1172283,30,8,7,21,3056,5,Cebg. Juan E. Jiménez
+1172509,30,8,7,21,3282,6,Esc.secundaria Francisco Miranda
+1172680,30,8,7,21,3453,7,Cebg. Unión Centroamericana
+1172819,30,8,7,21,3592,8,Centro Escolar San Miguel Febres Cordero
+1172929,30,8,7,21,3702,9,Cebg 24 De Diciembre
+6174594,30,8,7,21,5005367,11,Esc. El Buen Pastor
+6174595,30,8,7,21,5005368,12,Esc. Ricaurte Soler
+1170007,29,8,7,22,749,1,C.e.b.g. Melchor Lasso De La Vega
+1171012,29,8,7,22,1754,2,Esc. Bilingüe  Unión Panamericana
+1171610,29,8,7,22,2352,3,C.e. Bilingüe La Cabima
+1172024,29,8,7,22,2766,4,Esc. Bilingüe Nicolle Garay
+1172315,29,8,7,22,3057,5,C.e.b.g.  María Henríquez
+1172541,29,8,7,22,3283,6,C.e.  Colinas De Las Cumbres
+6174605,29,8,7,22,5005347,8,C.e. Más Que Vencedores
+6174606,29,8,7,22,5005348,9,Col. Manuel F. Zarate
+6174607,29,8,7,22,5005349,10,Col. Bilingüe Abba Padre
+6174608,29,8,7,22,5005350,11,Academia Gedeon
+1170040,29,8,7,23,751,1,Ce. Monseñor  Francisco Beckman
+1170116,29,8,7,23,827,10,Caseta Gazebo Urb. Quintas Del Lago
+1170178,29,8,7,23,889,11,Caseta Gazebo Urb. Valle Del Lago
+1170232,29,8,7,23,943,12,C.e.f.a.c.e.i. Mis  Primeros Pasos
+1171045,29,8,7,23,1756,2,Esc. Santa Rita
+1172056,29,8,7,23,2767,4,Esc. Villa Milagros
+1172347,29,8,7,23,3058,5,C.e. Bilingüe Nuevo Progreso
+1172573,29,8,7,23,3284,6,Col. Nuestra Señora De Lourdes
+1172743,29,8,7,23,3454,7,Cei.  San Francisco De Asís
+1172882,29,8,7,23,3593,8,Caseta Deportiva Villa María
+1172992,29,8,7,23,3703,9,Esc. San Juan Pablo Ii
+1174003,29,8,7,23,4714,13,Inst. Politécnico Bilingue Gosen
+6174321,29,8,7,23,5005032,16,Inst. Bilingüe Internacional De Panamá
+6174322,29,8,7,23,5005033,17,Esc. Bilingüe El Ocaso
+6174393,29,8,7,23,5005104,18,Colegio Bilingüe Ayudando A Enseñar
+6174394,29,8,7,23,5005105,19,Colegio Bilingüe Emanuel
+6174395,29,8,7,23,5005106,20,Esc. Bilingüe El Buen Pastor
+6174396,29,8,7,23,5005107,21,Saint Joseph Salisian School
+6174782,29,8,7,23,5005493,22,Col. The Oxford School
+1176297,28,8,7,100,4621,1,C.e.b.g. Villa Catalina
+1176298,28,8,7,100,4622,2,Esc. Bilingüe Don Bosco
+1176299,28,8,7,100,4623,3,Esc. Bilingüe Federico Escobar
+1176300,28,8,7,100,4624,4,I.p.t. Don Bosco
+1176301,28,8,7,100,4625,5,Col. Bilingüe Santo Domingo Savio
+1176333,30,8,7,101,4626,1,Esc. Paso Blanco N°1
+1176334,30,8,7,101,4627,2,Esc. San Diego
+1176335,30,8,7,101,4628,3,Cebg Presidente Valdés
+1176336,30,8,7,101,4629,4,Esc. Virgen De Guadalupe
+6176663,30,8,7,101,5004956,51,Centro De Custodio Y Cumplimiento
+6176665,30,8,7,101,5004958,53,Complejo Penitenciario La Joyita
+6176667,30,8,7,101,5004960,55,Complejo Penitenciario La Nueva Joya
+6176670,30,8,7,101,5004963,56,Complejo Penitenciario La Joya
+1176469,29,8,7,102,4731,1,C.e.b.g. Bilingüe María Latorre
+1176470,29,8,7,102,4732,2,C.e.b.g. Bilingüe José Artigas
+1176471,29,8,7,102,4733,3,C.e.b.g. Nuevo Caimitillo
+1176472,29,8,7,102,4734,4,Esc. San Juan De Pequení
+1176473,29,8,7,102,4735,5,Esc. Qda. Ancha N°2
+1176474,29,8,7,102,4736,6,Esc. Activa Victoriano Lorenzo
+1176475,29,8,7,102,4737,7,Esc. Embera 260
+1176476,29,8,7,102,4738,8,C.e. Domingo Romero
+1176477,29,8,7,102,4739,9,Cefacei Rayitos De Luz
+1176478,29,8,7,102,4740,10,Caseta Ciudad El Amanecer
+1176479,29,8,7,102,4741,11,Inst. Bilingüe San Lorenzo
+1176480,29,8,7,102,4742,12,Academia Bilingüe San Lorenzo
+1176482,29,8,7,102,4744,14,Esc. Peña Blanca
+1176483,29,8,7,102,4745,15,Esc. La Tranquilla
+1176484,29,8,7,102,4746,16,Esc. Parará Puru
+6177132,29,8,7,102,5005394,17,Coif Iglesia San Juan Diego
+1170609,26,8,9,1,80,1,C.e.b.g. 9 De Enero
+1172436,26,8,9,1,1907,3,C.e.b.g.  Louis  Martinz
+1172966,26,8,9,1,2437,4,C.e.  Amelia D. De Icaza
+1173626,26,8,9,1,3097,6,P.c.  León A. Soto
+1174009,26,8,9,1,3480,8,Academia Bilingue La Medalla Milagrosa
+1175278,26,8,9,1,4749,9,C.e.b.g. Bilingüe Jerónimo De La Ossa
+6175469,26,8,9,1,5004940,50,Hospital San Miguel Arcángel
+6175959,26,8,9,1,5005430,17,Isae Universidad
+6176000,26,8,9,1,5005471,18,Esc. Bilingüe República De Italia
+1170723,26,8,9,2,163,1,C.e.b.g. Bilingüe Carlos A. Mendoza
+1171592,26,8,9,2,1032,15,C.e.b.g. Bilingüe República De Francia
+1171637,26,8,9,2,1077,17,C.e.b.g. General Manuel Belgrano
+1171824,26,8,9,2,1264,2,C.e.b.g. Josefina Tapia
+1172532,26,8,9,2,1972,3,Esc. Don Bosco
+1173048,26,8,9,2,2488,4,C.e.b.g. Samaria Sinaí
+1173419,26,8,9,2,2859,5,Esc. Rep. De Corea
+6175521,26,8,9,2,5004961,50,Centro Penitenciario Tinajita
+6175931,26,8,9,2,5005371,19,Ipt Louis Martinz
+6175932,26,8,9,2,5005372,20,Esc. Don Bosco (Antigua Sede)
+1170835,26,8,9,3,244,1,Cebg. Bilingüe Estado De Israel
+1171372,26,8,9,3,781,10,I.p.t. Ángel Rubio
+1171553,26,8,9,3,962,13,Caseta José D. Espinar
+1171596,26,8,9,3,1005,14,Caseta Nuevo Belén
+1171921,26,8,9,3,1330,2,C.e.b.g. Bilingüe José D. Espinar
+1174229,26,8,9,3,3638,9,Colegio  Pureza De María
+6175530,26,8,9,3,5004939,50,Hospital Dra. Susana Jones
+6175964,26,8,9,3,5005373,16,The Panamá Preparatory School
+6176020,26,8,9,3,5005429,19,Anexo Col. José D. Espinar
+6176052,26,8,9,3,5005461,20,Complejo Deportivo Altavilla
+1170947,26,8,9,4,325,1,C.e.b.g. Bilingüe Severino Hernández
+1172022,26,8,9,4,1400,2,Esc. Bilingüe República De Colombia
+6175998,26,8,9,4,5005376,4,Instituto John Dewey
+1171057,26,8,9,5,404,1,C.e.b.g. Bilingüe Rep. De Alemania
+1172119,26,8,9,5,1466,2,Esc. San Antonio
+1172783,26,8,9,5,2130,3,Inst. Rubiano
+1171150,26,8,9,6,466,1,Esc. Valle De Urracá
+1172206,26,8,9,6,1522,2,C.e.b.g. Martin L. King
+1173315,26,8,9,6,2631,4,C.e.b.g. Bilingüe Arnulfo Arias
+1175546,26,8,9,6,4862,5,Caseta De Arnulfo Arias
+6176156,26,8,9,6,5005472,10,C.e.f.a.c.e.i. La Felicidad
+1171238,26,8,9,7,523,1,C.e.b.g. Bilingüe General José De San Martín
+1172285,26,8,9,7,1570,2,C.e.b.g. Bilingüe Torrijos- Carter
+1172928,26,8,9,7,2213,3,C.e.b.g. Bilingüe Santa Marta
+1173372,26,8,9,7,2657,4,I.p.t. San Miguelito
+1173696,26,8,9,7,2981,5,Esc. Rogelio Sinán
+1173934,26,8,9,7,3219,6,Esc. De Polonia
+1174129,26,8,9,7,3414,7,Esc. El Mirador
+1174275,26,8,9,7,3560,8,C.e.  Katiuska
+1171321,26,8,9,8,575,1,C.e.b.g. Bilingüe Los Andes
+1172363,26,8,9,8,1617,2,C.e.b.g. Bilingüe Santa Librada
+1172999,26,8,9,8,2253,3,Esc. María Del Rosario De  Salazar
+1173437,26,8,9,8,2691,4,Esc. Bilingüe Domingo Faustino Sarmiento
+1173755,26,8,9,8,3009,5,C.e.b.g.  Bilingüe Santiago De La Guardia
+1173989,26,8,9,8,3243,6,Esc.juan José Amado
+1175579,26,8,9,8,4833,7,Iptc Nicolas Del Rosario
+6176123,26,8,9,8,5005377,8,Esc. El Buen Pastor Canaán
+6176174,26,8,9,8,5005428,11,Anexo Esc. Santiago De La Guardia
+6176208,26,8,9,8,5005462,12,Primer Ciclo Santa Librada
+1171389,26,8,9,9,612,1,Esc. Bilingüe Pedro Ameglio
+1172421,26,8,9,9,1644,2,Esc. Bilingüe Padre Xavier  Villanueva
+1173050,26,8,9,9,2273,3,Col. Bilingüe De Cerro Viento (Sec.)
+1173480,26,8,9,9,2703,4,E.n.e.a. Cerro Viento Rural
+1173796,26,8,9,9,3019,5,C.e.b.g. Bilingüe Gabriel Lewis Galindo
+1174029,26,8,9,9,3252,6,Col. Bilingue De Panamá
+1175612,26,8,9,9,4835,8,Inst. Justo Arosemena
+6176251,26,8,9,9,5005474,12,San Anthony School
+1172535,24,8,11,1,84,1,C.e.b.g.  Benjamín Quintero Álvarez
+1172649,24,8,11,2,167,1,Esc. Otoque Occidente
+1172761,24,8,11,3,248,1,C.e.b.g.  Juana M. De Jiménez
+1311825,21,13,1,1,29,1,C.e.b.g. Bilingüe  Guillermo Andreve
+1312632,21,13,1,1,836,11,Cebg Vista Bella
+1312692,21,13,1,1,896,12,Cebg Valle Del Sol
+1314589,21,13,1,1,2793,5,C.e.b.g Colinas De Cáceres
+1314869,21,13,1,1,3073,6,Esc. Bilingüe Stella Sierra
+1315260,21,13,1,1,3464,8,C.b. Estado De Minnesota
+1316507,21,13,1,1,4711,13,C.e.b.g. La Cascada
+6316973,21,13,1,1,5005177,14,Col. Cristóbal Adán De Urriola
+6316974,21,13,1,1,5005178,15,Centro Educativo La Polvareda
+1311938,21,13,1,2,111,1,C.e.   Nuevo Arraijan
+1313043,21,13,1,2,1216,2,C.e. Leonidas Delgado
+1313756,21,13,1,2,1929,3,Ce San José De Bernardino
+1314936,21,13,1,2,3109,6,Col. María Auxiliadora
+1315154,21,13,1,2,3327,7,Cebg. Cerro Tigre
+1315316,21,13,1,2,3489,8,Centro Vocacional De  Chapala
+1315449,21,13,1,2,3622,9,Col. Bilingue San José Del Carmen
+1316537,21,13,1,2,4710,10,C.e. Bilingue Juan Demostenes Arosemena
+6317006,21,13,1,2,5005179,11,Scala International School
+6317007,21,13,1,2,5005180,12,Centro Educativo Los Pinos
+1312051,21,13,1,3,193,1,C.e.b.g. Bilingüe  Nuevo Emperador
+1312162,21,13,1,4,273,1,Cebg Santa Clara
+1313242,21,13,1,4,1353,2,C.b.  Huile
+1312272,21,13,1,5,352,1,C.e. Bilingüe Veracruz
+1313342,21,13,1,5,1422,2,Cebg Cosecha Amistad
+1314015,21,13,1,5,2095,3,C.e.  Koskuna
+1314486,21,13,1,5,2566,4,Esc. De Aviación Y Logística
+6317101,21,13,1,5,5005181,5,C.e. Luz Del Mundo
+6317102,21,13,1,5,5005182,6,Esc. Saint Joseph
+1312378,21,13,1,6,427,1,Esc. Bilingüe Roberto F. Chiari
+1313437,21,13,1,6,1486,2,C.e.b.g.  Loma Bonita
+1314555,21,13,1,6,2604,4,Cebg Residencial Vista Alegre
+1314890,21,13,1,6,2939,5,C.e.b. Brisas Del Chumical
+1315336,21,13,1,6,3385,7,Ce San Gabriel De La Dolorosa
+1315610,21,13,1,6,3659,9,C.e.b.g. Aprendo Y Juego
+1312469,21,13,1,7,487,1,C.e. Bilingüe Burunga
+1313523,21,13,1,7,1541,2,C.e.b.g. Bilingüe Lucas Barcenas
+1314173,21,13,1,7,2191,3,Ipt Fernando De Lesseps
+1314626,21,13,1,7,2644,4,Cebg Reina Torres De Araúz
+1315192,21,13,1,7,3210,6,C.e.b.  Lluvia De Bendiciones
+1315388,21,13,1,7,3406,7,Ce Bilingue Armonia
+1315535,21,13,1,7,3553,8,Cebg Fuente De Amor
+1315654,21,13,1,7,3672,9,C.e.b.g.  Nueva Jerusalem
+1316694,21,13,1,7,4712,10,C.e.b.g. Once De Octubre
+6317166,21,13,1,7,5005184,11,Col. Bilingüe Emanuel
+1312555,21,13,1,8,542,1,Cebg De Bique
+1313600,21,13,1,8,1587,2,Cebg Cerro Silvestre
+1314239,21,13,1,8,2226,3,C.e. Bilingüe Nuevo Chorrillo
+1314683,21,13,1,8,2670,4,C.e.  La Playita
+1315005,21,13,1,8,2992,5,Ce Federico Ozanam
+6317198,21,13,1,8,5005185,7,Ce Ludovico De Casoria
+6317199,21,13,1,8,5005186,8,Esc. San José De Malambo
+6317137,21,13,1,9,5005093,1,Esc. Bilingüe Residencial Vacamonte
+6317138,21,13,1,9,5005094,2,Inst. Bilingüe  Ciudad Vacamonte
+6317139,21,13,1,9,5005095,3,C.e.b.g. Bilingüe El Tecal
+6317231,21,13,1,9,5005187,4,Universidad De Panamá
+6317232,21,13,1,9,5005188,5,C.e. Buen Pastor Hebrón
+1312796,22,13,2,1,39,1,Esc. Bilingüe Federico Boyd
+1313911,22,13,2,1,1154,2,Esc. Cerro Cermeño
+6318174,22,13,2,1,5005417,3,Ipt Capira
+1312909,22,13,2,2,121,1,C.e.b.g.  Caimito
+1314014,22,13,2,2,1226,2,Ce Cañazas
+1314725,22,13,2,2,1937,3,C.e.b.g. La Valdeza
+1313022,22,13,2,3,203,1,Esc. Enrique A. Jiménez
+1314113,22,13,2,3,1294,2,Esc. Cerro Campana
+1313133,22,13,2,4,283,1,C.e. Dr. Augusto S. Boyd
+1314211,22,13,2,4,1361,2,Esc. Quebrada Grande
+1314898,22,13,2,4,2048,3,Ce Monte Oscuro Abajo
+1313243,22,13,2,5,362,1,C.e.b.g.  Ciri De Los Sotos
+1314313,22,13,2,5,1432,2,C.e.b.g. Los Chorros
+1314984,22,13,2,5,2103,3,C.e. Nuevo Paraiso
+1315454,22,13,2,5,2573,4,Telebásica  Los Uveros
+1315804,22,13,2,5,2923,5,C.e.b.g.  Tres Hermanas
+1316054,22,13,2,5,3173,6,Esc. Dos Aguas
+1316257,22,13,2,5,3376,7,Esc. Nuevo Progreso
+1316410,22,13,2,5,3529,8,Ce. Las Lajitas
+1313711,22,13,2,6,799,10,Esc. Río Indio Arriba
+1313782,22,13,2,6,870,11,Ce. Teria Nacimiento
+1313838,22,13,2,6,926,12,Cebg Río Indio Centro
+1313885,22,13,2,6,973,13,Esc. La Conga
+1313925,22,13,2,6,1013,14,Esc. Arenilla
+1313952,22,13,2,6,1040,15,Ce. Caracolar
+1313976,22,13,2,6,1064,16,Ceb. Marganao
+1313995,22,13,2,6,1083,17,Esc. Las Gaitas
+1314408,22,13,2,6,1496,2,C.e.b.g.  Las Claras Arriba
+1315065,22,13,2,6,2153,3,C.e. Jordanal
+1315524,22,13,2,6,2612,4,C.e.b.g. Natividad Gordon
+1315859,22,13,2,6,2947,5,C.e.  Ciricito Arriba
+1316302,22,13,2,6,3390,7,Esc.  La Bonga
+1316452,22,13,2,6,3540,8,Esc. El Harino
+1316574,22,13,2,6,3662,9,C.e.b.g. Río Indio De Los Chorros
+1313438,22,13,2,7,495,1,Ce. El Cacao
+1313752,22,13,2,7,809,10,C.e.b.g. Nuestra Señora De Fatima
+1313819,22,13,2,7,876,11,Ce. El Jagua
+1313873,22,13,2,7,930,12,C.e.b.g. El Limón Raudales
+1313920,22,13,2,7,977,13,C.e. Hierba Buena
+1314490,22,13,2,7,1547,2,Esc.  San Antonio De Padua
+1315141,22,13,2,7,2198,3,Esc. La Negrita
+1315591,22,13,2,7,2648,4,C.e.  Trinidad Arriba
+1315919,22,13,2,7,2976,5,Cebg. El Aguacate Arriba
+1316158,22,13,2,7,3215,6,C.e . Trinidad De Las Minas
+1316354,22,13,2,7,3411,7,Esc. Vista Alegre
+1316501,22,13,2,7,3558,8,Ceb. Peña Blanca
+1316620,22,13,2,7,3677,9,Ce. Bajo Bonito
+1317773,22,13,2,7,4830,14,C.e. Los Pinos
+1313524,22,13,2,8,550,1,C.e.b.g. La Florida
+1313788,22,13,2,8,814,10,Esc. Los  Faldares
+1314569,22,13,2,8,1595,2,Esc. Nueva Arenosa
+1315649,22,13,2,8,2675,4,C.e.b.g. El Aguacate Abajo
+1315971,22,13,2,8,2997,5,Esc. El Caraño
+1316207,22,13,2,8,3233,6,Esc. Los Cañones
+1316541,22,13,2,8,3567,8,Esc. La Humildad
+1316658,22,13,2,8,3684,9,Ce. La Honda
+1313600,22,13,2,9,595,1,Ce. Ollas Arriba
+1313666,22,13,2,10,630,1,C.e.b. Lidice
+1314697,22,13,2,10,1661,2,C.e. Majara
+1315322,22,13,2,10,2286,3,Esc. Las Filipinas
+1315749,22,13,2,10,2713,4,Esc.  Caimitillo
+1317827,22,13,2,10,4791,5,C.e.b.g. Hernando Bárcenas
+1313726,22,13,2,11,659,1,Esc. Domingo Díaz A.
+1313782,22,13,2,12,684,1,C.e.  Harmodio Arias Madrid
+1314804,22,13,2,12,1706,2,C.e. La Pita
+1313829,22,13,2,13,700,1,Esc. Ines Martínez Gómez
+1314848,22,13,2,13,1719,2,Esc. Las Claras Abajo
+1315455,22,13,2,13,2326,3,C.e. Gregorio Velazquez
+1315874,22,13,2,13,2745,4,Esc. Riecito
+1316171,22,13,2,13,3042,5,Ce. Las Petras
+1316400,22,13,2,13,3271,6,Esc. Alto Nuevo Limón
+1316575,22,13,2,13,3446,7,Cebg. Ahogado Centro
+1317960,22,13,2,13,4831,8,Esc. Bella Vista
+1313766,23,13,3,1,48,1,Esc.bilingüe  Rafael Maduro G.
+1313879,23,13,3,2,130,1,Cebg. Berta Elida  Fernández
+1314982,23,13,3,2,1233,2,C.e. Santa Cruz
+1315692,23,13,3,2,1943,3,Cebg. El Mangote
+1313992,23,13,3,3,212,1,C.e.b.g.  Jacinta M. Henriquez
+1315083,23,13,3,3,1303,2,C.e.  Llano Grande
+1315783,23,13,3,3,2003,3,C.e. Bajo Del Río
+1316288,23,13,3,3,2508,4,C.e.  Buena Vista
+1316656,23,13,3,3,2876,5,C.e.b.g.  La Lagunita
+1314103,23,13,3,4,292,1,C.b.g. Rufina González
+1315180,23,13,3,4,1369,2,C.e.  Los Pozos
+1314213,23,13,3,5,371,1,C.e.b.g. Chica
+1314317,23,13,3,6,444,1,C.e. El Libano
+1314405,23,13,3,7,501,1,Esc. Las Lajas
+1315456,23,13,3,7,1552,2,Esc. Bilingüe Roberto Eisenmann
+1314490,23,13,3,8,555,1,C.e. Nueva Gorgona
+1315534,23,13,3,8,1599,2,Ce. Coloncito
+1314564,23,13,3,9,598,1,Esc. Punta Chame
+1314630,23,13,3,10,633,1,C.e. Sajalices
+1315661,23,13,3,10,1664,2,Cebg. El Espavé
+1314690,23,13,3,11,662,1,C.e.b.g. Toribio Lora Puche
+1315715,23,13,3,11,1687,2,C.e. Manglarito
+1316333,23,13,3,11,2305,3,Ce. El Nanzal
+1316755,23,13,3,11,2727,4,C.e. El Jobo
+1318737,23,13,3,11,4709,5,C.e. Filipina
+1314736,25,13,4,1,57,1,C.e.b.g.  José María  Barranco
+1315847,25,13,4,1,1168,2,Esc. Sec. Pedro Pablo Sánchez
+1317099,25,13,4,1,2420,4,Esc. Victoria D' Spinay
+1317987,25,13,4,1,3308,7,"Cebg. Federico ""Yico"" Velásquez"
+1318153,25,13,4,1,3474,8,C.e. San Antonio
+1318290,25,13,4,1,3611,9,Cebg. Tomas Martín Feuillit
+6319607,25,13,4,1,5004928,50,Hospital Nicolás Solano
+6320023,25,13,4,1,5005344,11,Esc. Rep. De Costa Rica
+1314849,25,13,4,2,139,1,C.e. Bilingüe Naciones Unidas
+1315951,25,13,4,2,1241,2,Col. Moises Castillo Ocaña
+1316661,25,13,4,2,1951,3,C.e.b.g. Leopoldo Castillo
+1317183,25,13,4,2,2473,4,C.e.  El  Limón
+1317557,25,13,4,2,2847,5,C.e.  Fuente Del Chase
+1317829,25,13,4,2,3119,6,Col. San Vicente Padre Jesús San Felios
+1318044,25,13,4,2,3334,7,C. B.  El Trapichito
+1318204,25,13,4,2,3494,8,Inst. Bern Bautista Bilingue
+6320053,25,13,4,2,5005343,10,Iphe
+1314961,25,13,4,3,220,1,Esc. Lagarterita
+1316049,25,13,4,3,1308,2,Esc. Las Pavas
+1316748,25,13,4,3,2007,3,Esc. Los Hules Abajo
+1317251,25,13,4,3,2510,4,C.e.b.g. Aminta Martinez
+1317619,25,13,4,3,2878,5,Esc. Tinajones Arriba
+1317880,25,13,4,3,3139,6,Esc. Lagartera Grande
+1315073,25,13,4,4,301,1,C.e.b.g. Arosemena
+1316149,25,13,4,4,1377,2,Esc. Quebrada Grande
+1316830,25,13,4,4,2058,3,Esc. La Divisa
+1315183,25,13,4,5,380,1,Cebg. El Arado
+1316248,25,13,4,5,1445,2,C.e.  El Lirio
+1316916,25,13,4,5,2113,3,Esc. Santa Cruz
+1315285,25,13,4,6,451,1,C.e. Bilingüe El Coco
+1316340,25,13,4,6,1506,2,Cebg. Potrero Grande
+1317453,25,13,4,6,2619,4,Esc. Biancheri
+1315373,25,13,4,7,508,1,Esc. La Doradilla
+1316423,25,13,4,7,1558,2,Ce. Las Lajitas
+1315456,25,13,4,8,560,1,C.e.b.g.  Zaida Nuñez
+1316498,25,13,4,8,1602,2,Esc. Altos De San Francisco
+1317135,25,13,4,8,2239,3,C.e.b.g. Bilingüe La Herradura
+1317575,25,13,4,8,2679,4,Esc. La Valdeza
+1318132,25,13,4,8,3236,6,Esc. Nazareno
+1318318,25,13,4,8,3422,7,Iptch
+1318464,25,13,4,8,3568,8,C.e.b.g. Virgen De Guadalupe
+1315529,25,13,4,9,602,1,Esc. Las Zanguengas
+1316563,25,13,4,9,1636,2,Esc. Las Yayas
+1317194,25,13,4,9,2267,3,Esc. Alto De Espave
+1319769,25,13,4,9,4842,4,Caseta Mall La Mendoza
+1319770,25,13,4,9,4843,5,Caseta Plaza Trapichito
+1315595,25,13,4,10,637,1,Esc. Corozales Adentro
+1316626,25,13,4,10,1668,2,Esc. Corozales Afuera
+1315655,25,13,4,11,666,1,C.e. León A. Soto
+1316680,25,13,4,11,1691,2,Esc. La Colorada
+1315708,25,13,4,12,688,1,C.e.b.  La Represa
+1316729,25,13,4,12,1709,2,Esc. Alto De Jobo
+1315755,25,13,4,13,704,1,Ce. Los Mortales
+1317380,25,13,4,13,2329,3,C.e.   Ollas Abajo
+1315797,25,13,4,14,715,1,Cebg. Mendoza
+1316812,25,13,4,14,1730,2,C.e. Tinajones Abajo
+1315835,25,13,4,15,722,1,Esc. Huesital
+1316847,25,13,4,15,1734,2,Cebg. El Límite
+1319981,25,13,4,15,4868,4,Esc. Las Lajas
+1319982,25,13,4,15,4869,5,C.e. Caimitillo Abajo
+1315873,25,13,4,16,729,1,C.e.b.g.  La Mitra
+1316884,25,13,4,16,1740,2,Esc. Peña Blanca
+1317486,25,13,4,16,2342,3,C.e. Telebásica  Playa Leona
+1317900,25,13,4,16,2756,4,Esc. Llano Largo
+6320489,25,13,4,16,5005345,5,C.e. Guillermo Endara Galimany
+1315909,25,13,4,17,734,1,Esc. Bilingüe Victoriano A. Chacón
+1316919,25,13,4,17,1744,2,Esc. El Progreso
+1317520,25,13,4,17,2345,3,Col. Episcopal San José
+1317934,25,13,4,17,2759,4,Esc. Playa Chiquita
+1315945,25,13,4,18,739,1,C.e.b.g. José E. Escala
+1316954,25,13,4,18,1748,2,C.b.g. Bajo Grande
+1315704,23,13,5,1,64,1,Cebg Manuel B. Higueros
+1316816,23,13,5,1,1176,2,C.e.b.g.  Colón
+6321058,23,13,5,1,5005418,3,Ce San Carlos
+1315818,23,13,5,2,147,1,C.e.b.g.  El Espino
+1316920,23,13,5,2,1249,2,Esc. Copecito
+1317629,23,13,5,2,1958,3,Esc. La Uva
+1315930,23,13,5,3,228,1,Cebg. El Higo
+1317018,23,13,5,3,1316,2,Esc. El Cope
+1316042,23,13,5,4,309,1,C.e. El  Guayabito
+1317118,23,13,5,4,1385,2,Cebg La Peña
+1316152,23,13,5,5,388,1,Esc. La Ermita
+1317216,23,13,5,5,1452,2,C.e.  La Pita
+1316251,23,13,5,6,456,1,Cebg. La Laguna
+1317306,23,13,5,6,1511,2,Esc. El Picacho
+1317961,23,13,5,6,2166,3,Esc. José De La Rosa Bernal
+1316339,23,13,5,7,513,1,Cebg. Las Uvas
+1316422,23,13,5,8,565,1,C.e.b.g  Los Llanitos
+1317464,23,13,5,8,1607,2,Cebg.  Mata Ahogado
+1318101,23,13,5,8,2244,3,C.e.b.g.  Las Margaritas
+1318540,23,13,5,8,2683,4,C.e.b.g. Chichivali
+1318860,23,13,5,8,3003,5,Esc. El Roble
+1319095,23,13,5,8,3238,6,Esc. Los Yerbos
+1319281,23,13,5,8,3424,7,Esc. Río De Jesús
+1316494,23,13,5,9,606,1,C.e. San José
+1317527,23,13,5,9,1639,2,Cebg. Rodeo Viejo
+1191682,34,9,0,1,11,1,C.e. Bilingüe Atalaya
+1192799,34,9,0,1,1128,2,Esc. Llano Del Nance
+1194061,34,9,0,1,2390,4,Esc. Garnadera Grande
+6196971,34,9,0,1,5005300,10,Esc. Padre José Canovas
+1191798,34,9,0,2,96,1,Esc. El Barrito
+1193621,34,9,0,2,1919,3,Esc. Los Corralillos
+1194149,34,9,0,2,2447,4,C.e.b.g. Tara
+1191912,34,9,0,3,179,1,C.e.b.g. La Montañuela
+1193009,34,9,0,3,1276,2,C.e.b.g. El Coco
+1192024,34,9,0,4,260,1,C.e.b.g. El Potrero
+1193107,34,9,0,4,1343,2,Casa Comunal De La Mata
+1193798,34,9,0,4,2034,3,Caseta San Antonio
+6196706,34,9,0,4,5004942,50,"Hospital Luis ""Chicho"" Fábrega"
+6197157,34,9,0,4,5005393,5,Caseta Villa Marina
+1192135,34,9,0,5,340,1,C.e.b.g. Nuestro Amo
+1193208,34,9,0,5,1413,2,Esc. Balbuena
+1193882,34,9,0,5,2087,3,Esc. La Carrillo
+1194355,34,9,0,5,2560,4,C.e.b.g. Las Animas
+1192658,33,9,1,1,26,1,C.e.b.g. Eligio Tejada Ortega
+1193774,33,9,1,1,1142,2,Esc. El Pedregoso
+1194497,33,9,1,1,1865,3,Cebg  Las Tetas De Calobré
+1195033,33,9,1,1,2401,4,Cebg.  San Miguel
+6197933,33,9,1,1,5005301,5,Col. Agroforestal De Calobre
+1192771,33,9,1,2,108,1,Esc. Barnizal
+1193876,33,9,1,2,1213,2,Esc. El Portuguéz
+1192885,33,9,1,3,191,1,Esc. Loma Llana
+1193979,33,9,1,3,1285,2,C.e.b.g. La Hondura
+1194683,33,9,1,3,1989,3,C.e.b.g. Pueblo Nuevo
+1195192,33,9,1,3,2498,4,C.e.b.g. Media Luna
+1197442,33,9,1,3,4748,6,Esc. La Pandura
+1192996,33,9,1,4,271,1,Esc. El Cocla
+1194076,33,9,1,4,1351,2,C.e.b.g. El Esquinado
+1194767,33,9,1,4,2042,3,Cebg.  El Viento
+1195258,33,9,1,4,2533,4,Esc. José G. Robles
+1193106,33,9,1,5,350,1,Esc. El Potrero
+1194176,33,9,1,5,1420,2,Esc. El  Aguacatal
+1194849,33,9,1,5,2093,3,C.e.b.g. Llano Grande
+1193212,33,9,1,6,425,1,Esc. La Laguna
+1194271,33,9,1,6,1484,2,Esc. Las Trancas
+1193303,33,9,1,7,485,1,C.e.b.g. La Raya De Calobre
+1194357,33,9,1,7,1539,2,C.e.b.g. La Gallinaza
+1193389,33,9,1,8,540,1,Esc. El Baco
+1194434,33,9,1,8,1585,2,C.e.b.g. Los Boquerones
+1193470,33,9,1,9,590,1,Cebg.  Manuel S. Vásquez
+1194510,33,9,1,9,1630,2,Esc. El Satro
+1195142,33,9,1,9,2262,3,Ce. La Cije
+1193536,33,9,1,10,625,1,Esc. Las Guías Arriba
+1194567,33,9,1,10,1656,2,Esc. Mata Palo
+1195193,33,9,1,10,2282,3,C.e.b.g. Perequé
+1195621,33,9,1,10,2710,4,C.e.b.g. Cocobó
+1195934,33,9,1,10,3023,5,Cebg. Santiago Fernández Garcia
+1196166,33,9,1,10,3255,6,Esc. Llano Colorado
+1193597,33,9,1,11,655,1,Esc. Monjarás
+1194624,33,9,1,11,1682,2,Esc. Alto Limón
+1193654,33,9,1,12,681,1,Esc. San José
+1194676,33,9,1,12,1703,2,Cebg. El Guásimo
+1195289,33,9,1,12,2316,3,Cebg. Panamaito
+1193630,33,9,2,1,37,1,Esc. Bilingüe José De La C. Mérida
+1194618,33,9,2,1,1025,15,Esc. Alto Ibala
+1194745,33,9,2,1,1152,2,Esc. Cerro Viejo
+1195467,33,9,2,1,1874,3,C.e.b.g.  La Pintada
+1196002,33,9,2,1,2409,4,Ce. San Juan
+1196391,33,9,2,1,2798,5,Esc.  Santa Rosa
+1196671,33,9,2,1,3078,6,C.e.b.g.  La Lima
+6198895,33,9,2,1,5005302,18,Anexo Esc. José De La C. Merida
+1193856,33,9,2,3,201,1,C.e.b.g. Cerro Plata
+1194509,33,9,2,3,854,11,C.e.b.g. Monte Grande
+1194947,33,9,2,3,1292,2,C.e.b.g. La Concepción
+1193967,33,9,2,4,281,1,C.e.b.g.  Juan N. González
+1195732,33,9,2,4,2046,3,C.e. El Común
+1196222,33,9,2,4,2536,4,Esc. Los Lajones
+1196582,33,9,2,4,2896,5,C.e.b.g. Los Pilones
+1196840,33,9,2,4,3154,6,Esc. Altos De Los Pajaritos
+1197047,33,9,2,4,3361,7,Esc. Bajos De Higuí
+1194077,33,9,2,5,360,1,C.e.b.g. San Marcelo
+1194581,33,9,2,5,864,11,Cebg. Palo Verde
+1194639,33,9,2,5,922,12,Esc. Las Huacas
+1194687,33,9,2,5,970,13,Cebg. Llano Grande
+1195147,33,9,2,5,1430,2,Esc. Corita De Los Pérez
+1195818,33,9,2,5,2101,3,Esc. Boca De Corita
+1196288,33,9,2,5,2571,4,Esc. Agua Amarilla
+1196638,33,9,2,5,2921,5,Cebg.  El Poste
+1194183,33,9,2,6,435,1,C.e.b.g. La Purísima
+1194617,33,9,2,6,869,11,Esc. Río Piedra
+1194673,33,9,2,6,925,12,Cebg. Tierra Cortada
+1195242,33,9,2,6,1494,2,Esc. Buena Vista
+1195899,33,9,2,6,2151,3,Cebg. Piedra De Amolar
+1196358,33,9,2,6,2610,4,Esc. Bocle
+1196693,33,9,2,6,2945,5,Esc. El Picador
+1196939,33,9,2,6,3191,6,C.e.  Río Cañazas
+1197287,33,9,2,6,3539,8,Esc. Guacamaya
+1197409,33,9,2,6,3661,9,Esc. La Campana
+1194587,33,9,2,7,808,10,C.e.b.g. La Misericordia
+1194654,33,9,2,7,875,11,C.e.b.g. El Conejo
+1194708,33,9,2,7,929,12,Esc. El Camarena
+1194755,33,9,2,7,976,13,C.e.b.g. La Mata
+1196754,33,9,2,7,2975,5,C.e.b.g. Arcadio Gaitán G.
+1196993,33,9,2,7,3214,6,C.e.b.g. El Gavilán
+1197189,33,9,2,7,3410,7,C.e.b.g. Alejandro Camaño
+1197336,33,9,2,7,3557,8,C.e.b.g. El Cobrizo
+1197455,33,9,2,7,3676,9,C.e.b.g. El Nanzal
+1198642,33,9,2,7,4863,14,Esc. El Rosario
+6199236,33,9,2,7,5005457,15,Ce Palo Verde
+1194358,33,9,2,8,548,1,Cebg. Guabal Saliente
+1195403,33,9,2,8,1593,2,Cebg. Los Panamaes
+1196041,33,9,2,8,2231,3,C.e.b.g. El Ceibal
+1196483,33,9,2,8,2673,4,Ce. El Aromillo
+1196805,33,9,2,8,2995,5,Esc. Tolecillo
+1197041,33,9,2,8,3231,6,C.e.b.g. El Hacha
+1197376,33,9,2,8,3566,8,Esc. El Comuncito
+1197493,33,9,2,8,3683,9,Esc. Las Lajillas
+1194501,33,9,2,10,629,1,Esc. Las Cruces
+1195532,33,9,2,10,1660,2,Esc. Guabal Poniente
+1196157,33,9,2,10,2285,3,C.e.b.g. San Juan De Dios
+1196584,33,9,2,10,2712,4,C.e. Pan De Azúcar
+1197128,33,9,2,10,3256,6,Esc. El Higuito
+1194600,32,9,3,1,46,1,Esc. José Muñoz
+1196968,32,9,3,1,2414,4,Esc. Los Bravos
+1197356,32,9,3,1,2802,5,Esc. Los González
+1197636,32,9,3,1,3082,6,Esc. Piedra Hincada
+1197857,32,9,3,1,3303,7,Esc. Santa Catalina
+1198161,32,9,3,1,3607,9,Rancho El Piro
+6199857,32,9,3,1,5005303,10,Col. Secundario La Mesa
+1194713,32,9,3,2,128,1,Esc. Bisvalles
+1195816,32,9,3,2,1231,2,Esc. Los Valdeses
+1196526,32,9,3,2,1941,3,Esc. Subí
+1197050,32,9,3,2,2465,4,Esc. Alto De Los Sánchez
+1197427,32,9,3,2,2842,5,Esc. Zodelva Franco De Miranda
+1197700,32,9,3,2,3115,6,Esc. David Jiménez T.
+1197916,32,9,3,2,3331,7,Esc. Los Pilones
+1198077,32,9,3,2,3492,8,Esc. Alto El Llanón
+1194826,32,9,3,3,210,1,Esc. Boró
+1195917,32,9,3,3,1301,2,Esc. La Montaña De Boró
+1196617,32,9,3,3,2001,3,Esc. Olaca De Boró
+1194937,32,9,3,4,290,1,Esc. Llano Grande
+1196014,32,9,3,4,1367,2,Esc. La Montaña
+1196699,32,9,3,4,2052,3,Cebg. Charco Negro
+1195047,32,9,3,5,369,1,Esc. Mercedes De Tristán
+1196784,32,9,3,5,2106,3,Esc. Jesús M. Gonzalez P.
+1195151,32,9,3,6,442,1,Esc. Caña Brava
+1196209,32,9,3,6,1500,2,Esc. El Rodeo
+1196866,32,9,3,6,2157,3,Esc. Los Flores
+1197323,32,9,3,6,2614,4,Cebg. Miradores
+1195239,32,9,3,7,499,1,C.e.b.g. Ánimas De Boró
+1196290,32,9,3,7,1550,2,Esc. El Juan
+1196940,32,9,3,7,2200,3,Esc. El Marañón
+1195570,32,9,4,1,55,1,Esc. José A. Ruíz
+1196681,32,9,4,1,1166,2,Esc. El Mamey
+1197403,32,9,4,1,1888,3,Esc. Bajada De La Cruz
+1198821,32,9,4,1,3306,7,Cebg. Llano Largo
+1198988,32,9,4,1,3473,8,Esc. El Espaveito
+6200819,32,9,4,1,5005304,10,Inst. Profesional Y Técnico Las Palmas
+1195683,32,9,4,2,137,1,Cebg. Cerro De Casa
+1196785,32,9,4,2,1239,2,Cebg. Qda. Grande
+1197495,32,9,4,2,1949,3,Esc. El Raizal
+1198017,32,9,4,2,2471,4,Cebg. El Calabazo
+1198664,32,9,4,2,3118,6,Rancho Cañazal
+1198879,32,9,4,2,3333,7,Esc. Qda. Conga
+1195796,32,9,4,3,219,1,Esc. Amelia A. De Machuca
+1196883,32,9,4,3,1306,2,Esc. Seguidule
+1195907,32,9,4,4,299,1,Esc. María B. De Rodríguez
+1196983,32,9,4,4,1375,2,Esc. La Arena
+1197664,32,9,4,4,2056,3,Esc. El Macho
+1198151,32,9,4,4,2543,4,Esc. La Pita
+1198765,32,9,4,4,3157,6,Caseta Los Monos
+1196119,32,9,4,6,449,1,Esc. Luis A. Ruíz
+1197174,32,9,4,6,1504,2,Esc. Alto De Los Ruices
+1196207,32,9,4,7,506,1,Esc. El Rincón
+1197257,32,9,4,7,1556,2,Esc. Cerro Negro
+1197905,32,9,4,7,2204,3,Esc. Pino Del Cobre
+1198352,32,9,4,7,2651,4,Esc. El Caimito
+1198679,32,9,4,7,2978,5,Esc. El Limón Seco
+1196290,32,9,4,8,558,1,Cebg. Lolá Garnadera
+1196363,32,9,4,9,600,1,Cebg. Pixvae
+1197397,32,9,4,9,1634,2,Esc. El Pajarón
+1196429,32,9,4,10,635,1,Esc. Puerto Vidal
+1197460,32,9,4,10,1666,2,Esc. Jorones
+1198083,32,9,4,10,2289,3,Cebg. Peña Blanca
+1196489,32,9,4,11,664,1,Esc. Zapotillo
+1197514,32,9,4,11,1689,2,Esc. Bubi Arriba
+1198132,32,9,4,11,2307,3,Esc. Espala Arriba
+1198554,32,9,4,11,2729,4,Esc. Tabacal
+1196542,32,9,4,12,686,1,Esc. El Piro N°1
+1196589,32,9,4,13,702,1,C.e.b.g. La Cucurucha
+1197608,32,9,4,13,1721,2,Esc. Viguí
+1198215,32,9,4,13,2328,3,Esc. Barrigón
+1196631,32,9,4,14,713,1,Esc. La Pedregosa
+1197646,32,9,4,14,1728,2,Esc. Mata Redonda
+1198252,32,9,4,14,2334,3,Cebg. La Campana
+1198667,32,9,4,14,2749,4,Esc. El Guayabo
+1196539,34,9,5,1,63,1,C.e. Adolfo José  Fábrega
+1197650,34,9,5,1,1174,2,Esc. El Coco
+1196764,34,9,5,3,226,1,Ce. Horacio Acuña
+1196876,34,9,5,4,307,1,Esc. La Garceana
+1197952,34,9,5,4,1383,2,Esc. El Copé
+1196986,34,9,5,5,386,1,Esc. Isla De Leones
+1197174,34,9,5,7,512,1,C.e.b.g. Ildefonso Canto Solís
+1198224,34,9,5,7,1562,2,Esc. Buena Vista Sur
+1197395,34,9,5,10,640,1,Esc. Chumical
+1198425,34,9,5,10,1670,2,Esc. Llano Largo
+1199049,34,9,5,10,2294,3,Esc. Hato De Jesús
+1199473,34,9,5,10,2718,4,Esc. Mario Riera  Pinilla
+1197453,34,9,5,11,667,1,Ce. El Bongo
+1198478,34,9,5,11,1692,2,C.e.b.g. Vielka B. De Martínez
+1197506,34,9,5,12,689,1,Ce. Los Almácigos
+1198527,34,9,5,12,1710,2,Cebg. El Jobo
+1199136,34,9,5,12,2319,3,Escuela Cébaco
+1197506,34,9,6,1,69,1,Esc. Bilingüe Adolfo Herrera
+1198618,34,9,6,1,1181,2,Esc. Primaria Las Peñitas
+1199336,34,9,6,1,1899,3,Caseta El Caimito
+1200251,34,9,6,1,2814,5,Esc. Los Panamaes
+1200751,34,9,6,1,3314,7,Esc. Cerro Gordo
+1197620,34,9,6,2,152,1,Esc. Las Huacas
+1198721,34,9,6,2,1253,2,Esc. Cerro Banco
+1199430,34,9,6,2,1962,3,Esc. La Trinidad
+1197732,34,9,6,3,233,1,Esc. Los Castillos
+1197844,34,9,6,4,314,1,Esc. Utira
+1197954,34,9,6,5,393,1,Esc. El Pájaro
+1199018,34,9,6,5,1457,2,Esc. Los Montes
+1199684,34,9,6,5,2123,3,Esc. Los Leones
+1198471,33,9,7,1,73,1,C.e. Bilingüe Pedro Arrocha Grael
+1199583,33,9,7,1,1185,2,Esc. Hatillos Abajo
+1198585,33,9,7,2,156,1,Esc. Corral Falso
+1199686,33,9,7,2,1257,2,Esc. El Espavé
+1198697,33,9,7,3,237,1,Esc. Hatillos Arriba
+1199783,33,9,7,3,1323,2,Esc. Aguacatal
+1200477,33,9,7,3,2017,3,Esc. Carabalí
+1200977,33,9,7,3,2517,4,Esc. El Peñón
+1201342,33,9,7,3,2882,5,Esc. Chorrillito
+1203142,33,9,7,3,4682,6,C.e.b.g.  El Chorrillo
+1198809,33,9,7,4,318,1,C.e.b.g. Rogelio E. Norse
+1199884,33,9,7,4,1393,2,Esc. La Gorda
+1200562,33,9,7,4,2071,3,Esc. Las Peñitas
+1201040,33,9,7,4,2549,4,C.e.b.g. La Bodega
+1201397,33,9,7,4,2906,5,Esc. El Cortezo
+1201651,33,9,7,4,3160,6,Esc. Los Hernández
+1201857,33,9,7,4,3366,7,Esc. Llano Grande
+1198919,33,9,7,5,397,1,Esc. San Juan
+1199983,33,9,7,5,1461,2,Esc. Naranjal
+1201900,33,9,7,5,3378,7,Esc. La Honda
+1199014,33,9,7,6,461,1,C.e.b.g. El Ciruelar
+1200070,33,9,7,6,1517,2,C.e.b.g. San José N°2
+1200724,33,9,7,6,2171,3,Esc. Cuay Abajo
+1201181,33,9,7,6,2628,4,C.e.b.g. Los Mendoza
+1201512,33,9,7,6,2959,5,Cebg Cañaveral
+1199436,33,9,8,1,77,1,C.e.b.g.  Santa Fe
+1200547,33,9,8,1,1188,2,Esc. Vueltas Largas
+1201263,33,9,8,1,1904,3,Esc. Tute Abajo
+1201793,33,9,8,1,2434,4,C.e.b.g. El Pedregoso
+1199550,33,9,8,2,160,1,Cebg. Calovébora
+1200164,33,9,8,2,774,10,Esc. San José
+1200240,33,9,8,2,850,11,Cebg.  Peña Blanca
+1200299,33,9,8,2,909,12,Esc. Río Bejuco
+1200347,33,9,8,2,957,13,Cebg. Urracá
+1200390,33,9,8,2,1000,14,Cebg. San Antonio
+1201876,33,9,8,2,2486,4,Cebg. Río Guázaro
+1202247,33,9,8,2,2857,5,Cebg. Río Concepción
+1202515,33,9,8,2,3125,6,Cebg. Río Veraguas
+1202729,33,9,8,2,3339,7,Cebg. Belencillo
+1204255,33,9,8,2,4865,15,Esc. Santiaguito
+1199662,33,9,8,3,241,1,C.e.b.g.  El Alto
+1200748,33,9,8,3,1327,2,C.e.b.g.  El Carmen
+1199774,33,9,8,4,322,1,Esc. Los Llanos
+1200849,33,9,8,4,1397,2,C.e.b.g. El Cedro
+1201526,33,9,8,4,2074,3,C.e.b.g.  Los Corotúes
+1202003,33,9,8,4,2551,4,Esc. El Cuaycito
+1202360,33,9,8,4,2908,5,Esc. La Rana
+1199884,33,9,8,5,401,1,C.e.b.g. El Pantano
+1199978,33,9,8,6,464,1,Esc. Gatuncito
+1202143,33,9,8,6,2629,4,Esc. Santa Bárbara
+1202474,33,9,8,6,2960,5,Cebg. Gatu
+1202715,33,9,8,6,3201,6,Cebg. Quebrada Oscura
+1200066,33,9,8,7,521,1,C.e.b.g Roberto Cibala
+1201113,33,9,8,7,1568,2,C.e.b.g.  Soledad Concepción
+1201757,33,9,8,7,2212,3,C.e.b.g.  El Guabal
+1202201,33,9,8,7,2656,4,C.e.b.g.  Caloveborita
+1200149,33,9,8,8,573,1,Esc. Sabaneta De La Peña
+1201191,33,9,8,8,1615,2,Esc. Los Cerrillos
+1201827,33,9,8,8,2251,3,Esc. Pescara
+1202266,33,9,8,8,2690,4,Esc. El Palmarito
+1202584,33,9,8,8,3008,5,Esc. Alto Corona
+6205052,33,9,8,8,5005476,7,Esc. El Caimito
+1200401,31,9,9,1,81,1,Esc. San Vicente De Paúl
+1201348,31,9,9,1,1028,15,C.e.b.g. El Martincito
+1201374,31,9,9,1,1054,16,Esc. La Florecita
+1201512,31,9,9,1,1192,2,C.e.b.g. Bilingüe La Primavera
+1202228,31,9,9,1,1908,3,Esc. Normal Juan D. Arosemena
+1202676,31,9,9,1,2356,30,C.e.b.g. Las Barreras
+1202758,31,9,9,1,2438,4,C.e. Bilingüe Manuela H. De Pérez
+1203141,31,9,9,1,2821,5,Col. José Santos Puga
+1203418,31,9,9,1,3098,6,C.e. Bilingüe Anexa El Canadá
+6205282,31,9,9,1,5004962,52,Cárcel Pública De Santiago
+1200515,31,9,9,2,164,1,C.e.b.g. Margarito Mojica
+1201616,31,9,9,2,1265,2,Esc. El Centeno
+1202324,31,9,9,2,1973,3,Esc. Los Hatillos
+1202840,31,9,9,2,2489,4,Esc. El Peligro
+1200627,31,9,9,3,245,1,C.e. Bilingüe Agustín Pérez Colmenares
+1201713,31,9,9,3,1331,2,C.e.b.g. La Colorada
+1202405,31,9,9,3,2023,3,Cebg. La Subidita
+1202903,31,9,9,3,2521,4,Cebg. Rincón Largo
+1200739,31,9,9,4,326,1,C.e.b.g. Bilingüe La Raya De Santa María
+1202491,31,9,9,4,2078,3,Esc. Capellanía
+1202966,31,9,9,4,2553,4,C.e.b.g. El Pedernal
+1200849,31,9,9,5,405,1,Cebg. Isauro J. Carrizo
+1201911,31,9,9,5,1467,2,Esc. Las Tranquillas
+1202575,31,9,9,5,2131,3,Esc. El Macho
+1204098,31,9,9,5,3654,9,C. B. Ángel Augusto Ortíz Romero
+1205317,31,9,9,5,4873,13,Esc. El Villano
+1205318,31,9,9,5,4874,12,Esc. Jalobrá
+1200942,31,9,9,6,467,1,C.e.b.g. San Pedro Del Espino
+1201998,31,9,9,6,1523,2,Esc. La Fragua
+1202651,31,9,9,6,2176,3,C.e.b.g. La Huaca
+1203107,31,9,9,6,2632,4,Esc. La Horqueta
+1201030,31,9,9,7,524,1,I. P. T. De Veraguas
+1201317,31,9,9,7,811,10,C.e.b.g. El Espino
+1203164,31,9,9,7,2658,4,C.e. Bilingüe Rubén Darío
+1204185,31,9,9,7,3679,9,Esc. El Anón
+1205186,31,9,9,7,4680,13,C.e. Belisario Villar Pérez
+1205187,31,9,9,7,4681,14,Esc. Cañacillas Arriba
+1201113,31,9,9,8,576,1,Esc. Pacora
+1202155,31,9,9,8,1618,2,C.e.b.g. El Embalsadero
+1202791,31,9,9,8,2254,3,C.e.b.g. Los Algarrobos
+1203229,31,9,9,8,2692,4,Esc. La Corocita
+1203547,31,9,9,8,3010,5,C.e.b.g. Los Balsas
+1203781,31,9,9,8,3244,6,C.e.b.g. El Llanillo
+1203964,31,9,9,8,3427,7,Esc. El Carrasco
+1204108,31,9,9,8,3571,8,C.e.b.g. San Pedro Rincón
+1201181,31,9,9,9,613,1,Esc. Bilingüe José De Los  Santos Gutiérrez
+1202213,31,9,9,9,1645,2,C.e.b.g. Rep. Oliver Alemán
+1202842,31,9,9,9,2274,3,Esc. Juana B. Macías
+1203272,31,9,9,9,2704,4,Esc. La Concepción
+1201244,31,9,9,10,645,1,C.e.b.g. Piedra Del Sol
+1202273,31,9,9,10,1674,2,Esc. Quebrada Honda
+1202896,31,9,9,10,2297,3,C.e.b.g. Martín Grande
+1203319,31,9,9,10,2720,4,Esc. La Valdez
+1203626,31,9,9,10,3027,5,Esc. El Junquillo
+1203860,31,9,9,10,3261,6,Esc. La Estrella
+1201302,31,9,9,11,672,1,Inst. Urracá
+1202326,31,9,9,11,1696,2,C.e. Bilingüe San Martín De Porres
+1203363,31,9,9,11,2733,4,C.e. Bilingüe Rómulo Arrocha
+1203661,31,9,9,11,3031,5,Esc. Bilingüe Punta Delgadita
+1201353,31,9,9,12,692,1,C.e.b.g. Cañazas Arriba
+1202374,31,9,9,12,1713,2,Esc. Llano De La Cruz
+1202982,31,9,9,12,2321,3,Esc. La Peana
+1203402,31,9,9,12,2741,4,Esc. Tierra Hueca
+1205322,31,9,9,13,4630,1,C.e. Bilingüe Julio D. Abrego
+1205323,31,9,9,13,4631,2,Esc. Bilingüe La Soledad
+1205421,31,9,9,14,4698,1,C.e.b.g. Cañazas Abajo
+1205422,31,9,9,14,4699,2,Esc. La Huaca
+1205454,31,9,9,15,4700,2,C.e.b.g. San Antonio
+1205455,31,9,9,15,4701,1,Esc. Angélica P. De Riera
+1205456,31,9,9,15,4702,3,Esc. Guayaquil
+1205476,31,9,9,15,4722,4,Caseta Cinco De Mayo
+6206084,31,9,9,15,5005330,5,Caseta Multis Urb. San Antonio
+1205488,31,9,9,16,4703,1,C.e.b.g. Cirbulaco
+1205489,31,9,9,16,4704,2,Esc. Señiles
+1205490,31,9,9,16,4705,3,Esc. Las Blanditas
+1205491,31,9,9,16,4706,4,Esc. El Gabriel
+1205492,31,9,9,16,4707,5,C.e.b.g. La Sabaneta
+1205493,31,9,9,16,4708,6,Esc. El Suay
+1202327,32,9,11,1,85,1,Col. José Bonifacio Alvarado
+1203436,32,9,11,1,1194,2,C.e. Bilingüe Miguel Alba
+1204152,32,9,11,1,1910,3,C.e.b.g. San José
+1204682,32,9,11,1,2440,4,C.e.b.g. Carmen C. Herrera
+6207183,32,9,11,1,5004941,50,Hospital Dr. Ezequiel Abadía
+1202441,32,9,11,2,168,1,Cebg. Bahía Honda
+1203540,32,9,11,2,1267,2,Cebg  Rodolfo Reyes
+1207140,32,9,11,2,4867,4,Caseta Bahía Honda
+1202553,32,9,11,3,249,1,Esc. La Pita
+1203638,32,9,11,3,1334,2,Esc. Calidonia
+1204330,32,9,11,3,2026,3,Esc. Huesitales
+1204826,32,9,11,3,2522,4,Esc. Catecito De Calidonia
+1205190,32,9,11,3,2886,5,Esc. Cabismales
+1205449,32,9,11,3,3145,6,Esc. Cabecera De Bubi
+1202664,32,9,11,4,329,1,C.e.b.g.  Cativé
+1203739,32,9,11,4,1404,2,Esc. La Divisa
+1204416,32,9,11,4,2081,3,Esc. Las Cañazas
+1204891,32,9,11,4,2556,4,Esc. Caña Blanca
+1205247,32,9,11,4,2912,5,Esc. El Cedral
+1207193,32,9,11,4,4858,6,Esc. San Rafael Arriba
+1202774,32,9,11,5,408,1,Esc. Llano Grande
+1203835,32,9,11,5,1469,2,Esc. Cerro Largo
+1204499,32,9,11,5,2133,3,C.e.b.g.  Bolivar
+1204959,32,9,11,5,2593,4,Esc. Boca Del Monte #1
+1205297,32,9,11,5,2931,5,Esc. Isabel A. De Abrego
+1205360,32,9,11,6,2963,5,Cebg. Dr. Ricardo Marinelli P.
+1205601,32,9,11,6,3204,6,Esc. El Pito
+1205797,32,9,11,6,3400,7,Esc. La Playa
+1202955,32,9,11,7,527,1,Esc. Los Polancos
+1204002,32,9,11,7,1574,2,C.e.b.g. San Juanito
+1204644,32,9,11,7,2216,3,C.e.b.g. Qda. Honda
+1205088,32,9,11,7,2660,4,C.e.b.g. Ing. Alberto L.  Martinelli
+1205412,32,9,11,7,2984,5,Esc. El Yaya
+1203038,32,9,11,8,579,1,C.e.b.g. Leonardo E. Vásquez Q.
+1204080,32,9,11,8,1621,2,Cebg. Brunilda Benavides
+1204715,32,9,11,8,2256,3,Cebg. El Espino
+1203106,32,9,11,9,616,1,Esc. Julieta Duarte
+1203425,32,9,11,9,935,12,Esc. Nuevo Chorrillo
+1203471,32,9,11,9,981,13,Esc. La Zumbona
+1204138,32,9,11,9,1648,2,C.e.b.g. Madre Vieja
+1204767,32,9,11,9,2277,3,Esc. Río Grande
+1205196,32,9,11,9,2706,4,Esc. Qda. Grande
+1205510,32,9,11,9,3020,5,C.e.b.g. Carrizal
+1203169,32,9,11,10,648,1,Esc. Boca Del Monte #2
+1204198,32,9,11,10,1677,2,Esc. Rodeo Viejo
+1204821,32,9,11,10,2300,3,Esc. Paraguay
+1205243,32,9,11,10,2722,4,Esc. Rincón Largo
+1205549,32,9,11,10,3028,5,Esc. La Pascuala
+1205783,32,9,11,10,3262,6,Esc. Bajo Del Cobre
+1205959,32,9,11,10,3438,7,Cebg.  Los Algarrobos
+1206102,32,9,11,10,3581,8,Esc. Coibita
+1206213,32,9,11,10,3692,9,Cebg. Felix Ríos Peñalba
+1204250,32,9,11,11,1698,2,Esc. Tigre De Los Amarillos
+1204865,32,9,11,11,2313,3,C.e.b.g.  El Hicaco
+1205287,32,9,11,11,2735,4,Esc. Pueblo Nuevo
+1205585,32,9,11,11,3033,5,Cebg. Santa Catalina
+1205992,32,9,11,11,3440,7,Esc. Farfán
+1207352,32,9,11,12,4769,1,Esc. San Juan
+1207353,32,9,11,12,4770,2,Esc. San Andres
+1207355,32,9,11,12,4772,4,Esc. Borracherón
+1207356,32,9,11,12,4773,5,Esc. La Trinchera
+1207357,32,9,11,12,4774,6,Esc. Dos Bocas
+1207358,32,9,11,12,4775,7,Esc. Paso Hondo
+1203290,34,9,12,1,87,1,C.e. Manuel H. Reyes
+1204399,34,9,12,1,1196,2,Esc. De Angulito
+1205115,34,9,12,1,1912,3,Cebg. La Pita
+1205644,34,9,12,1,2441,4,Esc. Limones
+1206027,34,9,12,1,2824,5,Cebg. Malena
+1206302,34,9,12,1,3099,6,Esc. Torio
+1206521,34,9,12,1,3318,7,Esc. Bajo Grande
+1206684,34,9,12,1,3481,8,Esc.  Paraíso
+1206820,34,9,12,1,3617,9,Esc. Palo Seco
+1203404,34,9,12,2,170,1,C.e.b.g. El Cascajilloso
+1204502,34,9,12,2,1268,2,C.e.b.g. Arena
+1205209,34,9,12,2,1975,3,C.e.b.g. Serafín Vargas Quintero
+1203516,34,9,12,3,251,1,Esc. Quebro
+1204600,34,9,12,3,1335,2,Esc. Morrillo
+1205292,34,9,12,3,2027,3,Esc. Loma De Quebro
+1203627,34,9,12,4,331,1,Esc. Alto De Tebario
+1203737,34,9,12,5,410,1,Esc. Varadero
+1205461,34,9,12,5,2134,3,Esc. El Cacao
+1205921,34,9,12,5,2594,4,Esc. Río Piro
+1222293,35,10,0,1,831,11,Esc. Multigrado Aidirgandi
+1222591,35,10,0,1,1129,2,Esc. Playón Grande
+1223315,35,10,0,1,1853,3,Esc. Nueva Activa  Irgandi
+1223853,35,10,0,1,2391,4,C.e.b.g. Bilingüe Playón Chico
+1224247,35,10,0,1,2785,5,C.e. Carlos López Inaqueliguiña
+1221474,36,10,0,1,12,1,Esc. Simral Colman
+1224528,36,10,0,1,3066,6,Esc. Mamitupu
+1224753,36,10,0,1,3291,7,Cebg. Sahila Iguanaisy
+1225061,36,10,0,1,3599,9,Esc. De Ogobsucum
+6226893,36,10,0,1,5005431,13,Casa Inna Nega
+1221590,35,10,0,2,97,1,Esc. Wichubwala
+1222262,35,10,0,2,769,10,Casa Del Cong. Carti-Yantupu
+1222338,35,10,0,2,845,11,Esc. Corbisky
+1222397,35,10,0,2,904,12,Esc. De Nalunega
+1222447,35,10,0,2,954,13,Esc. Carti-Tupile
+1222490,35,10,0,2,997,14,C.e.b.g. Carti-Mulatupu
+1222548,35,10,0,2,1055,16,Esc. Isla Maquina
+1222569,35,10,0,2,1076,17,Esc. Nusatupu
+1222588,35,10,0,2,1095,18,C.e.b.g.  Río Sidra
+1222604,35,10,0,2,1111,19,Cebg. Río Azúcar
+1222698,35,10,0,2,1205,2,Esc. Ailitupu
+1223255,35,10,0,2,1762,20,Esc. Bilingüe  Rodolfo Chiari
+1223278,35,10,0,2,1785,22,Esc. Sahila Iguadingipe
+1223299,35,10,0,2,1806,24,Esc. Maguebgandi
+1223307,35,10,0,2,1814,25,Escuela Rio Mandi Yala
+1223315,35,10,0,2,1822,26,Casa De Congreso Mamitupu
+1223327,35,10,0,2,1834,28,C.e.b.g.  Naranjo Chico
+1223334,35,10,0,2,1841,29,Casa Congreso Orostupu
+1223413,35,10,0,2,1920,3,C.e.b.g. Soledad Mandinga
+1223867,35,10,0,2,2374,35,Esc. De Acuatupu
+1223870,35,10,0,2,2377,36,Esc. Ticantiki
+1223873,35,10,0,2,2380,37,C.e.b.g. Soledad Miria
+1223941,35,10,0,2,2448,4,Esc. Arritupu
+1224321,35,10,0,2,2828,5,Esc. Naranjo Grande
+1224596,35,10,0,2,3103,6,Esc. Río  Cangandi
+1225112,35,10,0,2,3619,9,C.e. Sahila Olonibiginya
+6226960,35,10,0,2,5005467,42,Casa Congreso Akuanusadup
+1221704,36,10,0,3,180,1,C.e.b.g. Octavio Ceballos Ariano
+1222801,36,10,0,3,1277,2,Esc. La Miel
+1222338,36,10,0,4,783,10,Cebg. Navagandi
+1223590,36,10,0,4,2035,3,Esc. Isla Pino
+1224082,36,10,0,4,2527,4,Esc. Arcadio Martínez
+1224443,36,10,0,4,2888,5,Esc. Cuba
+1224701,36,10,0,4,3146,6,Esc. Caledonia
+1224908,36,10,0,4,3353,7,Esc. Carreto
+1225066,36,10,0,4,3511,8,Esc.  Anachucuna
+1225195,36,10,0,4,3640,9,Esc. Armila
+6227023,36,10,0,4,5005468,12,C.e. Bilingüe Nibaguiña Cabu
+6227025,36,10,0,4,5005470,13,Esc. Mamsucum
+1251266,15,11,0,1,13,1,C.e. Isidro Guaynora
+1252383,15,11,0,1,1130,2,C.e.  De Capeti
+1253107,15,11,0,1,1854,3,Esc. El Puente
+1253645,15,11,0,1,2392,4,Esc. Vista Alegre
+1251382,15,11,0,2,98,1,Esc. El Salto De Chucunaque
+1252054,15,11,0,2,770,10,Esc. Peña De Bijagual
+1252130,15,11,0,2,846,11,Esc. La Caleta
+1252189,15,11,0,2,905,12,Esc. Bajo Chiquito
+1252490,15,11,0,2,1206,2,Esc. Nvo. Vigia
+1253205,15,11,0,2,1921,3,Esc. Sinai
+1253733,15,11,0,2,2449,4,C.e.b.g. Bilingüe Lajas Blancas
+1254113,15,11,0,2,2829,5,Esc. Alto Playón
+1254388,15,11,0,2,3104,6,Esc. Dozake Puru
+1254607,15,11,0,2,3323,7,Esc. Tortuga
+1254770,15,11,0,2,3486,8,Esc. Río Tuqueza
+1254904,15,11,0,2,3620,9,Esc. Bilingüe  Menbrillo
+1251496,15,11,0,3,181,1,C.e.b.g. Corozal
+1252091,15,11,0,3,776,10,Esc. Río Tupiza
+1252593,15,11,0,3,1278,2,Esc. Pta. Grande
+1253297,15,11,0,3,1982,3,Esc. La Esperanza
+1253807,15,11,0,3,2492,4,Esc. Boca De Tigre
+1254178,15,11,0,3,2863,5,Esc. Los Morritos
+1254445,15,11,0,3,3130,6,Esc. Tesca De Villanueva
+1254657,15,11,0,3,3342,7,Esc. José I. Guaynora
+1254816,15,11,0,3,3501,8,Esc. El Común
+1254947,15,11,0,3,3632,9,C.e.  Barranquillita
+1252241,14,11,1,1,27,1,C.e.b.g.  Jingurudó
+1253357,14,11,1,1,1143,2,Esc. Pavarandó
+1254080,14,11,1,1,1866,3,C.e.  Condoto
+1254616,14,11,1,1,2402,4,Esc. Boca De Wina
+1253459,14,11,1,2,1214,2,Esc. Río Sábalo
+1254172,14,11,1,2,1927,3,Esc. Boca De Trampa
+1254701,14,11,1,2,2456,4,Esc. La Chunga
+1255079,14,11,1,2,2834,5,I.p.t. Unadrusia
+1255352,14,11,1,2,3107,6,Esc. Day Purú
+1281058,37,12,0,1,14,1,Esc. Boca De Río Cricamola
+1282899,37,12,0,1,1855,3,C.e.b.g.  Bisira
+1285692,37,12,0,1,4648,5,Esc. Tory
+1285706,37,12,0,1,4662,4,Esc. Kenany
+1281288,37,12,0,3,182,1,Esc. Bilingüe San Agustín
+1282385,37,12,0,3,1279,2,Esc. Nutiví
+1283599,37,12,0,3,2493,4,Esc. Pomankiary
+1283970,37,12,0,3,2864,5,Esc. Odobate
+1281509,37,12,0,5,341,1,C.e.  Mutari
+1282582,37,12,0,5,1414,2,C.e.b.g. Río Bueno
+1283256,37,12,0,5,2088,3,Esc.  Curuonte
+1283729,37,12,0,5,2561,4,Esc. Mununi Nº 1
+1284082,37,12,0,5,2914,5,Esc. Guanábana
+1284334,37,12,0,5,3166,6,Esc. Guayacán
+1284537,37,12,0,5,3369,7,Esc. Quebrada Tigre
+1284690,37,12,0,5,3522,8,Esc. Quebrada Caracol
+1281616,37,12,0,6,417,1,Esc. Qda. Mironi
+1282677,37,12,0,6,1478,2,Esc. La Trinchera
+1283338,37,12,0,6,2139,3,C.e.  Mayo
+1283798,37,12,0,6,2599,4,Esc. Gavilán
+1284134,37,12,0,6,2935,5,C.e.b.g. Quebrada Mono
+1284381,37,12,0,6,3182,6,Esc. Sineti
+1285854,37,12,0,6,4655,7,Esc. Tibrá
+1285855,37,12,0,6,4656,8,Esc. Alto Pedregal
+1285856,37,12,0,6,4657,9,Esc. Valle De Común
+1285857,37,12,0,6,4658,10,Esc. Mununi 3
+1285858,37,12,0,6,4659,11,Esc. Caballero Nuto
+1285859,37,12,0,6,4660,12,Esc. Cerro Balsa
+1285860,37,12,0,6,4661,13,Esc. Dibote
+1281708,37,12,0,7,478,1,Cebgpiedra Roja
+1284196,37,12,0,7,2966,5,Esc. Sirote
+1284437,37,12,0,7,3207,6,Rancho Canoa
+1284632,37,12,0,7,3402,7,Esc.  Ubambiti
+1284779,37,12,0,7,3549,8,Esc. Omar Torrijos
+1284898,37,12,0,7,3668,9,C.e.b.g.  Punta Piña
+1281944,37,12,0,10,621,1,Esc. Zuiche
+1282975,37,12,0,10,1652,2,Esc. Urracá
+1283602,37,12,0,10,2279,3,Esc. Qda.  Hacha
+1285977,37,12,0,10,4654,4,Esc. Río Balsa
+1282006,37,12,0,11,652,1,Esc. Calante
+1282033,37,12,1,1,28,1,Ce. Bilingüe Kusapín
+1283149,37,12,1,1,1144,2,Esc. Cayo Paloma
+1283872,37,12,1,1,1867,3,Esc. Cerro Redondo
+1284408,37,12,1,1,2403,4,Esc. Guacamayo
+1286668,37,12,1,1,4663,5,Esc. La Ensenada
+1282259,37,12,1,3,192,1,Esc. Playa Lorenzo
+1283353,37,12,1,3,1286,2,Ce.  Bahía Azul
+1284057,37,12,1,3,1990,3,Esc. Manuel Aparicio
+1284566,37,12,1,3,2499,4,Cebg.  Bucori
+1284935,37,12,1,3,2868,5,Esc. Toroki
+1285200,37,12,1,3,3133,6,Esc. Playa Hermosa
+1285412,37,12,1,3,3345,7,Esc. Buena Vista
+1285571,37,12,1,3,3504,8,Esc. De Monte Virgen
+1286731,37,12,1,3,4664,9,Esc. Playa Verde
+1282370,37,12,1,4,272,1,Cebg Río Chiriquí
+1283450,37,12,1,4,1352,2,Esc. Veracruz O Vegay
+1284141,37,12,1,4,2043,3,Esc. Kully
+1284632,37,12,1,4,2534,4,Esc. Burote
+1285250,37,12,1,4,3152,6,Esc. Cerro Santo
+1285457,37,12,1,4,3359,7,Esc. Boca De Río Grande
+1285613,37,12,1,4,3515,8,Esc. Cerro De La Cruz
+1285741,37,12,1,4,3643,9,Esc. Río Cedro
+1282586,37,12,1,6,426,1,Ce. Tobobe
+1283027,37,12,1,6,867,11,Esc. Pueblo Nuevo
+1283645,37,12,1,6,1485,2,Cebg. Río Caña
+1285544,37,12,1,6,3384,7,Esc. Playa Lorenzo Nª 1
+1285695,37,12,1,6,3535,8,Esc. Punta Níspero
+1285818,37,12,1,6,3658,9,Ce. Punta Escondida
+1282763,37,12,1,8,541,1,Esc. Cañaveral
+1283808,37,12,1,8,1586,2,Esc. Río Viento
+1284447,37,12,1,8,2225,3,Esc. Dobori
+1284891,37,12,1,8,2669,4,Esc. Quebrada Essey
+1285213,37,12,1,8,2991,5,Esc. Sirote
+1283004,38,12,2,1,38,1,Esc. Soloy
+1284119,38,12,2,1,1153,2,C.e.b.g. Bilingüe Cerro Miel
+1284841,38,12,2,1,1875,3,Centro Pedagógico Alto Mango
+1285376,38,12,2,1,2410,4,Esc. Israel
+1285765,38,12,2,1,2799,5,Esc. Las Tinajas
+1286045,38,12,2,1,3079,6,Esc. Boca De Huso
+6288132,38,12,2,1,5005166,7,Col. Joaquina H. De Torrijos
+1283117,38,12,2,2,120,1,C.e. Boca De Balsa
+1284222,38,12,2,2,1225,2,C.e. Boca De Remedios
+6288164,38,12,2,2,5005167,3,Esc. Sabana Huso
+6288165,38,12,2,2,5005168,4,Esc. Qda. Cogoyo
+1283230,38,12,2,3,202,1,Esc. Carlos Santiago Marcucci
+1285531,38,12,2,3,2503,4,Esc. Gasparillo
+1285899,38,12,2,3,2871,5,Esc. Boca De Ullama
+1286375,38,12,2,3,3347,7,Esc. Llano Iglesia
+1286534,38,12,2,3,3506,8,Esc. Alto Calabacito
+1286664,38,12,2,3,3636,9,Esc. Alto Bonito
+1287823,38,12,2,3,4795,10,Caseta Qda.. Hacha
+6288436,38,12,2,3,5005408,11,Esc. Quiqui
+1283341,38,12,2,4,282,1,Esc. Cerro Patena
+1284419,38,12,2,4,1360,2,Esc. Cerro Guásimo
+1285106,38,12,2,4,2047,3,Esc. Jengibre
+1285596,38,12,2,4,2537,4,Esc. Cerro Madera
+1285956,38,12,2,4,2897,5,Esc. Cerro Balso
+1283451,38,12,2,5,361,1,Cebg  Camarón Arriba
+1284521,38,12,2,5,1431,2,C.e.b.g.  Cabecera De Ullama
+1285192,38,12,2,5,2102,3,Esc. Escobal
+1285662,38,12,2,5,2572,4,Esc.quebrada Peces
+1286012,38,12,2,5,2922,5,Esc. De Posoy
+1283557,38,12,2,6,436,1,C.b. Plan De Chorcha
+1284616,38,12,2,6,1495,2,Esc. Chorchita
+1285273,38,12,2,6,2152,3,Esc. Junta Maní
+1285732,38,12,2,6,2611,4,Esc. La Unión
+1286067,38,12,2,6,2946,5,Esc. Cerro Viejo
+1286313,38,12,2,6,3192,6,Esc. Alto Caña
+1283646,38,12,2,7,494,1,C.e.  Lajero
+1284698,38,12,2,7,1546,2,C.e.b.g.  Quebrada Hacha
+1285349,38,12,2,7,2197,3,Esc. Barranco
+1283732,38,12,2,8,549,1,Esc. Boca De Saguí
+1284777,38,12,2,8,1594,2,Esc. Chuvé
+1285415,38,12,2,8,2232,3,C.e.b.g. Nueva Molena
+1285857,38,12,2,8,2674,4,Esc. Molejón
+1286179,38,12,2,8,2996,5,Esc. Río Colorado
+1286415,38,12,2,8,3232,6,Esc.quebrada Perdiz
+1286604,38,12,2,8,3421,7,Esc. Cerro Muleto
+6288603,38,12,2,8,5005420,8,Cebg De Keäboto
+6288604,38,12,2,8,5005421,9,Cebg Higuerón
+1283974,38,12,3,1,47,1,Esc. Kuerima
+1285087,38,12,3,1,1160,2,Ce Mirono
+1285809,38,12,3,1,1882,3,Esc. Quebrada Cianca
+1286342,38,12,3,1,2415,4,Ce Cerro Corozo
+1284087,38,12,3,2,129,1,Esc. Cascabel
+1285190,38,12,3,2,1232,2,Esc. Carrizal
+1285900,38,12,3,2,1942,3,Esc. Cerro Pita
+1286424,38,12,3,2,2466,4,Esc. Virulí
+1284200,38,12,3,3,211,1,C.e.b.g. Hato Corotú
+1285291,38,12,3,3,1302,2,C.e.  Alto Camarón
+1285991,38,12,3,3,2002,3,Cebg Juay Arriba
+1284311,38,12,3,4,291,1,Esc. Cerro Otoe
+1285388,38,12,3,4,1368,2,Esc. Llano Culantro
+1286073,38,12,3,4,2053,3,Esc. Cerro Piedra
+1286560,38,12,3,4,2540,4,Esc. Cabuya
+1286919,38,12,3,4,2899,5,Esc. Guabo
+1284421,38,12,3,5,370,1,C.e. Hato Jobo
+1285489,38,12,3,5,1438,2,C.e.b.g.  Kaboy
+1286158,38,12,3,5,2107,3,Kinder Quebrada Chácara
+1286629,38,12,3,5,2578,4,Kinder Quebrada Caracol
+1284525,38,12,3,6,443,1,C.e.b.g. Hato Julí
+1284613,38,12,3,7,500,1,C.e.b.g. Qda. De Loro
+1285664,38,12,3,7,1551,2,C.e.b.g. Cerro Brisa
+1286314,38,12,3,7,2201,3,Ce Cañazas
+1284698,38,12,3,8,554,1,Esc. Hato Dupi
+1285742,38,12,3,8,1598,2,Esc. Qda. Otoe
+1286380,38,12,3,8,2236,3,Esc. Cerro Mesa  Arriba
+1286821,38,12,3,8,2677,4,C.e.  Alto Guayabal
+1284944,39,12,4,1,56,1,Esc. Chichica
+1286777,39,12,4,1,1889,3,Esc. Portorrica
+1287694,39,12,4,1,2806,5,Esc. De Tijera
+1287974,39,12,4,1,3086,6,Esc. Alto Estrella
+1288195,39,12,4,1,3307,7,Esc. Cerro Cruz
+1289682,39,12,4,1,4794,8,Esc. Cerro Gavilan
+1285057,39,12,4,2,138,1,Esc. Alto Caballero
+1286869,39,12,4,2,1950,3,Esc. Potrero De Caña
+1287391,39,12,4,2,2472,4,C.e.fa.c.e.i. Buenos Aires
+1286257,39,12,4,3,1307,2,Esc. Cerro Venado
+1286956,39,12,4,3,2006,3,Esc. Qda. Caña
+1285281,39,12,4,4,300,1,Esc. La Tranca
+1286357,39,12,4,4,1376,2,Esc. Cerro Caña
+1287038,39,12,4,4,2057,3,Esc. La Meregilda
+1285391,39,12,4,5,379,1,C.e.b.g. Bilingüe Cerro Puerco
+1286456,39,12,4,5,1444,2,Esc. Cerro Ceniza
+1287124,39,12,4,5,2112,3,Esc. Llano Junco
+1287593,39,12,4,5,2581,4,Esc. Cerro Ortiga
+1287939,39,12,4,5,2927,5,Esc. Cerro Banco
+1288188,39,12,4,5,3176,6,Esc. Cerro Puerco Abajo
+1289728,39,12,4,5,4716,7,Esc. Generino Prado
+1285493,39,12,4,6,450,1,Esc. Cerro Plata
+1286548,39,12,4,6,1505,2,Esc. Alto Balsa
+1287204,39,12,4,6,2161,3,Esc. Hato Común
+1287661,39,12,4,6,2618,4,Esc. Alto Grillo
+1287995,39,12,4,6,2952,5,Esc. De Llano Camarón
+1288238,39,12,4,6,3195,6,Esc. Alto Loro
+1288436,39,12,4,6,3393,7,Esc. Arco Iris
+1288586,39,12,4,6,3543,8,Esc. Bajo Mira
+1285581,39,12,4,7,507,1,Esc. Peña Prieta
+1286631,39,12,4,7,1557,2,Esc. Cerro Cacicón
+1287279,39,12,4,7,2205,3,Esc. Tebujo
+1287726,39,12,4,7,2652,4,Esc. Llano Majagua
+1288291,39,12,4,7,3217,6,Esc. Bajo Palma
+1285664,39,12,4,8,559,1,Esc. Cerro Maíz
+1286706,39,12,4,8,1601,2,Esc. Cerro Vaca
+1287343,39,12,4,8,2238,3,Esc. Llano Macano
+1287783,39,12,4,8,2678,4,Esc. Nuevo Paraíso
+1288104,39,12,4,8,2999,5,Esc. Cerro Balsa
+1288340,39,12,4,8,3235,6,Esc. Los Santos
+1285737,39,12,4,9,601,1,Esc. Peña Blanca
+1287402,39,12,4,9,2266,3,Esc. Alto Ciénaga
+1287835,39,12,4,9,2699,4,Esc. Cerro Venado
+1288384,39,12,4,9,3248,6,Cebg Guayabal De Peña Blanca
+1288565,39,12,4,9,3429,7,Rancho Quebrada Frijoles
+1288710,39,12,4,9,3574,8,Esc. Cerro Miel
+1285803,39,12,4,10,636,1,Esc. Llano Ñopo
+1286834,39,12,4,10,1667,2,Esc. Cerro Javillo
+1287457,39,12,4,10,2290,3,Esc. Guacamaya
+1287882,39,12,4,10,2715,4,Ce Alto Conejo
+1285863,39,12,4,11,665,1,Esc. Sitio Prado
+1286017,39,12,4,11,819,10,Esc. Nueva Esperanza
+1286888,39,12,4,11,1690,2,Esc. Cerro Papayo
+1287506,39,12,4,11,2308,3,Esc. Buenos Aires
+1285916,39,12,4,12,687,1,Esc. Palma Gira
+1286937,39,12,4,12,1708,2,Esc. Qda. Arena
+1287968,39,12,4,12,2739,4,Esc. Qda. Carrizo
+1288266,39,12,4,12,3037,5,Esc. Qda. De Plata
+1288496,39,12,4,12,3267,6,Esc. Alto Castillo
+1288671,39,12,4,12,3442,7,Esc. Comunidad Tugri
+1285963,39,12,4,13,703,1,Cebg Llano Tugri
+1286982,39,12,4,13,1722,2,Esc. Salitre
+1286005,39,12,4,14,714,1,Esc. Alto Saldaña
+1287020,39,12,4,14,1729,2,Esc. Cerro Mosquito
+1289924,39,12,4,14,4633,3,Esc. De Guayabal
+1286043,39,12,4,15,721,1,Esc. Cerro Teta
+1287055,39,12,4,15,1733,2,Cebg Alto Higuerón
+1287659,39,12,4,15,2337,3,Esc. San Cristobal
+1288074,39,12,4,15,2752,4,Caseta El Pedregoso
+1288369,39,12,4,15,3047,5,Esc. Nuevo San Cristobal
+1286081,39,12,4,16,728,1,Esc. Llano Palma
+1287092,39,12,4,16,1739,2,Esc. Cerro Algodón
+1287024,38,12,5,1,1175,2,C.e. Cerro Iglesias
+1287744,38,12,5,1,1895,3,Esc. Calabazal
+1288274,38,12,5,1,2425,4,Esc. Guary
+1288940,38,12,5,1,3091,6,Esc. Adventista Ismael Ellis
+1289161,38,12,5,1,3312,7,Esc. El Buen Pastor Duima
+6291271,38,12,5,1,5005422,8,Caseta Quebrada Guabo
+1286026,38,12,5,2,146,1,B.g. Lajero Arriba
+1287128,38,12,5,2,1248,2,Esc. De Olá
+1288731,38,12,5,2,2851,5,C.e. Lajero Abajo Enea
+6291332,38,12,5,2,5005452,6,Esc. Quebrada Honda
+6291333,38,12,5,2,5005453,7,Esc. Hato Horcón
+1287226,38,12,5,3,1315,2,Esc. Caracol
+1287923,38,12,5,3,2012,3,C.e.b.g. Cerro Tula
+1288425,38,12,5,3,2514,4,Col.  Hato Chamí
+1288791,38,12,5,3,2880,5,C.e.b.g. Flor De Anís
+1290608,38,12,5,3,4697,6,Esc. Cerro Flores
+1286250,38,12,5,4,308,1,C.e.  José Sabino Bonilla
+1287326,38,12,5,4,1384,2,C.e.b.g. Quebrada Guabo
+1288006,38,12,5,4,2064,3,C.e.b.g. Petita Santo
+1286360,38,12,5,5,387,1,C.e.  Hato Rincón
+1287424,38,12,5,5,1451,2,Esc. Buena Vista
+1288092,38,12,5,5,2119,3,Esc. Jengibre
+1287992,39,12,6,1,1182,2,C.e.b.g.  Buenos Aires
+1288710,39,12,6,1,1900,3,Esc. Cabuya
+1289240,39,12,6,1,2430,4,C.e.b.g.  Tierra Blanca
+1286994,39,12,6,2,153,1,Esc. Agua De Salud
+1288095,39,12,6,2,1254,2,C.e.b.g. Batata
+1289695,39,12,6,2,2854,5,Esc.  Piedra Grande
+1290178,39,12,6,2,3337,7,Cebg El Naranjal
+1290337,39,12,6,2,3496,8,C.e.  Guayabalito
+1290469,39,12,6,2,3628,9,Esc. El Cope
+1287106,39,12,6,3,234,1,C.e.b.g. Alto De Jesús
+1288193,39,12,6,3,1321,2,C.e.  El Murciélago
+1287218,39,12,6,4,315,1,C.e. Cerro Pelado
+1288293,39,12,6,4,1390,2,Esc. Las Huacas
+1288971,39,12,6,4,2068,3,C.e.b.g.  Las Mesitas
+1289449,39,12,6,4,2546,4,C.e.  Cañazal
+1288392,39,12,6,5,1458,2,C.e.  Hna. María Mercedes Pérez
+1291651,39,12,6,5,4717,3,Casa Comunal La Mata
+1288480,39,12,6,6,1515,2,Esc. Los Guarumos
+1289591,39,12,6,6,2626,4,Esc. El Paredón
+1288561,39,12,6,7,1565,2,Esc. Magwada
+1287596,39,12,6,8,569,1,C.e.b.g.  Virotal Guayabito
+1288638,39,12,6,8,1611,2,Esc. Filipina
+1289275,39,12,6,8,2248,3,Esc. Alto Galera
+1289714,39,12,6,8,2687,4,C.e.b.g. Agua De Salud Nº2
+1287667,39,12,6,9,609,1,Esc. Cabecera De San Pablo
+1288699,39,12,6,9,1641,2,C.e.  Virigua
+1290308,39,12,6,9,3250,6,Esc. Cabecera De San Pablo Nº 2
+1290489,39,12,6,9,3431,7,Casa Comunal Quebrada Sulá
+1290634,39,12,6,9,3576,8,Ce Llano Bonito
+1290746,39,12,6,9,3688,9,Esc. Cabecera De Virigua
+1287732,39,12,6,10,643,1,Esc. El Chumico
+1288761,39,12,6,10,1672,2,Esc. El Piro N°2
+1289384,39,12,6,10,2295,3,Esc. Qda. El Jagua
+6292547,39,12,6,10,5005458,4,Casa Comunalqda. Satrá
+1287790,39,12,6,11,670,1,Ce. Pascuala Rodríguez
+1288814,39,12,6,11,1694,2,Esc. Kinder El Jacinto
+1289429,39,12,6,11,2309,3,Esc. Mojarras
+1289851,39,12,6,11,2731,4,Casa Comunal Palo Verde
+6292574,39,12,6,11,5005454,5,Casa Comunal Tigre Arriba
+1287845,37,12,7,1,74,1,Esc. Oriente
+1288957,37,12,7,1,1186,2, C.e. Alto Del Valle
+1289674,37,12,7,1,1903,3,Esc. Chiriquí Mali
+1290204,37,12,7,1,2433,4,C.e.b.g. Bilingüe Pueblo Nuevo
+1290588,37,12,7,1,2817,5,Esc. El Guarumito
+1290866,37,12,7,1,3095,6,Esc. La Sabana
+1291086,37,12,7,1,3315,7,Esc. La Loma
+1291250,37,12,7,1,3479,8,Esc. Valle Abajo
+1291387,37,12,7,1,3616,9,Esc. Wari
+1292422,37,12,7,1,4651,10,Esc. Palmito
+1287959,37,12,7,2,157,1,Esc. Cerro Ñeque
+1289060,37,12,7,2,1258,2,Rancho San Felix
+1289768,37,12,7,2,1966,3,Esc. Dudori
+1290286,37,12,7,2,2484,4,Esc. Guariviara
+1290658,37,12,7,2,2856,5,C.e.  Chalitre
+1290926,37,12,7,2,3124,6,Esc. Druri
+1291140,37,12,7,2,3338,7,C.e.  Caño Sucio
+1291299,37,12,7,2,3497,8,Esc. Drigari
+1288071,37,12,7,3,238,1,Esc. Filo Verde
+1289851,37,12,7,3,2018,3,Esc. Dos Bocas
+1290351,37,12,7,3,2518,4,Esc. Cilico Creek
+1290716,37,12,7,3,2883,5,Esc. Bajo El Cedro Arriba
+1290974,37,12,7,3,3141,6,Esc. Los Santos
+1291183,37,12,7,3,3350,7,Esc. Santa Marta
+6293277,37,12,7,3,5005444,9,Esc. Bilingüe Norteño
+1288183,37,12,7,4,319,1,Esc. Boca De  Guariviara
+1289258,37,12,7,4,1394,2,Esc. Mananti
+1289936,37,12,7,4,2072,3,Esc. Centro Daira Nº2
+1290414,37,12,7,4,2550,4,Esc. Qda Venado
+1290771,37,12,7,4,2907,5,C.e.b.g.  Pueblo Mesa
+1291025,37,12,7,4,3161,6,Esc. Man Creek
+1291231,37,12,7,4,3367,7,C.e.b.g.  Barranquilla
+1291384,37,12,7,4,3520,8,Esc. Bahía La Ballena
+1291512,37,12,7,4,3648,9,Esc. El Guabal
+1292513,37,12,7,4,4649,10,Esc. Monte Lirio
+1288293,37,12,7,5,398,1,C.e.b.g. Bilingüe Coclesito
+1289357,37,12,7,5,1462,2,Esc. Qda Cayuco
+1290022,37,12,7,5,2127,3,Esc. Mina Zorra
+1290484,37,12,7,5,2589,4,Esc. Tobori
+1288810,37,12,8,1,78,1,Esc. Alto Cuay
+1289921,37,12,8,1,1189,2,Esc. San Soledad
+1290637,37,12,8,1,1905,3,C.e.b.g. Santa Catalina
+1291167,37,12,8,1,2435,4,Esc. Cahuita
+1291550,37,12,8,1,2818,5,Esc. El Terrón
+1293382,37,12,8,1,4650,6,Esc. Río Chucará
+1293384,37,12,8,1,4652,7,C.e. Caguita Arriba
+1288924,37,12,8,2,161,1,Esc. Río Piedra
+1290025,37,12,8,2,1262,2,Esc. Girote
+1290733,37,12,8,2,1970,3,Esc. Valerio Flores
+1291250,37,12,8,2,2487,4,Casa Comunal Paso Vidrio
+1291621,37,12,8,2,2858,5,Esc. El Pajonal
+1289036,37,12,8,3,242,1,Rancho Loma Yuca
+1290122,37,12,8,3,1328,2,Esc. Alto Corrales
+1290814,37,12,8,3,2020,3,Esc. Caño Llano
+1290223,37,12,8,4,1398,2,Esc. Boca Del Río Guabo
+1290900,37,12,8,4,2075,3,Esc. San Pedrito
+1291377,37,12,8,4,2552,4,Esc. San Pedro Arriba
+1291734,37,12,8,4,2909,5,Esc. El Mango
+1291987,37,12,8,4,3162,6,Esc. Qda. Peña
+1293478,37,12,8,4,4653,7,Esc. Guabo Arriba
+1289258,37,12,8,5,402,1,Esc. Río Grande
+1290320,37,12,8,5,1464,2,Esc. Valle Bonito
+1290984,37,12,8,5,2128,3,Esc. Valle De Guacamaya
+1291446,37,12,8,5,2590,4,Casa Comunal Río Luis Bravo
+1340642,35,14,0,1,16,1,Esc. Bilingüe  Acuayala
+1341385,35,14,0,1,759,10,Casa Del Cong. Wagandi
+1341459,35,14,0,1,833,11,Esc. Nargandi
+1342483,35,14,0,1,1857,3,Esc. Icanti
+1343020,35,14,0,1,2394,4,Casa Del Cong. Río Diablo
+1343413,35,14,0,1,2787,5,Casa Del Cong. Tiguarcicua
+1343919,35,14,0,1,3293,7,Casa Del Con. Cañaza Arriba O Alto Cañaza
+1344087,35,14,0,1,3461,8,Esc. Atanasio Morales
+1344227,35,14,0,1,3601,9,Esc. Puerto Limón
+1345485,35,14,0,1,4859,13,Casa Congreso Puerto Gavilana
+1345486,35,14,0,1,4860,14,Esc. Piria
+1345487,35,14,0,1,4861,15,Esc. Pintupo
+6346095,35,14,0,1,5005469,20,Casa Congreso De Tabardi
+1371551,36,15,0,1,1134,2,Cebg Walla
+1372275,36,15,0,1,1858,3,C.e.b.g.  Mortí
+1372812,36,15,0,1,2395,4,C.e.b.g.  Nurra
+6406551,1,16,1,1,5005382,1,Esc. San San Drury
+6406552,1,16,1,1,5005383,2,Esc. San San Tigra
+6406554,1,16,1,1,5005385,4,Esc. San San Mona
+6406586,1,16,1,2,5005386,1,Esc. Bonyic
+6406587,1,16,1,2,5005387,2,Esc. Zegla
+6406588,1,16,1,2,5005388,3,Esc. Solong
+6406620,1,16,1,3,5005389,1,C.e.b.g. Sieyick
+6406719,1,16,1,3,5005488,2,Esc.sieyking
+6823729,40,30,1,1,5005486,1,Mesa Especial De Residente En El Extranjero (Rere)
+6853521,41,31,1,1,5005487,2,Mesa Especial De Voto Adelantado En El País (Reva)
