@@ -63,4 +63,4 @@ resultados_presidente_df <- resultados_presidente_df %>%
         starts_with("partido_"), siglas, alianza_nombre, everything()
     )
 
-export(resultados_presidente_df, here("data/clean/resultados_president.csv"))
+export(resultados_presidente_df, here("data/clean/resultados_presidente.csv"))
