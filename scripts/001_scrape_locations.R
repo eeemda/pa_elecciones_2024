@@ -94,9 +94,9 @@ centros_df <- bind_rows(centros_list) %>%
 
 # Save data ###################################################################
 
-export(candidatos_df, here("data/clean/candidatos_presidente.csv"))
-export(partidos_df, here("data/clean/partidos_presidente.csv"))
-export(provincias_df, here("data/clean/provincias.csv"))
-export(distritos_df, here("data/clean/distritos.csv"))
-export(corregimientos_df, here("data/clean/corregimientos.csv"))
-export(centros_df, here("data/clean/centros.csv"))
+export(candidatos_df, here("data/raw/candidatos_presidente.csv"))
+export(partidos_df, here("data/raw/partidos_presidente.csv"))
+export(provincias_df, here("data/raw/provincias.csv"))
+export(distritos_df, here("data/raw/distritos.csv"))
+export(corregimientos_df, here("data/raw/corregimientos.csv"))
+export(centros_df, here("data/raw/centros.csv"))

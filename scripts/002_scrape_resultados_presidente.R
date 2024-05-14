@@ -11,7 +11,7 @@ library(here)
 
 # Load list of centros ########################################################
 
-centros_df <- import(here("data/clean/centros.csv"))
+centros_df <- import(here("data/raw/centros.csv"))
 
 # Codigos de provincias, distritos, corregimientos y centros ##################
 
@@ -151,4 +151,4 @@ resultados_totales_df$time_scraped <- date_now("US/Eastern")
 
 # Save data ###################################################################
 
-export(resultados_totales_df, here("data/clean/resultados_totales.csv"))
+export(resultados_totales_df, here("data/raw/resultados_totales.csv"))
